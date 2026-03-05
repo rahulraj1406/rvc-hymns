@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "slug": "khandana-bhava-bandhana",
+        "number": 1,
+        "title": "Khandana-Bhava-Bandhana",
+        "firstLine": "Khandana-bhava-bandhana, jaga-vandana, vandi tomay",
+        "category": "general",
+        "lyrics": {
+            "sa": "Khandana-bhava-bandhana, jaga-vandana, vandi tomay,\nniranjana nara-rupa-dhara nirguna gunamay,\nmochana-agha-dushana, jaga-bhushana, chid-ghana kay,\nJnan-anjana vimala-nayana vikshane moha-jai.\n\nBhasvara bhava sagara, chira-unmada, prema-pathar,\nBhaktarjana yugala-charana tarana bhava-par.\n\nJrimbhita yuga ishvara, jagad-ishvara, yoga-sahay,\nniro-dhana samahita-mana, nirakhi tava-kripay.\n\nBhan-jana dukha-ganjana, karuna-ghana. karma-kathor,\nPranarpana jagata-tarana, krintana-kali-dor.\n\nVanchana-kama-kanchana, ati-nindita, indriya-rag,\ntyagishvara he nara-vara, deho pade anurag.\n\nnirbhaya gata-samshaya, dridha-nishchaya, manasa-van,\nnishkarana-bhakata-sharana, tyaji-jati-kula-man.\n\nsampada tava Sri pada, bhava-goshpada vari-yathay,\nPremarpana sama-darashana, jaga-jana-dukha-jay."
+        },
+        "translation": {
+            "en": "Breaker of this world's chain,\nWe adore Thee, Whom all men love;\nSpotless, taking man's form,\nO Purifier, Thou art above the Gunas three,\nKnowledge Divine, not flesh;\nThou whom the Cosmos wears,\nA diamond at its heart.\n\nLet us look deep in Thine eyes,\nThey are bright with the wisdom of God\nThat can wake us from Maya's spell,\nLet us hold fast to Thy feet\nTreading the waves of the world\nTo safety. O drunk with love,\nGod-drunken Lover, in Thee\nAll paths of all yogas meet."
+        }
+    },
+    {
+        "id": 2,
+        "slug": "om-hrim-ritam-tvam-achalo",
+        "number": 2,
+        "title": "Om Hrim Ritam Tvam-Achalo",
+        "firstLine": "Om hrim ritam tvam-achalo, gunajit, gunedyah",
+        "category": "general",
+        "lyrics": {
+            "sa": "Om hrim ritam tvam-achalo, gunajit, gunedyah\nNaktam-divam, sakarunam, tava pada-padmam;\nMohan-kasham, bahu-kritam, na bhaje yato'ham\nTasmat tvam-eva sharanam, mama dina-bandho.\n\nBhaktir bhagas-cha bhajanam, bhava-bheda-kari\nGach-chantyalam, suvipulam, gamanaya tattvam;\nVak-trod-dhritopi hridi me, nacha bhati kinchit\nTasmat tvam-eva sharanam, mama dina-bandho.\n\nTejas-taranti tarasa, tvayi tripta-trishna,\nRage krite, rita-pathe, tvayi Ramakrishne;\nMartyam-ritam, tava padam, maranormi-nasham\nTasmat tvam-eva sharanam, mama dina-bandho."
+        },
+        "translation": {
+            "en": "You are to be adored, You are Truth unchanging,\nYou are Lord of the Gunas.\nIn my weakness I have neglected,\nO Remover of delusion,\nto worship You, earnestly and unceasingly;\nTherefore I claim refuge in You, O Friend of the Lowly.\n\nThis chimera called life can be dispelled by Love, Adoration and Understanding;\nThese three bring us quickly to our goal: the Truth of Brahman.\nTherefore I claim refuge in You, O Friend of the Lowly."
+        }
+    },
+    {
+        "id": 3,
+        "slug": "om-sarvamangala-mangalye",
+        "number": 3,
+        "title": "Om Sarvamangala Mangalye",
+        "firstLine": "Om sarvamangala mangalye shive sarvarthasadhike",
+        "category": "general",
+        "lyrics": {
+            "sa": "Om sarvamangala mangalye shive sarvarthasadhike,\nSharanye tryambake Gauri Narayani namo'stu te.\n\nSrishti sthiti vinashanam shaktibhute sanatani,\nGunashraye Gunamaye Narayani namo'stu te.\n\nSharanagata dinarta paritrana parayane,\nSarvasyartihare Devi Narayani namo'stu te.\n\nJaya Narayani namo'stu te,\nJaya Narayani namo'stu te."
+        },
+        "translation": {
+            "en": "To You, the source of all auspiciousness,\nO Mother Divine, we offer our salutations.\n\nTo You who are eternal, and whose power\nCreates, sustains and destroys the universe,\nWe offer our salutations.\n\nO Mother, You are the Saviour of the dejected\nAnd depressed; we take refuge in You.\nVictory to the Divine Mother!"
+        }
+    }
+]

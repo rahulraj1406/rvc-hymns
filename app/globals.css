@@ -24,3 +24,19 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
+@import "tailwindcss";
+
+:root {
+  --saffron: #FF6B00;
+  --cream: #FFF8F0;
+  --deeporange: #CC4400;
+}
+
+body {
+  background-color: #FFF8F0;
+  color: #1a1a1a;
+  font-family: Georgia, serif;
+}

@@ -86,6 +86,7 @@ export default function Home() {
           >
             Visit our main website ↗
           </a>
+          <p className="text-gray-500 text-sm mt-2">Copyright © Ramakrishna Vedanta Centre, Dublin, Ireland</p>
         </div>
       </div>
     </div>

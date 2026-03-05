@@ -2,6 +2,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import HymnCard from "../../components/HymnCard";
 import SearchBar from "../../components/SearchBar";
 import hymns from "../../data/hymns.json";
@@ -19,6 +20,13 @@ export default function HymnsPage() {
 
     return (
         <div className="max-w-5xl mx-auto px-4 py-10">
+
+            <Link
+                href="/"
+                className="inline-flex items-center text-[#FF6B00] text-sm mb-6 hover:text-[#CC4400] transition-colors"
+            >
+                ← Back to Home
+            </Link>
 
             <div className="mb-8">
                 <h1 className="text-3xl font-bold text-gray-800 mb-1">All Hymns</h1>

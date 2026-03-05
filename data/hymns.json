@@ -73,5 +73,69 @@
         "translation": {
             "en": ""
         }
+    },
+    {
+        "id": 83,
+        "slug": "tumi-brahma-ramakrishna",
+        "number": 83,
+        "title": "Tumi Brahma Ramakrishna",
+        "firstLine": "Tumi Brahma Ramakrishna tumi Krishna tumi Ram",
+        "category": "general",
+        "lyrics": {
+            "en": "Tumi Brahma Ramakrishna tumi Krishna tumi Ram.\nTumi Vishnu tumi Jishnu prabhavishnu pranaram.\nTumi adheya-adhar, tumi Brahma nirakar\nTumi nara-rupadhar, vijita-kanaka-kam.\nApara-karuna-sindhu Tumi deva Dinabandhu,\nYache indu kripabindu charane kori pranam.",
+            "hi": "",
+            "ka": ""
+        },
+        "translation": {
+            "en": ""
+        }
+    },
+    {
+        "id": 90,
+        "slug": "ramakrishna-sharanam",
+        "number": 90,
+        "title": "Ramakrishna Sharanam",
+        "firstLine": "Ramakrishna sharanam Ramakrishna sharanam Ramakrishna sharanam sharanye",
+        "category": "general",
+        "lyrics": {
+            "en": "Ramakrishna sharanam Ramakrishna sharanam Ramakrishna sharanam sharanye\nKripahi kevalam Kripahi kevalam Kripahi kevalam sharanye\n\nSharanagatoham sharanagatoham Sharanagatoham sharanye\n\nNamah-Sri gurave nama-Sri gurave\nNama-Sri gurave namo nama\n\nRamakrishna Ramakrishna Jaya jaya Ramakrishna\nRamakrishna Ramakrishna Jaya jaya Ramakrishna\nRamakrishna Ramakrishna Jaya jaya Ramakrishna",
+            "hi": "",
+            "ka": ""
+        },
+        "translation": {
+            "en": ""
+        }
+    },
+    {
+        "id": 78,
+        "slug": "bhava-bhaya-bhanjana",
+        "number": 78,
+        "title": "Bhava Bhaya Bhanjana",
+        "firstLine": "Bhava bhaya bhanjana purusha niranjana ratipati ganjana kari",
+        "category": "general",
+        "lyrics": {
+            "en": "1. Bhava bhaya bhanjana purusha niranjana ratipati ganjana kari\nYatijana ranjana manomada khandana jaya bhava bandhana hari.\n\n2. Jaya jana palaka suradala nayaka jaya jaya vishva vidhata\nChira subha sadhaka matimala pavaka jaya chitta samsaya trata.\n\n3. Suranara vandana vijara vibandhana chitamana nandana kari\nRipuchaya manthana jaya bhava tarana sthalajala bhudhara dhari.\n\n4. Sama dama mandana abhaya nik tana jaya jaya mangala data\nJaya sukha sagara natavara nagara jaya sharanagata pata.\n\n5. Bhrama-tama bhaskara jaya param svara sukhakara sundara bhashi\nAchala sanatana jaya bhava pavana jaya vijayi avinasi.\n\n6. Bhakata vimohana varatanu dharana jaya Hari kirtana bhala\nGada gada bhashana chitamana toshana dhala dhala nartana lila.\n\n7. Mati gati vardhana kalibala mardana vishaya viraga prasari\nJadachita chetaka bhava jala bhedaka jaya nara manasa chari.\n\n8. Jaya purushottama anupama samyama jaya jaya antarayami\nKharatara sadhana nara dukha varana jaya Ramakrishna namami (Repeat)",
+            "hi": "",
+            "ka": ""
+        },
+        "translation": {
+            "en": ""
+        }
+    },
+    {
+        "id": 8,
+        "slug": "om-jaya-jagadisha-hare",
+        "number": 8,
+        "title": "Om Jaya Jagadisha Hare",
+        "firstLine": "Om jaya jagadisha hare",
+        "category": "general",
+        "lyrics": {
+            "en": "Om jaya jagadisha hare\nSwami jaya jagadisha hare\nBhakta jano ke sankat\nDasa jano ke sankat\nKshana mein door kare\nOm jaya jagadisha hare ॥1॥\n\nJo dhyave phala pave\nDukha binase mana ka\nSwami dukha binase mana ka\nSukha sammati ghara ave\nSukha sammati ghara ave\nKashta mite tana ka\nOm jaya jagadisha hare ॥2॥\n\nMata pita tuma mere\nSharana gahum main kisaki\nSwami sharana gahum main kisaki\nTuma bina aura na duja\nTuma bina aura na duja\nAsa karum main jisaki\nOm jaya jagadisha hare ॥3॥\n\nTuma purana paramatma\nTuma antaryami\nSwami tuma antaryami\nParabrahma parameshvara\nParabrahma parameshvara\nTuma saba ke swami\nOm jaya jagadisha hare ॥4॥\n\nTuma karuna ke sagara\nTuma palanakarta\nSwami tuma palanakarta\nMain murakha khala kami\nMain sevaka tuma swami\nKripa karo bhartara\nOm jaya jagadisha hare ॥5॥\n\nTuma ho eka agochara\nSabake pranapati\nSwami sabake pranapati\nKisa vidha milum dayamaya\nKisa vidha milum dayamaya\nTumako main kumati\nOm jaya jagadisha hare ॥6॥\n\nDinabandhu dukhaharta\nThakura tuma mere\nSwami tuma mere\nApane hatha uthavo\nApani sharana lagavo\nDvara pada tere\nOm jaya jagadisha hare ॥7॥\n\nVishaya vikara mitavo\nPapa haro deva\nSwami papa haro deva\nShraddha bhakti badhavo\nShraddha bhakti badhavo\nSantana ki seva\nOm jaya jagadisha hare ॥8॥",
+            "hi": "",
+            "ka": ""
+        },
+        "translation": {
+            "en": ""
+        }
     }
 ]

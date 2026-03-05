@@ -3,14 +3,17 @@
         "id": 1,
         "slug": "khandana-bhava-bandhana",
         "number": 1,
-        "title": "Khandana-Bhava-Bandhana",
+        "title": "Khandana Bhava Bandhana",
         "firstLine": "Khandana-bhava-bandhana, jaga-vandana, vandi tomay",
         "category": "general",
         "lyrics": {
-            "sa": "Khandana-bhava-bandhana, jaga-vandana, vandi tomay,\nniranjana nara-rupa-dhara nirguna gunamay,\nmochana-agha-dushana, jaga-bhushana, chid-ghana kay,\nJnan-anjana vimala-nayana vikshane moha-jai.\n\nBhasvara bhava sagara, chira-unmada, prema-pathar,\nBhaktarjana yugala-charana tarana bhava-par.\n\nJrimbhita yuga ishvara, jagad-ishvara, yoga-sahay,\nniro-dhana samahita-mana, nirakhi tava-kripay.\n\nBhan-jana dukha-ganjana, karuna-ghana. karma-kathor,\nPranarpana jagata-tarana, krintana-kali-dor.\n\nVanchana-kama-kanchana, ati-nindita, indriya-rag,\ntyagishvara he nara-vara, deho pade anurag.\n\nnirbhaya gata-samshaya, dridha-nishchaya, manasa-van,\nnishkarana-bhakata-sharana, tyaji-jati-kula-man.\n\nsampada tava Sri pada, bhava-goshpada vari-yathay,\nPremarpana sama-darashana, jaga-jana-dukha-jay."
+            "en": "Khandana-bhava-bandhana, jaga-vandana, vandi tomay, niranjana nara-rupa-dhara nirguna gunamay,\nmochana-agha-dushana, jaga-bhushana, chid-ghana kay, jnan-anjana vimala-nayana vikshane moha-jai.\nBhasvara bhava sagara, chira-unmada, prema-pathar, bhaktarjana yugala-charana tarana bhava-par.\nJrimbhita yuga ishvara, jagad-ishvara, yoga-sahay, nirodhana samahita-mana nirakhi tava-kripay.\nBhanjana dukha-ganjana, karuna-ghana, karma-kathor, pranarpana jagata-tarana krintana-kali-dor.\nVanchana-kama-kanchana ati-nindita indriya-rag, tyagishvara he nara-vara deho pade anurag.\nNirbhaya gata-samshaya dridha-nishchaya manasa-van, nishkarana-bhakata-sharana tyaji-jati-kula-man.\nSampada tava Sri-pada bhava-goshpada vari-yathay, premarpana sama-darashana jaga-jana-dukha-jay.\nNamo namo prabhu vakya manatita mano vachanai-kadhar, jyotira-jyoti ujvala hridi kandara tumi tamo-bhanjana-har.\nDhe dhe dhe langa ranga bhanga baje anga sanga mridanga, gayiche chanda bhakata-brinda arati tomar.\nJaya jaya arati tomar, hara hara arati tomar, shiva shiva arati tomar.\nKhandana-bhava-bandhana jaga-vandana vandi tomay.\nJai Sri Guru Maharaj ji ki jai!",
+            "hi": "खण्डन भव बन्धन जग वन्दन वन्दि तोमाय।\nनिरञ्जन नर-रूप-धर निर्गुण गुणमय॥\nमोचन अघदूषण जगभूषण चिद्घनकाय।\nज्ञानाञ्जन-विमल-नयन वीक्षणे मोह जाय॥\nभास्वर भाव-सागर चिर-उन्मद प्रेम-पाथार।\nभक्तार्जन-युगल चरण तारण-भव-पार॥\nजृम्भित-युग-ईश्वर जगदीश्वर योगसहाय।\nनिरोधन समाहितमन निरखि तव कृपाय॥\nभञ्जन-दुःखगञ्जन करुणाघन कर्म-कठोर।\nप्राणार्पण जगत-तारण कृन्तन-कलिडोर॥\nवञ्चन-कामकाञ्चन अतिनिन्दित-इन्द्रियराग।\nत्यागीश्वर हे नरवर देहपदे अनुराग॥\nनिर्भय गतसंशय दृढ़निश्चय-मानसवान।\nनिष्कारण-भकत-शरण त्यजि जाति-कुल-मान॥\nसम्पद तव श्रीपद भव-गोष्पद-वारि यथाय।\nप्रेमार्पण समदरशन जगजन-दुःख जाय॥\nनमो नमो प्रभु वाक्य-मनातीत मनोवचनैकाधार।\nज्योतिर ज्योति उजल-हृदिकन्दर तुमि तमो-भञ्जन हार॥\nधे धे धे लङ्ग रङ्ग भङ्ग बाजे अङ्ग सङ्ग मृदङ्ग\nगाहिछे छन्द भकतवृन्द आरति तोमार॥\nजय जय आरति तोमार हर हर आरति तोमार\nशिव शिव आरति तोमार॥\nखण्डन भव बन्धन जग वन्दन वन्दि तोमाय॥\nजय श्रीगुरुमहाराज्जि कि जय॥",
+            "ka": "ಖಂಡನ ಭವ-ಬಂಧನ, ಜಗ-ವಂದನ, ವಂದಿ ತೋಮಾಯ್ |\nನಿರಂಜನ, ನರ-ರೂಪ-ಧರ, ನಿರ್ಗುಣ ಗುಣಮಯ್ ||\n\nಮೋಚನ ಆಘದೂಷಣ, ಜಗಭೂಷಣ, ಚಿದ್ಘನಕಾಯ್ |\nಜ್ಞಾನಾಂಜನ-ವಿಮಲ-ನಯನ ವೀಕ್ಷಣೇ ಮೋಹ ಜಾಯ್ ||\n\nಭಾಸ್ವರ ಭಾವ –ಸಾಗರ ಚಿರ-ಉನ್ಮದ-ಪ್ರೇಮ-ಪಾಥಾರ್ |\nಭಕ್ತಾರ್ಜನ-ಯುಗಲ-ಚರಣ, ತಾರಣ-ಭವ-ಪಾರ್ ||\n\nಜೃಂಭಿತ –ಯುಗ-ಈಶ್ವರ, ಜಗದೀಶ್ವರ, ಯೋಗಸಹಾಯ್ |\nನಿರೋಧನ, ಸಮಾಹಿತ ಮನ, ನಿರಖಿ ತವ ಕೃಪಾಯ್ ||\n\nಭಂಜನ-ದುಃಖಗಂಜನ ಕರುಣಾಘನ ಕರ್ಮಕಠೋರ್ |\nಪ್ರಾಣಾರ್ಪಣ-ಜಗತ-ತಾರಣ, ಕೃಂತನ ಕಲಿಡೋರ್ ||\n\nವಂಚನ-ಕಾಮ-ಕಾಂಚನ, ಅತಿನಿಂದಿತ-ಇಂದ್ರಿಯರಾಗ್ |\nತ್ಯಾಗೀಶ್ವರ, ಹೇ ನರವರ, ದೇಹೊ ಪದೇ ಅನುರಾಗ್ ||\n\nನಿರ್ಭಯ, ಗತಸಂಶಯ, ದೃಢನಿಶ್ಚಯ-ಮಾನಸವಾನ್ |\nನಿಷ್ಕಾರಣ-ಭಕತ-ಶರಣ, ತ್ಯಜಿ ಜಾತಿ-ಕುಲ-ಮಾನ್ ||\n\nಸಂಪದ ತವ ಶ್ರೀಪದ, ಭವ-ಗೋಷ್ಪದ–ವಾರಿ ಯಥಾಯ್ |\nಪ್ರೇಮಾರ್ಪಣ, ಸಮದರಶನ, ಜಗಜನ-ದುಃಖ ಜಾಯ್ ||\n\nನಮೋ ನಮೋ ಪ್ರಭು, ವಾಕ್ಯಮನಾತೀತ ಮನೋವಚನೈಕಾಧಾರ್ |\nಜ್ಯೋತಿರ ಜ್ಯೋತಿ ಉಜಲ ಹೃದಿಕಂದರ ತುಮಿ ತಮೋಭಂಜನಹಾರ್ ||\n\nಧೇ ಧೇ ಧೇ ಲಂಗ ರಂಗ ಭಂಗ ಬಾಜೇ ಅಂಗ ಸಂಗ ಮೃದಂಗ |\nಗಾಯಿಛೇ ಛಂದ ಭಕತವೃಂದ, ಆರತಿ ತೋಮಾರ್\nಜಯ ಜಯ ಆರತಿ ತೋಮಾರ್ |\nಹರ ಹರ ಆರತಿ ತೋಮಾರ್ |\nಶಿವ ಶಿವ ಆರತಿ ತೋಮಾರ್ ||",
+            "bn": "খণ্ডন ভব বন্ধন জগবন্দন বন্দি তোমায়।\nনিরঞ্জন নররূপধর নির্গুণ গুণময়॥\nমোচন অঘদূষণ জগভূষণ চিদ্ঘনকায়।\nজ্ঞানাঞ্জন বিমল নয়ন বীক্ষণে মোহ যায়॥\nভাস্বর ভাবসাগর চিরউন্মদ প্রেমপাথার।\nভক্তার্জন যুগলচরণ তারণ ভবপার॥\nজৃম্ভিত যুগঈশ্বর জগদীশ্বর যোগসহায়।\nনিরোধন সমাহিতমন নিরখি তব কৃপায়॥\nভঞ্জন দুঃখগঞ্জন করুণাঘন কর্মকঠোর।\nপ্রাণার্পণ জগততারণ কৃন্তন কলিডোর॥\nবঞ্চন কামকাঞ্চন অতিনিন্দিত ইন্দ্রিয়রাগ।\nত্যাগীশ্বর হে নরবর দেহপদে অনুরাগ॥\nনির্ভয় গতসংশয় দৃঢ়নিশ্চয় মানসবান।\nনিষ্কারণ ভক্তশরণ ত্যজি জাতিকুলমান॥\nসম্পদ তব শ্রীপদ ভবগোষ্পদবারি যথায়।\nপ্রেমার্পণ সমদর্শন জগজনদুঃখ যায়॥\nনমো নমো প্রভু বাক্য মনাতীত মনবচনৈকাধার।\nজ্যোতির জ্যোতি উজল হৃদিকন্দর তুমি তমোভঞ্জনহার॥\nধে ধে ধে লঙ্গ রঙ্গ ভঙ্গ বাজে অঙ্গ সঙ্গ মৃদঙ্গ,\nগাহিছে ছন্দ ভক্তবৃন্দ আরতি তোমার॥\nজয় জয় আরতি তোমার, হর হর আরতি তোমার,\nশিব শিব আরতি তোমার॥\nখণ্ডন ভব বন্ধন জগবন্দন বন্দি তোমায়।\nজয় শ্রী গুরু মহারাজজি কি জয়॥"
         },
         "translation": {
-            "en": "Breaker of this world's chain,\nWe adore Thee, Whom all men love;\nSpotless, taking man's form,\nO Purifier, Thou art above the Gunas three,\nKnowledge Divine, not flesh;\nThou whom the Cosmos wears,\nA diamond at its heart.\n\nLet us look deep in Thine eyes,\nThey are bright with the wisdom of God\nThat can wake us from Maya's spell,\nLet us hold fast to Thy feet\nTreading the waves of the world\nTo safety. O drunk with love,\nGod-drunken Lover, in Thee\nAll paths of all yogas meet."
+            "en": "Breaker of this world's chain, we adore Thee whom all men love, spotless, taking man's form. Thou art above the gunas, knowledge divine, whom the cosmos wears like a jewel at its heart. Looking into Thine eyes filled with wisdom, we awaken from Maya. Holding to Thy feet we cross the ocean of the world. O God-intoxicated lover, in Thee all yogas meet. Thou art refuge of those who renounce the world and seek truth. Speech and mind cannot grasp Thee, yet without Thee we cannot think or speak. O Light of lights, enter the heart’s cave and destroy darkness."
         }
     },
     {
@@ -39,6 +42,36 @@
         },
         "translation": {
             "en": "To You, the source of all auspiciousness,\nO Mother Divine, we offer our salutations.\n\nTo You who are eternal, and whose power\nCreates, sustains and destroys the universe,\nWe offer our salutations.\n\nO Mother, You are the Saviour of the dejected\nAnd depressed; we take refuge in You.\nVictory to the Divine Mother!"
+        }
+    },
+    {
+        "id": 4,
+        "slug": "prakritim-paramam-abhayam",
+        "number": 4,
+        "title": "Prakritim Paramam Abhayam",
+        "firstLine": "Prakritim paramam abhayam varadam",
+        "category": "general",
+        "lyrics": {
+            "en": "Prakritim paramam abhayam varadam nararupa-dharam janatapa-haram.\nSharana-gata sevaka-toshakarim pranamami param jananim jagatam.\nGunahina-sutanaparadha-yutan kripayadya samuddhara moha-gatan.\nTaranim bhava-sagara parakarim pranamami param jananim jagatam.\nVishayam kusumam parihritya sada charanam buruhamrita shanti-sudham.\nPiba bhringa-mano bhavaroga-haram pranamami param jananim jagatam.\nKripam kuru mahadevi suteshu pranateshu cha charana-shraya danena kripa-mayi namo'stu te.\nLajja-patavrite nityam Sarade jnana-dayike papebhyo nah sada raksha kripa-mayi namo'stu te.\nJananim Saradam devim Ramakrishnam jagadgurum padapadme tayoh shritva pranamami muhurmuhuh.",
+            "sa": ""
+        },
+        "translation": {
+            "en": ""
+        }
+    },
+    {
+        "id": 5,
+        "slug": "prata-smarami-hridi",
+        "number": 5,
+        "title": "Prata Smarami Hridi",
+        "firstLine": "Prata smarami hridi samsphurida-tma-tattvam",
+        "category": "general",
+        "lyrics": {
+            "en": "Prata smarami hridi samsphurida-tma-tattvam sat-chit-sukham paramahamsa-gatim turiyam.\nYat svapna-jagara-sushuptam avaiti nityam tad brahma nishkalam aham na cha bhuta-sanghah.\nPratar bhajami manaso vachasam agamyam vacho vibhanti nikhila yad-anugrahena.\nYanneti neti vachanaih nigamah avochuh tam deva-devam ajam achyutam ahur-agryam.\nPratar namami tamasah param arka-varnam purnam sanatana-padam purushottam-akhyam.\nYasmin idam jagad-ashesam ashesa-murtau rajvam bhujangama iva pratibhasitam vai.",
+            "sa": ""
+        },
+        "translation": {
+            "en": ""
         }
     }
 ]

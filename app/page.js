@@ -10,7 +10,14 @@ export default function Home() {
       {/* Hero Section */}
       <div className="bg-gradient-to-b from-orange-50 to-[#FFF8F0] py-16 px-4">
         <div className="max-w-3xl mx-auto text-center">
-          <div className="text-6xl mb-4">ॐ</div>
+          {/*<div className="text-6xl mb-4">ॐ</div>*/}
+          <div className="mb-6">
+            <img
+              src="Main-Logo.png"
+              alt="Ramakrishna Vedanta Centre Dublin"
+              className="mx-auto w-25 h-25 object-contain"
+            />
+          </div>
 
           <h1 className="text-4xl md:text-5xl font-bold text-[#FF6B00] mb-3">
             Devotional Hymn Book

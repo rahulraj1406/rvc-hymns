@@ -42,10 +42,9 @@ IMPORTANT: step by step:
 - What files were created/modified
 - What to run in terminal if anything
 - Ask me to confirm before moving to next step
-
-=============================================================
+================
 PROJECT OVERVIEW
-=============================================================
+======================
 
 App Name: rvc-hymns
 Purpose: A public hymn book website with 30 devotional hymns

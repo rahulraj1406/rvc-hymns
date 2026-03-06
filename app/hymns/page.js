@@ -17,22 +17,25 @@ export default function HymnsPage() {
         { id: "all", label: "All Hymns" },
         { id: "aarathikam", label: "Aarathikam" },
         { id: "ramakrishna", label: "Ramakrishna" },
-        { id: "sharada devi", label: "Sharada Devi" },
+        { id: "sharada", label: "Sharada Devi" },
         { id: "vivekananda", label: "Vivekananda" },
         { id: "rama", label: "Rama" },
+        { id: "krishna", label: "Krishna" },
         { id: "shiva", label: "Shiva" },
-        { id: "durga", label: "Durga" },
+        { id: "devi", label: "Devi" },
         { id: "general", label: "General" }
     ];
 
     let filtered = hymns.filter((hymn) => {
         const query = search.toLowerCase();
         const matchesSearch =
+            hymn.number?.toString().includes(query) ||
             hymn.title.toLowerCase().includes(query) ||
             hymn.firstLine.toLowerCase().includes(query);
 
-        const hymnCat = hymn.category ? hymn.category.toLowerCase() : "";
-        const matchesCategory = category === "all" || hymnCat === category;
+        const hymnCats = hymn.category || [];
+        const matchesCategory =
+            category === "all" || hymnCats.includes(category);
 
         return matchesSearch && matchesCategory;
     });

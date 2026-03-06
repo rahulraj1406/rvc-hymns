@@ -5,7 +5,10 @@
         "number": 1,
         "title": "Khandana Bhava Bandhana",
         "firstLine": "Khandana-bhava-bandhana, jaga-vandana, vandi tomay",
-        "category": "aarathikam",
+        "category": [
+            "aarathikam",
+            "ramakrishna"
+        ],
         "lyrics": {
             "en": "Khandana-bhava-bandhana, jaga-vandana, vandi tomay, niranjana nara-rupa-dhara nirguna gunamay,\nmochana-agha-dushana, jaga-bhushana, chid-ghana kay, jnan-anjana vimala-nayana vikshane moha-jai.\nBhasvara bhava sagara, chira-unmada, prema-pathar, bhaktarjana yugala-charana tarana bhava-par.\nJrimbhita yuga ishvara, jagad-ishvara, yoga-sahay, nirodhana samahita-mana nirakhi tava-kripay.\nBhanjana dukha-ganjana, karuna-ghana, karma-kathor, pranarpana jagata-tarana krintana-kali-dor.\nVanchana-kama-kanchana ati-nindita indriya-rag, tyagishvara he nara-vara deho pade anurag.\nNirbhaya gata-samshaya dridha-nishchaya manasa-van, nishkarana-bhakata-sharana tyaji-jati-kula-man.\nSampada tava Sri-pada bhava-goshpada vari-yathay, premarpana sama-darashana jaga-jana-dukha-jay.\nNamo namo prabhu vakya manatita mano vachanai-kadhar, jyotira-jyoti ujvala hridi kandara tumi tamo-bhanjana-har.\nDhe dhe dhe langa ranga bhanga baje anga sanga mridanga, gayiche chanda bhakata-brinda arati tomar.\nJaya jaya arati tomar, hara hara arati tomar, shiva shiva arati tomar.\nKhandana-bhava-bandhana jaga-vandana vandi tomay.\nJai Sri Guru Maharaj ji ki jai!",
             "hi": "खण्डन भव बन्धन जग वन्दन वन्दि तोमाय।\nनिरञ्जन नर-रूप-धर निर्गुण गुणमय॥\nमोचन अघदूषण जगभूषण चिद्घनकाय।\nज्ञानाञ्जन-विमल-नयन वीक्षणे मोह जाय॥\nभास्वर भाव-सागर चिर-उन्मद प्रेम-पाथार।\nभक्तार्जन-युगल चरण तारण-भव-पार॥\nजृम्भित-युग-ईश्वर जगदीश्वर योगसहाय।\nनिरोधन समाहितमन निरखि तव कृपाय॥\nभञ्जन-दुःखगञ्जन करुणाघन कर्म-कठोर।\nप्राणार्पण जगत-तारण कृन्तन-कलिडोर॥\nवञ्चन-कामकाञ्चन अतिनिन्दित-इन्द्रियराग।\nत्यागीश्वर हे नरवर देहपदे अनुराग॥\nनिर्भय गतसंशय दृढ़निश्चय-मानसवान।\nनिष्कारण-भकत-शरण त्यजि जाति-कुल-मान॥\nसम्पद तव श्रीपद भव-गोष्पद-वारि यथाय।\nप्रेमार्पण समदरशन जगजन-दुःख जाय॥\nनमो नमो प्रभु वाक्य-मनातीत मनोवचनैकाधार।\nज्योतिर ज्योति उजल-हृदिकन्दर तुमि तमो-भञ्जन हार॥\nधे धे धे लङ्ग रङ्ग भङ्ग बाजे अङ्ग सङ्ग मृदङ्ग\nगाहिछे छन्द भकतवृन्द आरति तोमार॥\nजय जय आरति तोमार हर हर आरति तोमार\nशिव शिव आरति तोमार॥\nखण्डन भव बन्धन जग वन्दन वन्दि तोमाय॥\nजय श्रीगुरुमहाराज्जि कि जय॥",
@@ -39,7 +42,10 @@
         "number": 3,
         "title": "Om Sarvamangala Mangalye",
         "firstLine": "Om sarvamangala mangalye shive sarvarthasadhike",
-        "category": "aarathikam",
+        "category": [
+            "aarathikam",
+            "general"
+        ],
         "lyrics": {
             "en": "Om sarvamangala mangalye shive sarvarthasadhike,\nSharanye tryambake Gauri Narayani namo'stu te.\n\nSrishti sthiti vinashanam shaktibhute sanatani,\nGunashraye gunamaye Narayani namo'stu te.\n\nSharanagata dinarta paritrana parayane,\nSarvasyartihare Devi Narayani namo'stu te.\n\nJaya Narayani namo'stu te,\nJaya Narayani namo'stu te,\nJaya Narayani namo'stu te,\nJaya Narayani namo'stu te.\n\nJai Shri Guru Maharaj ji ki jai!\nJai Mahamayi ki jai!\nJai Swamiji Maharaj ji ki jai!",
             "hi": "ओं सर्वमंगल मंगल्ये शिवे सर्वार्थसाधिके,\nशरण्ये त्र्यम्बके गौरी नारायणी नमोऽस्तु ते।\n\nसृष्टि स्थिति विनाशनं शक्तिभूते सनातनी,\nगुणाश्रये गुणमये नारायणी नमोऽस्तु ते।\n\nशरणागत दिनार्त परित्राण परायणे,\nसर्वस्यार्थिहरे देवी नारायणी नमोऽस्तु ते।\n\nजय नारायणी नमोऽस्तु ते,\nजय नारायणी नमोऽस्तु ते,\nजय नारायणी नमोऽस्तु ते,\nजय नारायणी नमोऽस्तु ते।\n\nजय श्री गुरु महाराज जी की जय!\nजय महामायि की जय!\nजय स्वामीजी महाराज जी की जय!",
@@ -56,11 +62,14 @@
         "number": 4,
         "title": "Prakritim Paramam Abhayam",
         "firstLine": "Prakritim paramam abhayam varadam",
-        "category": "aarathikam",
+        "category": [
+            "aarathikam",
+            "sarada"
+        ],
         "lyrics": {
             "en": "Prakritim paramam abhayam varadam, nararupa-dharam janatapa-haram\nSharana-gata sevaka-toshakarim, pranamami param jananim jagatam.\n\nGunahina-sutanaparadha-yutan, kripayadya samuddhara moha-gatan\nTaranim bhava-sagara parakarim, pranamami param jananim jagatam.\n\nVishayam kusumam parihritya sada,\nCharanam buruhamrita shanti-sudham\nPiba bhringa-mano bhavaroga-haram,\nPranamami param jananim jagatam.\n\nKripam kuru mahadevi suteshu pranateshu cha\nCharana-shraya danena kripa-mayi namo'stu te.\n\nLajja-patavrite nityam sarade jnana-dayike\nPapebhyo nah sada raksha kripa-mayi namo'stu te.\n\nRamakrishna-gata pranam tannama-shravana-priyam\nTadbhava-ranjita-karam pranamami muhurmuhuh.\n\nPavitram charitam yasyah pavitram jivanam tatha\nPavitrata-svarupinyai tasyai kurmo namo namah.\n\nDevim prasannam pranatarti-hantrim\nYogindra-pujyam yugadharma-patrim\nTam Saradam bhakti-vijnana-datrim\nDaya-svarupam pranamami nityam.\n\nSnehena badhnasi mano'smadiyam\nDoshan-aseshan saguni-karoshi\nAhetuna no dayase sadoshan\nSvamke grihitva yadidam vichitram.\n\nPrasida matar vinayena yache\nNityam bhava snehavati suteshu\nPremaika bindum chiradagdha-chitte\nVishincha chittam kuru nah sushantam.\n\nJananim Saradam devim Ramakrishnam jagadgurum\nPadapadme tayoh shritva pranamami muhurmuhuh.",
             "sa": "",
-            "bn": "প্রকৃতিং পরমামভয়াং বরদাং,\nনররূপধরাং জনতাপহরাম্।\nশরণাগত-সেবক তোষকরীং,\nপ্রণমামি পরাং জননীং জগতাম্॥১\nগুণহীন-সুতানপরাধ-যুতান্,\nকৃপয়াহদ্য সমুদ্ধর মোহগতান্।\nতরণীং ভবসাগর-পারকরীং,\nপ্রণমামি পরাং জননীং জগতাম্॥২\nবিষয়ং কুসুমং পরিহৃত্য সদা,\nচরণাম্বুরুহামৃত-শান্তি-সুধাম্।\nপিব ভৃঙ্গমনো ভবরোগহরাং\nপ্রণমামি পরাং জননীং জগতাম্॥৩\nকৃপাং কুরু মহাদেবি সুতেষু প্রণতেষু চ।\nচরণাশ্রয়দানেন কৃপাময়ি নমোঽস্তু তে ॥৪\nলজ্জাপটাবৃতে নিত্যং সারদে জ্ঞানদায়িকে।\nপাপেভ্যো নঃ সদা রক্ষ কৃপাময়ি নমোঽস্তু তে॥৫\nরামকৃষ্ণগতপ্রাণাং তন্নামশ্রবণপ্রিয়াম্।\nতদ্ভাবরঞ্জিতাকারাং প্রণমামি মুহুর্মুহুঃ॥৬\nপবিত্রং চরিতং যস্যাঃ পবিত্রং জীবনং তথা।\nপবিত্রতাস্বরূপিণ্যৈ তস্যৈ দেব্যৈ নমো নমঃ॥৭\nদেবীং প্রসন্নাং প্রণতার্তিহন্ত্রীং,\nযোগীন্দ্রপূজ্যাং যুগধর্মপাত্রীম্।\nতাং সারদাং ভক্তি-বিজ্ঞান-দাত্রীং,\nদয়াস্বরূপাং প্রণমামি নিত্যম্ ॥৮\nস্নেহেন বধ্নাসি মনোঽম্মদীয়ং,\nদোষানশেষান্ সগুণীকরোষি।\nঅহেতুনা নো দয়সে সদোষান্,\nস্বাঙ্কে গৃহীত্ব যদিদং বিচিত্রম্॥৯\nপ্রসীদ মাতর্বিনয়েন যাচে,\nনিত্যং ভব স্নেহবতী সুতেষু।\nপ্রেমৈকবিন্দুং চিরদগ্ধচিত্তে,\nবিষিঞ্চ চিত্তং কুরু নঃ সুশান্তম্॥১০\nজননীং সারদাং দেবীং রামকৃষ্ণং জগদ্গুরুম্ ।\nপাদপদ্মে তয়োঃ শ্রিত্বা প্রণমামি মুহুর্মুহুঃ॥১১",
+            "bn": "প্রকৃতিং পরমামভয়াং বরদাং,\nনররূপধরাং জনতাপহরাম্।\nশরণাগত-সেবক তোষকরীং,\nপ্রণমামি পরাং জননীং জগতাম্॥১\nগুণহীন-সুতানপরাধ-যুতান্,\nকৃপয়াহদ্য সমুদ্ধর মোহগতান্।\nতরণীং ভবসাগর-পারকরীং,\nপ্রণমামি পরাং জননীং জগতাম্॥২\nবিষয়ং কুসুমং পরিহৃত্য সদা,\nচরণাম্বুরুহামৃত-শান্তি-সুধাম্।\nপিব ভৃঙ্গমনো ভবরোগহরাং\nপ্রণমামি পরাং জননীং জগতাম্॥৩\nকৃপাং কুরু মহাদেবি সুতেষু প্রণতেষু চ।\nচরণাশ্রয়দানেন কৃপাময়ি নমোঽস্তু তে ॥৪\nলজ্জাপটাবৃতে নিত্যং সারদে জ্ঞানদায়িকে।\nপাপেভ্যো নঃ সদা রক্ষ কৃপাময়ি নমোঽস্তু তে॥৫\nরামকৃষ্ণগতপ্রাণাং তন্নামশ্রবণপ্রিয়াম্।\nতদ্ভাবরঞ্জিতাকারাং প্রণমামি মুহুর্মুহুঃ॥৬\nপবিত্রং চরিতং যস্যাঃ পবিত্রং জীবনং তথা।\nপবিত্রতাস্বরূপিণ্যৈ তস্যৈ দেব্যৈ নমো নমঃ॥৭\nদেবীং প্রসন্নাং প্রণতার্তিহন্ত্রীং,\nযোগীন্দ্রপূজ্যাং যুগধর্মপাত্রীম্।\nতাং সারদাং ভক্তি-বিজ্ঞান-দাত্রীং,\nদয়াস্বরূপাং প্রণমামি নিত্যম্ ॥৮\nস্নেহেন বধ্নাসি মনোঽম্মদীয়ং,\nদোষಾನशेषান্ সগুণীকরোষি।\nঅহেতুনা নো দয়সে সদোষান্,\nস্বাঙ্কে গৃহীত্ব যদিদং বিচিত্রম্॥৯\nপ্রসীদ মাতর্বিনয়েন যাচে,\nনিত্যং ভব স্নেহবতী সুতেষু।\nপ্রেমৈকবিন্দুং চিরদগ্ধচিত্তে,\nবিষিঞ্চ চিত্তಂ kuru নঃ সুশান্তম্॥১০\nজননীং সারদাং দেবীং রামকৃষ্ণং জগদ্গুরুম্ ।\nপাদপদ্মে তয়োঃ শ্রিত্বা প্রণমামি মুহুর্মুহুঃ॥১১",
             "ka": "ಪ್ರಕೃತಿಂ ಪರಮಾಮಭಯಾಂ ವರದಾಂ ನರರೂಪಧರಾಂ ಜನತಾಪಹರಾಮ್ |\nಶರಣಾಗತಸೇವಕತೋಷಕರೀಂ ಪ್ರಣಮಾಮಿ ಪರಾಮ್ ಜನನೀಂ ಜಗತಾಮ್ || ೧ ||\nಗುಣಹೀನಸುತಾನಪರಾಧಯುತಾನ್ ಕೃಪಯಾದ್ಯ ಸಮುದ್ಧರ ಮೋಹಗತಾನ್ |\nತರಣೀಂ ಭವಸಾಗರಪಾರಕರೀಂ ಪ್ರಣಮಾಮಿ ಪರಾಮ್ ಜನನೀಂ ಜಗತಾಮ್ || ೨ ||\nವಿಷಯಂ ಕುಸುಮಂ ಪರಿಹೃತ್ಯ ಸದಾ ಚರಣಾಂಬುರುಹಾಮೃತಶಾಂತಿ ಸುಧಾಮ್ |\nಪಿಬ ಭೃಂಗಮನೋ ಭವರೋಗಹರಾಂ ಪ್ರಣಮಾಮಿ ಪರಾಮ್ ಜನನೀಂ ಜಗತಾಮ್ || ೩ ||\nಕೃಪಾಂ ಕುರು ಮಹಾದೇವಿ ಸುತೇಷು ಪ್ರಣತೇಷು ಚ |\nಚರಣಾಶ್ರಯದಾನೇನ ಕೃಪಾಮಯಿ ನಮೋಽಸ್ತು ತೇ || ೪ ||\nಲಜ್ಜಾಪಟಾವೃತೇ ನಿತ್ಯಂ ಶಾರದೇ ಜ್ಞಾನದಾಯಿಕೇ |\nಪಾಪೇಭ್ಯೋ ನಃ ಸದಾ ರಕ್ಷ ಕೃಪಾಮಯಿ ನಮೋಽಸ್ತು ತೇ || ೫ ||\nರಾಮಕೃಷ್ಣಗತಪ್ರಾಣಾಂ ತನ್ನಾಮಶ್ರವಣಪ್ರಿಯಾಮ್ |\nತದ್ಭಾವರಂಜಿತಾಕಾರಾಂ ಪ್ರಣಮಾಮಿ ಮುಹುರ್ಮುಹುಃ || ೬ ||\nಪವಿತ್ರಂ ಚರಿತಂ ಯಸ್ಯಾಃ ಪವಿತ್ರಂ ಜೀವನಂ ತಥಾ |\nಪವಿತ್ರತಾಸ್ವರೂಪಿಣ್ಯೈ ತಸ್ಯೈ ಕುರ್ಮೋ ನಮೋ ನಮಃ || ೭ ||\nದೇವೀಂ ಪ್ರಸನ್ನಾಂ ಪ್ರಣತಾರ್ತಿಹಂತ್ರೀಂ ಯೋಗೀಂದ್ರಪೂಜ್ಯಾಂ ಯುಗಧರ್ಮಪಾತ್ರೀಮ್ |\nತಾಂ ಶಾರದಾಮ್ ಭಕ್ತಿವಿಜ್ಞಾನದಾತ್ರೀಂ ದಯಾಸ್ವರೂಪಾಂ ಪ್ರಣಮಾಮಿ ನಿತ್ಯಮ್ || ೮ ||\nಸ್ನೇಹೇನ ಬಧ್ನಾಸಿ ಮನೋಽಸ್ಮದೀಯಂ ದೋಷಾನಶೇಷಾನ್ ಸಗುಣೀಕರೋಷಿ |\nಅಹೇತುನಾ ನೋ ದಯಸೇ ಸ ದೋಷಾನ್ ಸ್ವಾಂಕೇ ಗೃಹೀತ್ವಾ ಯದಿದಂ ವಿಚಿತ್ರಮ್ || ೯ ||\nಪ್ರಸೀದ ಮಾತರ್ವಿನಯೇನ ಯಾಚೇ ನಿತ್ಯಂ ಭವ ಸ್ನೇಹವತೀ ಸುತೇಷು |\nಪ್ರೈಮಕಬಿಂದುಂ ಚಿರದಗ್ಧಚಿತ್ತೇ ವಿಶಿಂಚ ಚಿತ್ತಂ ಕುರು ನಃ ಸುಶಾಂತಮ್ || ೧೦ ||\nಜನನೀಂ ಶಾರದಾಮ್ ದೇವೀಂ ರಾಮಕೃಷ್ಣಂ ಜಗದ್ಗುರುಮ್ |\nಪಾದಪದ್ಮೇ ತಯೋಃ ಶ್ರಿತ್ವಾ ಪ್ರಣಮಾಮಿ ಮುಹುರ್ಮುಹುಃ || ೧೧ ||",
             "hi": "प्रकृतिं परमामभयां वरदां नररूपधरां जनतापहराम्।\nशरणागतसेवकतोषकरीं प्रणमामि परां जननीं जगताम्॥\nगुणहीनसुतानपराधयुतान् कृपयाद्य समुद्धर मोहगतान्।\nतरणीं भवसागरपारकरीं प्रणमामि परां जननीं जगताम्॥\nविषयं कुसुमं परिहृत्य सदा चरणाम्बुरुहामृतशान्तिसुधाम्।\nपिब भृङ्गमनो भवरोगहरां प्रणमामि परां जननीं जगताम्॥\nकृपां कुरु महादेवि सुतेषु प्रणतेषु च।\nचरणाश्रयदानेन कृपामयि नमोऽस्तु ते॥\nलज्जापटावृते नित्यं सारदे ज्ञानदायिके।\nपापेभ्यो नः सदा रक्ष कृपामयि नमोऽस्तु ते॥\nरामकृष्णगतप्राणां तन्नामश्रवणप्रियाम्।\nतद्भावरञ्जिताकारां प्रणमामि मुहुर्मुहुः॥\nपवित्रं चरितं यस्याः पवित्रं जीवनं तथा।\nपवित्रतास्वरूपिण्यै तस्यै कुर्मो नमो नमः॥\nदेवीं प्रसन्नां प्रणतार्तिहन्त्रीं योगीन्द्रपूज्यां युगधर्मपात्रीम्।\nतां सारदां भक्तिविज्ञानदात्रीं दयास्वरूपां प्रणमामि नित्यम्॥\nस्नेहेन बध्नासि मनोऽस्मदीयं दोषानशेषान् सगुणीकरोषि।\nअहेतुना नो दयसे सदोषान् स्वाङ्के गृहीत्वा यदिदं विचित्रम्॥\nप्रसीद मातर्विनयेन याचे नित्यं भव स्नेहवती सुतेषु।\nप्रेमैकबिन्दुं चिरदग्धचित्ते विषिञ्च चित्तं कुरु नः सुशान्तम्॥\nजननीं सारदां देवीं रामकृष्णं जगद्गुरुम्।\nपादपद्मे तयोः श्रित्वा प्रणमामि मुहुर्मुहुः॥"
         },
@@ -74,7 +83,10 @@
         "number": 5,
         "title": "Prata Smarami Hridi",
         "firstLine": "Prata smarami hridi samsphurida-tma-tattvam",
-        "category": "general",
+        "category": [
+            "general",
+            "sarada"
+        ],
         "lyrics": {
             "en": "Prata smarami hridi samsphurida-tma-tattvam sat-chit-sukham paramahamsa-gatim turiyam.\nYat svapna-jagara-sushuptam avaiti nityam tad brahma nishkalam aham na cha bhuta-sanghah.\nPratar bhajami manaso vachasam agamyam vacho vibhanti nikhila yad-anugrahena.\nYanneti neti vachanaih nigamah avochuh tam deva-devam ajam achyutam ahur-agryam.\nPratar namami tamasah param arka-varnam purnam sanatana-padam purushottam-akhyam.\nYasmin idam jagad-ashesam ashesa-murtau rajvam bhujangama iva pratibhasitam vai.",
             "hi": "प्रातः स्मरामि हृदि संस्पृढात्म-तत्त्वं सत्-चित्-सुखं परमहंस-गमितुरीयम्।\nयत् स्वप्न-जागरण-सुषुप्तं अवैति नित्यं तद् ब्रह्म निष्कलम् अहं न च भूत-संघः।\nप्रातर् भजामि मनसो वचसाम् अगम्यम् वाचो विभान्ति निखिलं यद्-अनुग्रहेण।\nयन्नेति नेति वचनोः निगमः अवोचुः तं देव-देवम् अजं अच्युतम् अहुर्-अग्र्यम्।\nप्रातर् नमामि तमसः परम् अर्क-वर्णम् पूर्णम् सनातन-पदम् पुरुषोत्तम-ख्यम्।\nयस्मिन् इदम् जगद्-अशेषम् अशेष-मूर्तौ रज्वम् भुजंगम इव प्रतिबाषितम् वै।",
@@ -86,7 +98,7 @@
         }
     },
     {
-        "id": 60,
+        "id": 6,
         "slug": "tumi-brahma-ramakrishna",
         "number": 6,
         "title": "Tumi Brahma Ramakrishna",
@@ -103,24 +115,24 @@
         }
     },
     {
-        "id": 61,
+        "id": 7,
         "slug": "ramakrishna-sharanam",
         "number": 7,
         "title": "Ramakrishna Sharanam",
         "firstLine": "Ramakrishna sharanam Ramakrishna sharanam Ramakrishna sharanam sharanye",
-        "category": "general",
+        "category": "ramakrishna",
         "lyrics": {
             "en": "Ramakrishna sharanam Ramakrishna sharanam Ramakrishna sharanam sharanye\nKripahi kevalam Kripahi kevalam Kripahi kevalam sharanye\n\nSharanagatoham sharanagatoham Sharanagatoham sharanye\n\nNamah-Sri gurave nama-Sri gurave\nNama-Sri gurave namo nama\n\nRamakrishna Ramakrishna Jaya jaya Ramakrishna\nRamakrishna Ramakrishna Jaya jaya Ramakrishna\nRamakrishna Ramakrishna Jaya jaya Ramakrishna",
             "hi": "रामकृष्ण शरणं रामकृष्ण शरणं रामकृष्ण शरणं शरण्ये |\nकृपाही केवलं कृपाही केवलं कृपाही केवलं शरण्ये |\n\nशरणागतः शरणागतः शरणागतः शरण्ये |\n\nनमः श्री गुरवे नमः-श्री गुरवे\nनमः-श्री गुरवे नमो नमः |\n\nरामकृष्ण रामकृष्ण जय जय रामकृष्ण\nरामकृष्ण रामकृष्ण जय जय रामकृष्ण\nरामकृष्ण रामकृष्ण जय जय रामकृष्ण",
             "ka": "ರಾಮಕೃಷ್ಣ ಶರಣಂ ರಾಮಕೃಷ್ಣ ಶರಣಂ ರಾಮಕೃಷ್ಣ ಶರಣಂ ಶರಣ್ಯೇ |\nಕೃಪಾಹಿ ಕೇವಲಂ ಕೃಪಾಹಿ ಕೇವಲಂ ಕೃಪಾಹಿ ಕೇವಲಂ ಶರಣ್ಯೇ |\n\nಶರಣಾಗತಃ ಶರಣಾಗತಃ ಶರಣಾಗತಃ ಶರಣ್ಯೇ |\n\nನಮಃ ಶ್ರೀ ಗುರುವೇ ನಮಃ-ಶ್ರೀ ಗುರುವೇ\nನಮಃ-ಶ್ರೀ ಗುರುವೇ ನಮೋ ನಮಃ |\n\nರಾಮಕೃಷ್ಣ ರಾಮಕೃಷ್ಣ ಜಯ ಜಯ ರಾಮಕೃಷ್ಣ\nರಾಮಕೃಷ್ಣ ರಾಮಕೃಷ್ಣ ಜಯ ಜಯ ರಾಮಕೃಷ್ಣ\nರಾಮಕೃಷ್ಣ ರಾಮಕೃಷ್ಣ ಜಯ ಜಯ ರಾಮಕೃಷ್ಣ",
-            "bn": "রামকৃষ্ণ শরণং রামকৃষ্ণ শরণং রামকৃষ্ণ শরণং শরণ্যেঃ |\nকৃপাহি only কৃপাহি only কৃপাহি only শরণ্যেঃ |\n\nশরণাগতঃ শরণাগতঃ শরণাগতঃ শরণ্যেঃ |\n\nনমঃ শ্রী গুরুবে নমঃ-শ্রী গুরুবে\nনমঃ-শ্রী গুরুবে নমো নমঃ |\n\nরামকৃষ্ণ রামকৃষ্ণ জয় জয় রামকৃষ্ণ\nরামকৃষ্ণ রামকৃষ্ণ জয় জয় রামকৃষ্ণ\nরামকৃষ্ণ রামকৃষ্ণ জয় জয় রামকৃষ্ণ"
+            "bn": "রামকৃষ্ণ শরণং রামকৃষ্ণ শরণং রামকৃষ্ণ শরণং শরণ্যেঃ |\n কৃপাহি only কৃপাহি only কৃপাহি only শরণ্যেঃ |\n\nশরণাগতঃ শরণাগতঃ শরণাগতঃ শরণ্যেঃ |\n\nনমঃ শ্রী গুরুবে নমঃ-শ্রী গুরুবে\nনমঃ-শ্রী গুরুবে নমো নমঃ |\n\nরামকৃষ্ণ রামকৃষ্ণ জয় জয় রামকৃষ্ণ\nরামকৃষ্ণ রামকৃষ্ণ জয় জয় রামকৃষ্ণ\nরামকৃষ্ণ রামকৃষ্ণ জয় জয় রামকৃষ্ণ"
         },
         "translation": {
             "en": ""
         }
     },
     {
-        "id": 62,
+        "id": 8,
         "slug": "bhava-bhaya-bhanjana",
         "number": 8,
         "title": "Bhava Bhaya Bhanjana",
@@ -137,12 +149,12 @@
         }
     },
     {
-        "id": 63,
+        "id": 9,
         "slug": "om-jaya-jagadisha-hare",
         "number": 9,
         "title": "Om Jaya Jagadisha Hare",
         "firstLine": "Om jaya jagadisha hare",
-        "category": "general",
+        "category": "shiva",
         "lyrics": {
             "en": "Om jaya jagadisha hare\nSwami jaya jagadisha hare\nBhakta jano ke sankat\nDasa jano ke sankat\nKshana mein door kare\nOm jaya jagadisha hare ॥1॥\n\nJo dhyave phala pave\nDukha binase mana ka\nSwami dukha binase mana ka\nSukha sammati ghara ave\nSukha sammati ghara ave\nKashta mite tana ka\nOm jaya jagadisha hare ॥2॥\n\nMata pita tuma mere\nSharana gahum main kisaki\nSwami sharana gahum main kisaki\nTuma bina aura na duja\nTuma bina aura na duja\nAsa karum main jisaki\nOm jaya jagadisha hare ॥3॥\n\nTuma purana paramatma\nTuma antaryami\nSwami tuma antaryami\nParabrahma parameshvara\nParabrahma parameshvara\nTuma saba ke swami\nOm jaya jagadisha hare ॥4॥\n\nTuma karuna ke sagara\nTuma palanakarta\nSwami tuma palanakarta\nMain murakha khala kami\nMain sevaka tuma swami\nKripa karo bhartara\nOm jaya jagadisha hare ॥5॥\n\nTuma ho eka agochara\nSabake pranapati\nSwami sabake pranapati\nKisa vidha milum dayamaya\nKisa vidha milum dayamaya\nTumako main kumati\nOm jaya jagadisha hare ॥6॥\n\nDinabandhu dukhaharta\nThakura tuma mere\nSwami tuma mere\nApane hatha uthavo\nApani sharana lagavo\nDvara pada tere\nOm jaya jagadisha hare ॥7॥\n\nVishaya vikara mitavo\nPapa haro deva\nSwami papa haro deva\nShraddha bhakti badhavo\nShraddha bhakti badhavo\nSantana ki seva\nOm jaya jagadisha hare ॥8॥",
             "hi": "ॐ जय जगदीश हरे\nस्वामी जय जगदीश हरे\nभक्त जनों के संकट\nदास जनों के संकट\nक्षण में दूर करे\nॐ जय जगदीश हरे ॥१॥\n\nजो ध्यावे फल पावे\nदुख बिनसे मन का\nस्वामी दुख बिनसे मन का\nसुख सम्पत्ति घर आवे\nसुख सम्पत्ति घर आवे\nकष्ट मिटे तन का\nॐ जय जगदीश हरे ॥२॥\n\nमाता पिता तुम मेरे\nशरण गहूं मैं किसकी\nस्वामी शरण गहूं मैं किसकी\nतुम बिन और न दूजा\nतुम बिन और न दूजा\nआस करूं मैं जिसकी\nॐ जय जगदीश हरे ॥३॥\n\nतुम पूर्ण परमात्मा\nतुम अंतर्यामी\nस्वामी तुम अंतर्यामी\nपरब्रह्म परमेश्वर\nपरब्रह्म परमेश्वर\nतुम सबके स्वामी\nॐ जय जगदीश हरे ॥४॥\n\nतुम करुणा के सागर\nतुम पालनकर्ता\nस्वामी तुम पालनकर्ता\nमैं मूर्ख खल कामी\nमैं सेवक तुम स्वामी\nकृपा करो भर्ता\nॐ जय जगदीश हरे ॥५॥\n\nतुम हो एक अगोचर\nसबके प्राणपति\nस्वामी सबके प्राणपति\nकिस विधि मिलूं दयामय\nकिस विधि मिलूं दयामय\nतुमको मैं कुमति\nॐ जय जगदीश हरे ॥६॥\n\nदीनबंधु दुखहर्ता\nठाकुर तुम मेरे\nस्वामी तुम मेरे\nअपने हाथ उठाओ\nअपनी शरण लगाओ\nद्वार पड़ा तेरे\nॐ जय जगदीश हरे ॥७॥\n\nविषय विकार मिटाओ\nपाप हरो देव\nस्वामी पाप हरो देव\nश्रद्धा भक्ति बढ़ाओ\nश्रद्धा भक्ति बढ़ाओ\nसंतन की सेवा\nॐ जय जगदीश हरे ॥८॥",
@@ -154,9 +166,9 @@
         }
     },
     {
-        "id": 6,
+        "id": 10,
         "slug": "guru-stotram",
-        "number": 6,
+        "number": 10,
         "title": "Guru Stotram",
         "firstLine": "Om Gurur Brahma Gurur Vishnu",
         "category": "general",
@@ -171,9 +183,9 @@
         }
     },
     {
-        "id": 7,
+        "id": 11,
         "slug": "guru-ashtakam",
-        "number": 7,
+        "number": 11,
         "title": "Guru Ashtakam",
         "firstLine": "Shariram surupam sada rogamuktam",
         "category": "general",
@@ -188,12 +200,12 @@
         }
     },
     {
-        "id": 8,
+        "id": 12,
         "slug": "sri-ramakrishna-suprabhatam",
-        "number": 8,
+        "number": 12,
         "title": "Sri Ramakrishna Suprabhatam",
         "firstLine": "Om dharmasya hanimabhitah paridrishya",
-        "category": "general",
+        "category": "ramakrishna",
         "lyrics": {
             "en": "Om dharmasya hanimabhitah paridrishya sighram\nKamara pushkara iti prathite samriddhe\nGrame suvipra sadane hyabhijata deva\nSri Ramakrishna bhagavan tava suprabhatam\n\nBalye samadhyanubhava sitapakshi panktīm\nSandrishya megha patale samavapi yena\nIsaikya vedana sukham siva ratri kale\nSri Ramakrishna bhagavan tava suprabhatam\n\nNana vidhanayi sanatana dharma margan\nKraistadi chitra niyaman paradesa dharman\nAsthaya chaikya manayo ranubhuta vamstvam\nSri Ramakrishna bhagavan tava suprabhatam\n\nHe kalika pada saroruha krishna bhringa\nMatus samasta jagatam api saradayah\nAikyam hyadarsi tarasa paramam tvayaiva\nSri Ramakrishna bhagavan tava suprabhatam",
             "hi": "ॐ धर्मस्य हानिमभितः परिदृश्य शीघ्रम्\nकामारपुष्कर इति प्रथिते समृद्धे\nग्रामे सुविप्र सदने ह्यभिजात देव\nश्री रामकृष्ण भगवन् तव सुप्रभातम्\n\nबाल्ये समाध्यानुभव सीतपक्षि पंक्तिम्\nसंद्रिश्य मेघ पतले समवापि येन\nईशैक्य वेदन सुखं शिवरात्रि काले\nश्री रामकृष्ण भगवन् तव सुप्रभातम्\n\nनानाविधानि सनातन धर्म मार्गान्\nक्रैस्तादि चित्र नियमन् परदेश धर्मान्\nआस्थाय चैत्य मनयो रणुभूत वंस्त्वम्\nश्री रामकृष्ण भगवन् तव सुप्रभातम्",
@@ -205,33 +217,33 @@
         }
     },
     {
-        "id": 9,
+        "id": 13,
         "slug": "sri-ramakrishna-mangala-sasanam",
-        "number": 9,
+        "number": 13,
         "title": "Sri Ramakrishna Mangala Sasanam",
         "firstLine": "Om mangalam desikendraya yaminam cakravartine",
-        "category": "general",
+        "category": "ramakrishna",
         "lyrics": {
             "en": "1. Om mangalam desikendraya yaminam cakravartine parasakti-svarupinyai devyai bhavatu mangalam\n2. satya sandhasya bhaktasya kshudiramasyasunave gadadharaya medinyam avatirnaya mangalam\n\n3. gadadhara sunamne ca bhaktyaveshtita chetase anadritanya vidyaya mangalam brahmacarine\n4. bhavatarana dakshaya sannidhau dakshineshware apurva kalika puja niratayastu mangalam\n\n5. mathuranatha visvasa seva nirvrta chetase tapascarana silaya yogisayastu mangalam\n6. sadhaka vyaja samdishta sarvamnaya suvartmane sarva tantra svatantraya nitya siddhaya mangalam\n\n7. tapasi brahmacarye ca ya svasya saha dharmine tasyah sri sarada devya bhartre bhavatu mangalam\n\n8. totapuri yatiprapta caramasrama hetuke samadhau nirvikalpakhye sudirghasthaya mangalam\n\n9. sthitaya maturadesat jagad uddhara karanat purna hamta sthitau bhava mukhe bhavatu mangalam\n\n10. pasyate mataram strishu mrtpindam kancane tatha sarvabhuteshu ca brahma mayatitaya mangalam\n\n11. sadaropi viraktanam yatinam puratastu yah sada siva svarupaya tasyai bhavatu mangalam\n\n12. brahmanandadi sacchishya gana pujya padaya te teshu diptatma bodhaya paramahamsaya mangalam\n\n13. garjad vedanta simhena vivekananda rupina apasta nidra bhuryena karita tasya mangalam\n\n14. samsara sagarottara setu bhutanghri renave gurave sarvalokanam ramakrishnaya mangalam\n\n15. om sthapakaya ca dharmasya sarva dharma svarupine avatara varishthaya ramakrishnaya mangalam\n\n16. mangalam gurudevaya devyai matre ca mangalam mangalam bhakta vrindebhyah sarvalokaya mangalam",
-            "hi": "१. ॐ मंगलं देशिकेन्द्राय यमिनां चक्रवर्तिने पराशक्ति स्वरूपिण्यै देव्यै भवतु मंगलम्\n२. सत्यसंधस्य भक्तस्य क्षुदिरामस्य सूनवे गदाधराय मेदिन्याम् अवतीर्णाय मंगलम्\n\n३. गदाधर सुनाम्ने च भक्त्यावेष्टित चेतसे अनादृतान्य विद्याय मंगलं ब्रह्मचारिणे\n४. भवतारण दक्षाय सन्निधौ दक्षिणेश्वरे अपूर्व कालिका पूजा निरतायास्तु मंगलम्\n\n५. मथुरानाथ विश्वास सेवा निर्वृत चेतसे तपश्चरनशीलाय योगीशायास्तु मंगलम्\n६. साधक व्याज संदिष्ट सर्वाम्नाय सुवर्त्मने सर्वतन्त्र स्वतन्त्राय नित्य सिद्धाय मंगलम्\n\n७. तपसि ब्रह्मचर्ये च या स्वस्य सह धर्मिणे तस्याः श्री सारदा देव्या भर्त्रे भवतु मंगलम्\n\n८. तोतापुरी यति प्राप्त चतुर्थाश्रम हेतवे समाधौ निर्विकल्पाख्ये सुदीर्घस्थाय मंगलम्\n\n९. स्थिताय मातुरादेशात् जगदुद्धार कारणात् पूर्णाहंतास्थितौ भावमुखे भवतु मंगलम्\n\n१०. पश्यते मातरं स्त्रीषु मृत्पिण्डं काञ्चने तथा सर्वभूतेषु च ब्रह्म मायातीताय मंगलम्\n\n११. सदैव विरक्तानां यतीनां पुरतस्तु यः सदा शिवस्वरूपाय तस्यै भवतु मंगलम्\n\n१२. ब्रह्मानन्दादि सच्छिष्य गण पूज्य पदाय ते तेषु दीप्तात्मबोधाय परमहंसाय मंगलम्\n\n१३. गर्जद्वेदान्त सिंहेन विवेकानन्द रूपिणा अपास्त निद्राभूर्येण कृतं तस्य मंगलम्\n\n१४. संसार सागरोत्तर सेतु भूताङ्घ्रि रेणवे गुरवे सर्वलोकानां रामकृष्णाय मंगलम्\n\n१५. ॐ स्थापकाय च धर्मस्य सर्वधर्म स्वरूपिणे अवतार वरिष्ठाय रामकृष्णाय मंगलम्\n\n१६. मंगलं गुरुदेवाय देव्यै मात्रे च मंगलम् मंगलं भक्तवृन्देभ्यः सर्वलोकाय मंगलम्",
+            "hi": "१. ॐ मंगलं देशिकेन्द्राय यमिनां चक्रवर्तिने पराशक्ति स्वरूपिण्यै देव्यै भवतु मंगलम्\n२. सत्यसंधस्य भक्तस्य क्षुदिरामस्य सूनवे गदाधराय मेदिन्याम् अवतीर्णाय मंगलम्\n\n३. गदाधर सुनाम्ने च भक्त्यावेष्टित चेतसे अनादृतान्य विद्याय मंगलं ब्रह्मचारिणे\n४. भवतारण दक्षाय सन्निधौ दक्षिणेश्वरे अपूर्व कालिका पूजा निरतायास्तु मंगलम्\n\n५. मथुरानाथ विश्वास सेवा निर्वृत चेतसे तपश्चरनशीलाय योगीशायास्तु मंगलम्\n६. साधक व्याज संदिष्ट सर्वाम्नाय सुवर्त्मने सर्वतन्त्र स्वतन्त्राय नित्य सिद्धाय मंगलम्\n\n७. तपसि ब्रह्मचर्ये च या स्वस्य सह धर्मिणे तस्याः श्री सारदा देव्या भर्त्रे भवतु मंगलम्\n\n८. तोतापुरी यति प्राप्त चतुर्थाश्रम हेतवे समाधौ निर्विकल्पाख्ये सुदीर्घस्थाय मंगलम्\n\n९. स्थिताय मातुरादेशात् जगदुद्धार कारणात् पूर्णाहंतास्थितौ भावमुखे भवतु मंगलम्\n\n१०. पश्यते मातरं स्त्रीषु मृत्पिण्डं काञ्चने तथा सर्वभूतेषु च ब्रह्म मायातीताय मंगलम्\n\n११. सदैव विरक्तानां यतीनां पुरतस्तु यः सदा शिव स्वरूपाय तस्यै भवतु मंगलम्\n\n१२. ब्रह्मानन्दादि सच्छिष्य गण पूज्य पदाय ते तेषु दीप्तात्मबोधाय परमहंसाय मंगलम्\n\n१३. गर्जद्वेदान्त सिंहेन विवेकानन्द रूपिणा अपास्त निद्राभूर्येण कृतं तस्य मंगलम्\n\n१४. संसार सागरोत्तर सेतु भूताङ्घ्रि रेणवे गुरवे सर्वलोकानां रामकृष्णाय मंगलम्\n\n१५. ॐ स्थापकाय च धर्मस्य सर्वधर्म स्वरूपिणे अवतार वरिष्ठाय रामकृष्णाय मंगलम्\n\n१६. मंगलं गुरुदेवाय देव्यै मात्रे च मंगलम् मंगलं भक्तवृन्देभ्यः सर्वलोकाय मंगलम्",
             "bn": "১. ওঁ মঙ্গলং দেশিকেন্দ্রায় যমিনাং চক্রবর্তিনে পরাশক্তি স্বরূপিণ্যৈ দেব্যৈ ভবতু মঙ্গলম\n২. সত্যসন্ধস্য ভক্তস্য ক্ষুদিরামস্য সুনবে গদাধরায় মেদিন্যাম অবতীর্ণায় মঙ্গলম\n\n৩. গদাধর সুনাম্নে চ ভক্ত্যাবেষ্টিত চেতসে অনাদৃতান্য বিদ্যায় মঙ্গলং ব্রহ্মচারিণে\n৪. ভবতারণ দক্ষায় সন্নিধৌ দক্ষিণেশ্বরে অপূর্ব কালিকা পূজা নিরতায়াস্তু মঙ্গলম\n\n৫. মথুরানাথ বিশ্বাস সেবা নির্বৃত চেতসে তপশ্চরণশীলায় যোগীশায়াস্তু মঙ্গলম\n৬. সাধক ব্যাজ সন্দিষ্ট সর্বাম্নায় সুবর্ত্মনে সর্বতন্ত্র স্বাধীনায় নিত্য সিদ্ধায় মঙ্গলম\n\n৭. তপসি ব্রহ্মচার্যে চ যা স্বস্য সহ ধর্মিণে তস্যাঃ শ্রী সারদা দেব্যাঃ ভর্ত্রে ভবতু মঙ্গলম\n\n৮. তোতাপুরি যতি প্রাপ্ত চরমাশ্রম হেতুকে সমাধৌ নির্বিকল্পাখ্যে সুদীর্ঘস্থায় মঙ্গলম\n\n৯. স্থিতায় মাতুরাদেশাৎ জগদুদ্ধার কারণাৎ পূর্ণাহন্তা স্থিতৌ ভাবমুখে ভবতু মঙ্গলম\n\n১০. পশ্যতে মাতরং স্ত্রীষু মৃত্পিণ্ডং কাঞ্চনে তথা সর্বভূতেষু চ ব্রহ্ম মায়াতীতায় মঙ্গলম\n\n১১. সদারোপি বিরক্তানাং যতীনাং পুরতস্তু যঃ সদা শিব স্বরূপায় তস্যৈ ভবতু মঙ্গলম\n\n১২. ব্রহ্মানন্দাদি সচ্ছিষ্য গণ পূজ্য পদায় তে তেষু দীপ্ত আত্মবোধায় পরমহংসায় মঙ্গলম\n\n১৩. গর্জদ্বেদান্ত সিংহেন বিবেকানন্দ রূপিণা অপাস্ত নিদ্রা ভূর্যেণ কৃতং তস্য মঙ্গলম\n\n১৪. সংসার সাগরোত্তর সেতু ভূত অঙ্গ্রি রেণবে গুরুবে সর্বলোকানাং রামকৃষ্ণায় মঙ্গলম\n\n১৫. ওঁ স্থাপকায় চ ধর্মস্য সর্বধর্ম স্বরূপিণে অবতার বরিষ্ঠায় রামকৃষ্ণায় মঙ্গলম\n\n১৬. মঙ্গলং গুরুদেবায় দেব্যৈ মাত্রে চ মঙ্গলম মঙ্গলং ভক্তবৃন্দেব্যঃ সর্বলোকায় মঙ্গলম",
-            "ka": "೧. ಓಂ ಮಂಗಳಂ ದೇಶಿಕೇಂದ್ರಾಯ ಯಮಿನಾಂ ಚಕ್ರವರ್ತಿನೇ ಪರಾಶಕ್ತಿ ಸ್ವರೂಪಿಣ್ಯೈ ದೇವ್ಯೈ ಭವತು ಮಂಗಳಂ\n೨. ಸತ್ಯಸಂಧಸ್ಯ ಭಕ್ತಸ್ಯ ಕ್ಷುದಿರಾಮಸ್ಯ ಸುನವೇ ಗದಾಧರಾಯ ಮೇದಿನ್ಯಾಂ ಅವತೀರ್ಣಾಯ ಮಂಗಳಂ\n\n೩. ಗದಾಧರ ಸುನಾಮ್ನೇ ಚ ಭಕ್ತ್ಯಾವೇಶ್ಠಿತ ಚೇತಸೇ ಅನಾದೃತಾನ್ಯ ವಿದ್ಯಾಯ ಮಂಗಳಂ ಬ್ರಹ್ಮಚಾರಿಣೇ\n೪. ಭವತಾರಣ ದಕ್ಷಾಯ ಸನ್ನಿಧೌ ದಕ್ಷಿಣೇಶ್ವರೇ ಅಪೂರ್ವ ಕಾಲಿಕಾ ಪೂಜಾ ನಿರತಾಯಾಸ್ತು ಮಂಗಳಂ\n\n೫. ಮಥುರಾನಾಥ ವಿಶ್ವಾಸ ಸೇವಾ ನಿವೃತ್ತ ಚೇತಸೇ ತಪಶ್ಚರಣ ಶೀಲಾಯ ಯೋಗೀಶಾಯಾಸ್ತು ಮಂಗಳಂ\n೬. ಸಾಧಕ ವ್ಯಾಜ ಸಂದಿಷ್ಟ ಸರ್ವಾಮ್ನಾಯ ಸುವರ್ತ್ಮನೇ ಸರ್ವತಂತ್ರ ಸ್ವತಂತ್ರಾಯ ನಿತ್ಯ ಸಿದ್ಧಾಯ ಮಂಗಳಂ\n\n೭. ತಪಸಿ ಬ್ರಹ್ಮಚರ್ಯೇ ಚ ಯಾ ಸ್ವಸ್ಯ ಸಹ ಧರ್ಮಿಣೇ ತಸ್ಯಾಃ ಶ್ರೀ ಸಾರದಾ ದೇವ್ಯಾಃ ಭರ್ತ್ರೆ ಭವತು ಮಂಗಳಂ\n\n೮. ತೋಟಾಪುರಿ ಯತಿ ಪ್ರಾಪ್ತ ಚರಮಾಶ್ರಮ ಹೇತುಕೇ ಸಮಾಧೌ ನಿರ್ವಿಕಲ್ಪಾಖ್ಯೇ ಸುದೀರ್ಘಸ್ಥಾಯ ಮಂಗಳಂ\n\n೯. ಸ್ಥಿತಾಯ ಮಾತುರಾದೇಶಾತ್ ಜಗದುದ್ದಾರ ಕಾರಣಾತ್ ಪೂರ್ಣಾಹಂತಾ ಸ್ಥಿತೌ ಭಾವಮುಖೇ ಭವತು ಮಂಗಳಂ\n\n೧೦. ಪಶ್ಯತೇ ಮಾತರಂ ಸ್ತ್ರೀಷು ಮೃತ್ಪಿಂಡಂ ಕಾಂಚನೇ ತಥಾ ಸರ್ವಭೂತೇಷು ಚ ಬ್ರಹ್ಮ ಮಾಯಾತೀತಾಯ ಮಂಗಳಂ\n\n೧೧. ಸದಾ ವಿರಕ್ತಾನಾಂ ಯತೀನಾಂ ಪುರತಸ್ತು ಯಃ ಸದಾ ಶಿವ ಸ್ವರೂಪಾಯ ತಸ್ಯೈ ಭವತು ಮಂಗಳಂ\n\n೧೨. ಬ್ರಹ್ಮಾನಂದಾದಿ ಸಚ್ಚಿಷ್ಯ ಗಣ ಪೂಜ್ಯ ಪದಾಯ ತೇ ತೇಷು ದೀಪ್ತ ಆತ್ಮಬೋಧಾಯ ಪರಮಹಂಸಾಯ ಮಂಗಳಂ\n\n೧೩. ಗರ್ಜದ್ವೇದಾಂತ ಸಿಂಹೇನ ವಿವೇಕಾನಂದ ರೂಪಿಣಾ ಅಪಾಸ್ತ ನಿದ್ರಾಭೂರ್ಯೇಣ ಕೃತಂ ತಸ್ಯ ಮಂಗಳಂ\n\n೧೪. ಸಂಸಾರ ಸಾಗರೋತ್ತರ ಸೇತು ಭೂತ ಅಂಗ್ರಿ ರೇಣವೇ ಗುರುವೇ ಸರ್ವಲೋಕಾನಾಂ ರಾಮಕೃಷ್ಣಾಯ ಮಂಗಳಂ\n\n೧೫. ಓಂ ಸ್ಥಾಪಕಾಯ ಚ ಧರ್ಮಸ್ಯ ಸರ್ವಧರ್ಮ ಸ್ವರೂಪಿಣೇ ಅವತಾರ ವರಿಷ್ಠಾಯ ರಾಮಕೃಷ್ಣಾಯ ಮಂಗಳಂ\n\n೧೬. ಮಂಗಳಂ ಗುರುದೇವಾಯ ದೇವ್ಯೈ ಮಾತೃ ಚ ಮಂಗಳಂ ಮಂಗಳಂ ಭಕ್ತವೃಂದೇಭ್ಯಃ ಸರ್ವಲೋಕಾಯ ಮಂಗಳಂ"
+            "ka": "೧. ಓಂ ಮಂಗಳಂ ದೇಶಿಕೇಂದ್ರಾಯ ಯಮಿನಾಂ ಚಕ್ರವರ್ತಿನೇ ಪರಾಶಕ್ತಿ ಸ್ವರೂಪಿಣ್ಯೈ ದೇವ್ಯೈ ಭವತು ಮಂಗಳಂ\n೨. ಸತ್ಯಸಂಧಸ್ಯ ಭಕ್ತಸ್ಯ ಕ್ಷುದಿರಾಮಸ್ಯ ಸುನವೇ ಗದಾಧರಾಯ ಮೇದಿನ್ಯಾಂ ಅವತೀರ್ಣಾಯ ಮಂಗಳಂ\n\n೩. ಗದಾಧರ ಸುನಾಮ್ನೇ ಚ ಭಕ್ತ್ಯಾವೇಶ್ಠಿತ ಚೇತಸೇ ಅನಾದೃತಾನ್ಯ ವಿದ್ಯಾಯ ಮಂಗಳಂ ಬ್ರಹ್ಮಚಾರಿಣೇ\n೪. ಭವತಾರಣ ದಕ್ಷಾಯ ಸನ್ನಿಧೌ ದಕ್ಷಿಣೇಶ್ವರೇ ಅಪೂರ್ವ ಕಾಲಿಕಾ ಪೂಜಾ ನಿರತಾಯಾಸ್ತು ಮಂಗಳಂ\n\n೫. ಮಥುರಾನಾಥ ವಿಶ್ವಾಸ ಸೇವಾ ನಿವೃತ್ತ ಚೇತಸೇ ತಪಶ್ಚರಣ ಶೀಲಾಯ ಯೋಗೀಶಾಯಾಸ್ತು ಮಂಗಳಂ\n೬. ಸಾಧಕ ವ್ಯಾಜ ಸಂದಿಷ್ಟ ಸರ್ವಾಮ್ನಾಯ ಸುವರ್ತ್ಮನೇ ಸರ್ವತಂತ್ರ ಸ್ವತಂತ್ರಾಯ ನಿತ್ಯ ಸಿದ್ಧಾಯ ಮಂಗಳಂ\n\n೭. ತಪಸಿ ಬ್ರಹ್ಮಚರ್ಯೇ ಚ ಯಾ ಸ್ವಸ್ಯ ಸಹ ಧರ್ಮಿಣೇ ತಸ್ಯಾಃ ಶ್ರೀ ಸಾರದಾ ದೇವ್ಯಾಃ ಭರ್ತ್ರೆ ಭವತು ಮಂಗಳಂ\n\n೮. ತೋಟಾಪುರಿ ಯತಿ ಪ್ರಾಪ್ತ ಚರಮಾಶ್ರಮ ಹೇತುಕೇ ಸಮಾಧೌ ನಿರ್ವಿಕಲ್ಪಾಖ್ಯೇ ಸುದೀರ್ಘಸ್ಥಾಯ ಮಂಗಳಂ\n\n೯. ಸ್ಥಿತಾಯ ಮಾತುರಾದೇಶಾತ್ ಜಗದುದ್ದಾರ ಕಾರಣಾತ್ ಪೂರ್ಣಾಹಂತಾ ಸ್ಥಿತೌ ಭಾವಮುಖೇ ಭವತು ಮಂಗಳಂ\n\n೧೦. ಪಶ್ಯತೇ ಮಾತರಂ ಸ್ತ್ರೀಷು ಮೃತ್ಪಿಂಡಂ ಕಾಂಚನೇ ತಥಾ ಸರ್"
         },
         "translation": {
             "en": ""
         }
     },
     {
-        "id": 10,
+        "id": 14,
         "slug": "sri-sarada-suprabhatam",
-        "number": 10,
+        "number": 14,
         "title": "Sri Sarada Suprabhatam",
         "firstLine": "Matah samasta jagatam paramasya pumsah",
-        "category": "general",
+        "category": "sharada",
         "lyrics": {
             "en": "Matah samasta jagatam paramasya pumsah shakti svarupini shive karunardra chitte lokasya soka samanaya krtavatare Sri Sarade'stu tava suprabhatam.\n\nBalye bhavasya tamasah pariharayitri lila manusya vapuse'tha gadadharaya datte tadarpita dhiya samasta vidye Sri Sarade'stu tava suprabhatam.\n\nBalyat pare vayasi bhartari sampravrttam unmatta ity anucitam avadhuya vartam tad darsana kramita durgama dura marge Sri Ramakrishna dayite tava suprabhatam.\n\nSanyasinam patim avekshya nodvijane sevarpita trikarane parisuddha chitte tat sadhana carama simni samarpitamghre Sri Ramakrishna parameswari suprabhatam.\n\nYameva catma jananim bhavatarinim ca sevaparam tu bubudhe gurur asta bhedah tasya samasta jagato'sya saranya murteh Sri Ramakrishna dayite tava suprabhatam.\n\nAvrinvatim paramikam prakritim svakiyam samsariniva bahu duhkha jale bhavabdhou sarvam sahe sritajanoddharanaika dikshe Sri Ramakrishna dayite tava suprabhatam.\n\nGehasya marjana vidhau mama karma santim nayatya sankhyabhuja niskriya manam evam akasmikokti vivritakhila sakti rupe Sri Ramakrishna dayite tava suprabhatam.\n\nSri Ramakrishna dayite tad adhina satve tad bhakta vrinda paripalini muktidatre tad bhava rakta hrdaye tad abhinnatatve Matah samasta jagatam tava suprabhatam.",
-            "hi": "मातः समस्त जगतां परमस्य पुंसः शक्ति स्वरूपिणि शिवे करुणार्द्र चित्ते लोकस्य शोक समनाय कृतावतारे श्री सारदेऽस्तु तव सुप्रभातम्।\n\nबाल्ये भवस्य तमसः परिहारयित्री लीला मनुष्य वपुषेऽथ गदाधराय दत्ते तदर्पित धिया समस्त विद্যে श्री सारदेऽस्तु तव सुप्रभातम्।\n\nबाल्यात् परे वयसि भर्तरि संप्रवृत्तम् उन्मत्त इत्यनुचितम् अवधूय वार्ताम् तद्दर्शन क्रमित दुर्गम दूरमार्गे श्री रामकृष्ण दयिते तव सुप्रभातम्।\n\nसंन्यासिनां पतिमवेक्ष्य नोद्विजाने सेवार्पित त्रिकरणे परिशुद्ध चित्ते तत् साधन चरमसीम्नि समर्पिताङ्घ्रे श्री रामकृष्ण परमेश्वरि सुप्रभातम्।",
-            "bn": "মাতঃ সমস্ত জগতাং পরমস্য পুংসঃ শক্তি স্বরূপিণী শিবে করুণার্দ্র চিতে লোকস্য শোক সমনায় কৃতাবতারে শ্রী সারদে’স্তু তব সুপ্রভাতম।\n\nবাল্যে ভবস্য তমসঃ পরিহারয়িত্রী লীলা মনুষ্য বপুষে’থ গদাধরায় দত্তে তদর্পিত ধিয়া সমস্ত বিদ্যে শ্রী সারদে’স্তু তব সুপ্রভাতম।\n\nবাল্যাত্ পরে বয়সি ভর্তরি সংপ্রবৃত্তম উন্মত্ত ইত্যনুচিতম অবধূয় বার্তাম তদ্দর্শন ক্রমিত দুর্গম দূরমার্গে শ্রী রামকৃষ্ণ দয়িতে তব সুপ্রভাতম।",
+            "hi": "मातः समस्त जगतां परमस्य पुंसः शक्ति स्वरूपिणि शिवे करुणार्द्र चित्ते लोकस्य शोक समनाय कृतावतारे श्री सारदेऽस्तु तव सुप्रभातम्।\n\nबाल्ये भवस्य तमसः परिहारयित्री लीला मनुष्य वपुषेऽथ गदाधराय दत्ते तदर्पित धिया समस्त विद्ये श्री सारदेऽस्तु तव सुप्रभातम्।\n\nबाल्यात् परे वयसि भर्तरि संप्रवृत्तम् उन्मत्त इत्यनुचितम् अवधूय वार्ताम् तद्दर्शन क्रमित दुर्गम दूरमार्गे श्री रामकृष्ण दयिते तव सुप्रभातम्।\n\nसंन्यासिनां पतिमवेक्ष्य नोद्विजाने सेवार्पित त्रिकरणे परिशुद्ध चित्ते तत् साधन चरमसीम्नि समर्पिताङ्घ्रे श्री रामकृष्ण परमेश्वरि सुप्रभातम्।",
+            "bn": "মাতঃ সমস্ত জগতাং পরমস্য পুংসঃ শক্তি স্বরূপিণী শিবে করুণার্দ্র চিতে লোকস্য শোক সমনায় কৃতাবতারে শ্রী সারদে’স্তু তব সুপ্রভাতম।\n\nবাল্যে ভবস্য তमसঃ পরিহারয়িত্রী লীলা মনুষ্য বপুষে’থ গদাধরায় দত্তে তদর্পিত ধিয়া সমস্ত বিদ্যে শ্রী সারদে’স্তু তব সুপ্রভাতম।\n\nবাল্যাত্ পরে বয়সি ভর্তরি সংপ্রবৃত্তম উন্মত্ত ইত্যনুচিতম অবধূয় বার্তাম তদ্দর্শন ক্রমিত দুর্গম দূরমার্গে শ্রী রামকৃষ্ণ দয়িতে তব সুপ্রভাতম।",
             "ka": "ಮಾತಃ ಸಮಸ್ತ ಜಗತಾಂ ಪರಮಸ್ಯ ಪುಂಸಃ ಶಕ್ತಿ ಸ್ವರೂಪಿಣಿ ಶಿವೇ ಕರುಣಾರ್ದ್ರ ಚಿತ್ತೇ ಲೋಕಸ್ಯ ಶೋಕ ಸಮನಾಯ ಕೃತಾವತಾರೆ ಶ್ರೀ ಸಾರದೇಸ್ತು ತವ ಸುಪ್ರಭಾತಂ।\n\nಬಾಲ್ಯೇ ಭವಸ್ಯ ತಮಸಃ ಪರಿಹಾರಯಿತ್ರೀ ಲೀಲಾ ಮನುಷ್ಯ ವಪುಷೇಽಥ ಗದಾಧರಾಯ ದತ್ತೇ ತದರ್ಪಿತ ಧಿಯಾ ಸಮಸ್ತ ವಿದ್ಯೇ ಶ್ರೀ ಸಾರದೇಸ್ತು ತವ ಸುಪ್ರಭಾತಂ।\n\nಬಾಲ್ಯಾತ್ ಪರೇ ವಯಸಿ ಭರ್ತರಿ ಸಂಪ್ರವೃತ್ತಂ ಉನ್ಮತ್ತ ಇತ್ಯನುಚಿತಂ ಅವಧೂಯ ವಾರ್ತೆ ತದ್ದರ್ಶನ ಕ್ರಮಿತ ದುರ್ಗಮ ದೂರಮಾರ್ಗೇ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ದಯಿತೇ ತವ ಸುಪ್ರಭಾತಂ।"
         },
         "translation": {

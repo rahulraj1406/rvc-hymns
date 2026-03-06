@@ -79,9 +79,9 @@
     },
     {
         "id": 5,
-        "slug": "prata-smarami-hridi",
+        "slug": "prata-smarami-hridi-Samsphurida",
         "number": 5,
-        "title": "Prata Smarami Hridi",
+        "title": "Prata Smarami Hridi Samsphurida",
         "firstLine": "Prata smarami hridi samsphurida-tma-tattvam",
         "category": [
             "general",
@@ -98,12 +98,32 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
+        "slug": "sri-guru-padamula-stotram",
+        "number": 7,
+        "title": "Sri Guru Padamula Stotram",
+        "firstLine": "śarīraṁ surūpaṁ sadā rogamuktaṁ yaśaśchāru chitraṁ dhanaṁ merutulyaṁ",
+        "category": "general",
+        "lyrics": {
+            "en": "1. śarīraṁ surūpaṁ sadā rogamuktaṁ yaśaśchāru chitraṁ dhanaṁ merutulyaṁ Guro-raṁghri-padme mana-śchenna lagnaṁ tataḥ kiṁ tataḥ kiṁ tataḥ kiṁ tataḥ kiṁ\n\n2. kalatraṁ dhanaṁ putra-pautrādi sarvaṁ grihaṁ bāndhavā sarva-metaddhi jātaṁ\n\n3. shaḍaṁgādi-vedo mukhe śāstra-vidyā kavitvaṁ cha gadyaṁ cha padyaṁ karoti\n\n4. videśeshu mānyaḥ svadeśeshu dhanyaḥ Sadāchāra-vritteshu matto na chānyaḥ\n\n5. kshamā-maṁḷale bhūpa-bhūpāla-vrindaiḥ sadā sevitaṁ yasya pādāravindaṁ\n\n6. yaśo me gataṁ dikshu dāna-pratāpāt jagadvastu sarvaṁ kare yatprasādāt\n\n7. na bhoge na yoge na vā vājimedhe na kāntā sukhe naiva vitteshu chittaṁ\n\n8. araṇye na vā svasya gehe na kārye na dehe mano vartate me tvanarghye",
+            "hi": "1. शरीरं सुरूपं सदा रोगमुक्तं यशश्चारु चित्रं धनं मेरुतुल्यं गुरु-रंघ्री-पद्मे मन-श्चेन्न लग्नं ततः किं ततः किं ततः किं ततः किं\n\n2. कलत्रं धनं पुत्र-पौत्रादि सर्वं गृहं बान्धवाः सर्व-मेतद्दि जातं\n\n3. षडंगादि-वेदो मुखे शास्त्र-विद्या कावित्वं च गद्यं च पद्यं करोति\n\n4. विदेशेषु मान्यः स्वदेशेषु धन्यः सदाचारा-वृत्तेषु मतो न चान्यः\n\n5. क्षमा-मण्डले भूपा-भूपाल-वृन्दैः सदा सेवितं यस्य पादारविन्दं\n\n6. यशो मे गतं दिशु दान-प्रतापात् जगद्वस्तु सर्वं करे यत्प्रसादात्\n\n7. न भोगे न योगे न वा वाजिमेधे न कांता सुखे नैव वित्तेषु चित्तं\n\n8. अरण्ये न वा स्वस्य गेहे न कार्ये न देहे मनो वर्तते मे त्वनर्घ्ये",
+            "bn": "1. শরীরং সুরুপং সদা রোগমুক্তং যশশ্চারু চিত্রং ধনং মেরুতুল্যং গুরু-রঙ্ঘ্রী-পদ্মে মন-শ্চেন্ন লগ্নং ততঃ কিঙ ততঃ কিঙ ততঃ কিঙ ততঃ কিঙ\n\n2. কলত্রং ধনং পুত্র-পৌত্রাদি সর্বং গৃহং বন্ধবাঃ সর্ব-মেতদ্দি জাতং\n\n3. ষডঙ্গাদি-বেদো মুখে শাস্ত্র-বিদ্যা কাবিত্বং চ গদ্যং চ পদ্যং করোতি\n\n4. বিদেশেষু মান্যঃ স্বদেশেষু ধন্যঃ সদাচার-বৃত্তেষু মাতো ন চান্যঃ\n\n5. ক্ষমা-মণ্ডলে ভূপা-ভূপাল-বৃন্দৈঃ সদা সেবিতং যস্য পাদারবিন্দং\n\n6. যশো মে গতং দিক্শু দান-প্রতাপাৎ জগত্বস্তু সর্বং করে যৎপ্রসাদাত্\n\n7. ন ভোগে ন যোগে ন বা বাজিকেমেধে ন কান্তা সুখে নৈব বিত্তেষু চিত্তং\n\n8. অরণ্যে ন বা স্বস্য গেহে ন কার্যে ন দেহে মনো বর্ততে মে ত্বনার্ঘ্যে",
+            "ka": "1. ಶರೀರಂ ಸುರೂಪಂ ಸದಾ ರೋಗಮುಕ್ತಂ ಯಶಶ್ಚಾರು ಚಿತ್ರಂ ಧನಂ ಮೆರುತುಲ್ಯಂ ಗುರು-ರಂಘ್ರೀ-ಪದ್ಮೆ ಮನ-ಶ್ಚೆನ್ನ ಲಗ್ನಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ\n\n2. ಕಲತ್ರಂ ಧನಂ ಪುತ್ರ-ಪೌತ್ರಾದಿ ಸರ್ವಂ ಗೃಹಂ ಬಂಧವಾಃ ಸರ್ವ-ಮೇತದ್ದಿ ಜಾತಂ\n\n3. ಷಡಂಗಾದಿ-ವೇದೋ ಮುಖೆ ಶಾಸ್ತ್ರ-ವಿದ್ಯಾ ಕಾವಿತ್ಯಂ ಚ ಗದ್ಯಂ ಚ ಪದ್ಯಂ ಮಾಡೋತಿ\n\n4. ವಿದೇಶೇಷು ಮಾನ್ಯಃ ಸ್ವದೇಶೇಷು ಧನ್ಯಃ ಸದಾಚಾರ-ವೃತ್ತೇಷು ಮಾತೋ ನ ಚಾನ್ಯಃ\n\n5. ಕ್ಷಮಾ-ಮಂಡಲೆ ಭೂಪ-ಭೂಪಾಲ-ವೃಂದೈಃ ಸದಾ ಸೇವಿತಂ ಯಸ್ಯ ಪಾದಾರವಿಂದಂ\n\n6. ಯಶೋ ಮೆಗತಂ ದಿಕ್ಷು ದಾನ-ಪ್ರತಾಪಾತ್ ಜಗದ್ವಸ್ತು ಸರ್ವಂ करे ಯತ್ಪ್ರಸಾದಾತ್\n\n7. ನ ಭೋಗೆ ನ ಯೋಗೆ ನ ವಾ ವಾಜಿಮೆಧೇ ನ ಕಾಂತಾ ಸುಖೆ ನೈವ ವಿಟ್ಟೇಶು ಚಿತ್ತಂ\n\n8. ಅರಣ್ಯೇ ನ ವಾ ಸ್ವಸ್ಯ ಗೆಹೇ ನ ಕಾರ್ಯೇ ನ ದೇಹೆ ಮನೋ ವರ್ತತೇ ಮೆ ತ್ವನಾರ್ಘ್ಯೇ"
+        },
+        "translation": {
+            "en": "This hymn venerates the Guru as the supreme spiritual guide, highlighting the importance of the Guru’s lotus feet in the devotee’s heart. \n\nIt emphasizes that worldly possessions such as wealth, spouse, children, and household ties are secondary, and that true learning, including scriptures, poetry, and knowledge, emanates from the Guru. \n\nThe hymn praises the Guru’s respect in foreign lands and the blessings received in one’s own land, noting that the Guru’s feet are always served by kings and rulers. All fame and worldly benefits are attained by the Guru’s grace.\n\nThe devotee’s mind remains unattached to pleasures, rituals, material wealth, or bodily comforts; it does not waver in forest hermitages, at home, in actions, or in the body. The Guru is portrayed as priceless, and devotion to the Guru surpasses all worldly and spiritual pursuits."
+        }
+    },
+    {
+        "id": 83,
         "slug": "tumi-brahma-ramakrishna",
-        "number": 6,
+        "number": 83,
         "title": "Tumi Brahma Ramakrishna",
         "firstLine": "Tumi Brahma Ramakrishna tumi Krishna tumi Ram",
-        "category": "general",
+        "category": [
+            "general",
+            "ramakrishna"
+        ],
         "lyrics": {
             "en": "Tumi Brahma Ramakrishna tumi Krishna tumi Ram.\nTumi Vishnu tumi Jishnu prabhavishnu pranaram.\nTumi adheya-adhar, tumi Brahma nirakar\nTumi nara-rupadhar, vijita-kanaka-kam.\nApara-karuna-sindhu Tumi deva Dinabandhu,\nYache indu kripabindu charane kori pranam.",
             "hi": "तुमि ब्रह्मा रामकृष्ण, तुमि कृष्ण, तुमि राम।\nतुमि विष्णु, तुमि जीष्णु, प्रभविष्णु प्रणरम्।\nतुमि अधेय-आधार, तुमि ब्रह्म निराकार,\nतुमि नर-रूपधार, विजित-कोंकण-काम।\nअपर-कृपा-सिंधु, तुमि देव दिनबन्धु,\nयाचे इन्दु कृपा-बिंदु चरणे कोरी प्रणाम।",
@@ -115,15 +135,18 @@
         }
     },
     {
-        "id": 7,
+        "id": 90,
         "slug": "ramakrishna-sharanam",
-        "number": 7,
+        "number": 90,
         "title": "Ramakrishna Sharanam",
         "firstLine": "Ramakrishna sharanam Ramakrishna sharanam Ramakrishna sharanam sharanye",
-        "category": "ramakrishna",
+        "category": [
+            "general",
+            "ramakrishna"
+        ],
         "lyrics": {
             "en": "Ramakrishna sharanam Ramakrishna sharanam Ramakrishna sharanam sharanye\nKripahi kevalam Kripahi kevalam Kripahi kevalam sharanye\n\nSharanagatoham sharanagatoham Sharanagatoham sharanye\n\nNamah-Sri gurave nama-Sri gurave\nNama-Sri gurave namo nama\n\nRamakrishna Ramakrishna Jaya jaya Ramakrishna\nRamakrishna Ramakrishna Jaya jaya Ramakrishna\nRamakrishna Ramakrishna Jaya jaya Ramakrishna",
-            "hi": "रामकृष्ण शरणं रामकृष्ण शरणं रामकृष्ण शरणं शरण्ये |\nकृपाही केवलं कृपाही केवलं कृपाही केवलं शरण्ये |\n\nशरणागतः शरणागतः शरणागतः शरण्ये |\n\nनमः श्री गुरवे नमः-श्री गुरवे\nनमः-श्री गुरवे नमो नमः |\n\nरामकृष्ण रामकृष्ण जय जय रामकृष्ण\nरामकृष्ण रामकृष्ण जय जय रामकृष्ण\nरामकृष्ण रामकृष्ण जय जय रामकृष्ण",
+            "hi": "रामकृष्ण शरणं रामकृष्ण शरणं रामकृष्ण शरणं शरण्ये |\nकृपाही केवलं कृपाही केवलं कृपाही केवलं शरण्ये |\n\nशरणागतः शरणागतः शरणागतः शरण्ये |\n\nनमः श्री गुरवे नमः-श्री गुरवे\nनमः-श्री गुरवे नमो नमः |\n\nরামকৃষ্ণ रामकृष्ण जय जय रामकृष्ण\nরামকৃষ্ণ रामकृष्ण जय जय रामकृष्ण\nরামকৃষ্ণ रामकृष्ण जय जय रामकृष्ण",
             "ka": "ರಾಮಕೃಷ್ಣ ಶರಣಂ ರಾಮಕೃಷ್ಣ ಶರಣಂ ರಾಮಕೃಷ್ಣ ಶರಣಂ ಶರಣ್ಯೇ |\nಕೃಪಾಹಿ ಕೇವಲಂ ಕೃಪಾಹಿ ಕೇವಲಂ ಕೃಪಾಹಿ ಕೇವಲಂ ಶರಣ್ಯೇ |\n\nಶರಣಾಗತಃ ಶರಣಾಗತಃ ಶರಣಾಗತಃ ಶರಣ್ಯೇ |\n\nನಮಃ ಶ್ರೀ ಗುರುವೇ ನಮಃ-ಶ್ರೀ ಗುರುವೇ\nನಮಃ-ಶ್ರೀ ಗುರುವೇ ನಮೋ ನಮಃ |\n\nರಾಮಕೃಷ್ಣ ರಾಮಕೃಷ್ಣ ಜಯ ಜಯ ರಾಮಕೃಷ್ಣ\nರಾಮಕೃಷ್ಣ ರಾಮಕೃಷ್ಣ ಜಯ ಜಯ ರಾಮಕೃಷ್ಣ\nರಾಮಕೃಷ್ಣ ರಾಮಕೃಷ್ಣ ಜಯ ಜಯ ರಾಮಕೃಷ್ಣ",
             "bn": "রামকৃষ্ণ শরণং রামকৃষ্ণ শরণং রামকৃষ্ণ শরণং শরণ্যেঃ |\n কৃপাহি only কৃপাহি only কৃপাহি only শরণ্যেঃ |\n\nশরণাগতঃ শরণাগতঃ শরণাগতঃ শরণ্যেঃ |\n\nনমঃ শ্রী গুরুবে নমঃ-শ্রী গুরুবে\nনমঃ-শ্রী গুরুবে নমো নমঃ |\n\nরামকৃষ্ণ রামকৃষ্ণ জয় জয় রামকৃষ্ণ\nরামকৃষ্ণ রামকৃষ্ণ জয় জয় রামকৃষ্ণ\nরামকৃষ্ণ রামকৃষ্ণ জয় জয় রামকৃষ্ণ"
         },
@@ -132,9 +155,9 @@
         }
     },
     {
-        "id": 8,
+        "id": 78,
         "slug": "bhava-bhaya-bhanjana",
-        "number": 8,
+        "number": 78,
         "title": "Bhava Bhaya Bhanjana",
         "firstLine": "Bhava bhaya bhanjana purusha niranjana ratipati ganjana kari",
         "category": "general",
@@ -149,9 +172,9 @@
         }
     },
     {
-        "id": 9,
+        "id": 101,
         "slug": "om-jaya-jagadisha-hare",
-        "number": 9,
+        "number": 101,
         "title": "Om Jaya Jagadisha Hare",
         "firstLine": "Om jaya jagadisha hare",
         "category": "shiva",
@@ -166,9 +189,9 @@
         }
     },
     {
-        "id": 10,
+        "id": 6,
         "slug": "guru-stotram",
-        "number": 10,
+        "number": 6,
         "title": "Guru Stotram",
         "firstLine": "Om Gurur Brahma Gurur Vishnu",
         "category": "general",
@@ -184,8 +207,25 @@
     },
     {
         "id": 11,
-        "slug": "guru-ashtakam",
+        "slug": "sri-rama-nama-sankirtanam",
         "number": 11,
+        "title": "Sri Rama Nama Sankirtanam",
+        "firstLine": "Nanya spriha Raghu-pate hrdaye smadiye",
+        "category": "general",
+        "lyrics": {
+            "en": "11. Nanya spriha Raghu-pate hrdaye smadiye satyam vadami ca bhavan akhilantaratma; bhaktim prayaccha Raghupungava nirbharam me Kamadi dosa-rahitam kuru manasam ca.\n\nOm Sri-Sita-Lakshmana-Bharata-Satrughna-Hanumat-sameta Sri Ramachandra para-brahmane namah.\n\nSuddha-brahma-parat-para Ram Kalatmaka- paramesvara\nSesa-talpa-sukha-nidrita Brahma-dyamara-prarthita\n\nChanda-kirana-kula-mandana Srimad-Dasaratha-nandana Kausalya-sukha-vardhana Visvamitra-priya-dhana Ghora-tataka-ghataka Maricadi-nipataka\n\nKausika-makha-samrakshaka Srimad-Ahalyo-ddharaka Gautama-muni-sampujita Sura-muni-vara-gana-samstuta Navika-dhavita-mridupada Mithila-pura-jana-mohaka\n\nVideha-manasa-ranjaka Tryambaka-karmuka-bhanjaka Sitarpita-varamalika Krita-vaivahika-kautuka Bhargava-darpa-vinasaka Srima-dayodhya-palaka (Suddha)\n\nAganita-guna-gana-bhusita Avani-tanaya-kamita Raka-candra-samanana Pitri-vakyasrita-kanana Priya-Guha-vinivedita-pada Tatkshalita-nija-mridu-pada\n\nBharadvaja-mukha-nandaka Citrakutadri-niketana Dasaratha-santata-cintita Kaikeyi-tana-yarthita Viracita-nija-pitri-karmaka Bharatarpita-nija-paduka\n\nDandaka-vana jana-pavana Dusta-viradha-vinasana Sarabhanga-Sutikshnarcita Agastyanugraha-vardhita Gridhradhipa-samsevita Panca-vati-tata-susthita\n\nSuparna-kharti-vidhayaka Khara-dusana-mukha-sudaka Sita-priya-hari-nanuga Mari-carti-kridasuga Vinasta-Sita-nvesaka Gridra-dhipa-gati-dayaka\n\nSabari-datta-phalasana Kabandha-bahu-cchedana Hanumat-sevita-nija-pada Nata-Sugrivabhistada Garvita-Vali-samharaka Vanara-duta-preshaka\n\nHitakara-lakshmana-samyuta Kapi-vara-santata-samsmrita Tatgati-vighna-dhvamsaka Sita-prana-dharaka Dusta-Dasanana-dushita Sista-Hanumad bhushita\n\nSitavedita-kakavana Krita-cudamani-darsana Kapivara-vacana-svasita Ravana-nidhana-prasthita Vanara-sainya-samavrita Soshita-saridi-sarthita\n\nVibhisa-nabhaya-dayaka Parvata-setu-nibandhaka Kumbha-karna-siras-chedaka Rakshasa-sangha-vimardaka Ahi-Mahi-Ravana-carana Samhrita-dasa-mukha-Ravana\n\nVidhi-bhava-mukha-sura-samstuta Khasthita-Dasaratha-vikshita Sita-darsana-modita Abhisikta-vibhisana-nata Pushpaka-yana-rohana Bharadva-jabhi-nisevana\n\nBharata-prana-priyakara Saketa-puri-bhusana Sakala-sviya-samanata Ratna-lasat-pithasthita Pattabhi-sheka-lankrita Parthiva-kula-sammanita\n\nVibhisha-narpita-rangaka Kisa-kulanu-graha-kara Sakala-jiva-samrakshaka Samasta-loka-dharaka (Suddha)\n\nAgata-munigana-samstuta Visruta-Dasakan-todbhava Sita-lingana-nirvrta Niti-surakshita-janapada Vipina-tyajita-janakaja Karita-Lavana-sura-vadha\n\nSvargata-sambuka-samstuta Sva-tanaya-Kusa-Lava-nandita Asva-medha-kratu-dikshita Kala-vedita-sura-pada Ayodhyaka-jana-muktida Vidhi-mukha-vibudha-nandaka\n\nTejomaya-nija-rupaka Samsmriti-bandha-vimochaka Dharma-sthapana-tatpara Bhakti-parayana-muktida Sarva-caracara-palaka Sarva-bhavamaya-varaka\n\nVaikunthalaya-samsthita Nityananda-pada-sthita Ram Ram Ram jaya raja Ram Ram Ram Ram jaya Sita Ram\n\nSuddha-brahma-parat-para Kalatmaka-paramesvara Bhaya-hara mangala Dasaratha Jaya jaya mangala Sita Mangala-kara jaya mangala Samgata-subha-vibha-vodaya Anandamrita-varsaka Asrita-vatsala jaya jaya Raghu-pati-Raghava Raja Patita-pavana Sita",
+            "hi": "১১. नान्य स्पृहा रघुपते हृदयें स्मादिये सत्यं वदामि च भवन अखिलान्तरत्म; भक्तिं प्रयच्छ रघुपुङ्गव निर्भरं मे कामादि दोष-रहितं कुरु मनसं च।\n\nॐ श्री-सिता-लक्ष्मण-भरत-सत्रुघ्न-हनुमत्समेत श्री रामचन्द्र पर-ब्रह्मणे नमः।\n\nशुद्ध-ब्रह्म-परात-पर राम कलात्मक- परमेश्वर सेसा-तल्प-सुख-निद्रित ब्रह्म-द्यमर-प्रार्थित\n\nचन्द-किरण-कुल-मन्दन श्रीमद-दशरथ-नन्दन कौसल्या-सुख-वर्धन विश्वामित्र-प्रिय-धन घोर-ताटक-घाटक मरीचादि-निपटक\n\nकौसिक-मख-संरक्षक श्रीमद-अहल्या-द्धारक गौतम-मुनि-संपूजित सुर-मुनि-वर-गण-संस्तुत नविका-धावित-मृदुपाद मिथिला-पुर-जन-मोहम्\n\nविदेह-मनस-रञ्जक त्रयम्बक-कर्मुक-भञ्जक सीतार्पित-वरमालिका कृत-वैवाहिक-कौतुक भार्गव-दर्प-विनाशक श्रीमद-योध्य-पालक (शुद्ध)\n\nअगणित-गुण-गण-भूषित अवनि-तनय-कमित राका-चन्द्र-समान पितृ-वाक्य-सृत-कानन प्रिय-गुहा-निवेदित-पाद तत्क्षलित-निज-मृदु-पाद\n\nभरद्वाज-मुख-नंदक चित्रकूटाद्रि-निकेतन दशरथ-सन्तत-चिन्तित कैकेयी-तन-यर्थित विरचित-निज-पितृ-कर्मक भरतर्पित-निज-पादुक\n\nदंडक-वन-जन-पवन दुष्ट-वीरध- विनाशन सारभंग-सुतिक्ष्ण-र्चित अगस्त्य-अनुग्रह-वर्धित गृध्राधिप-संसेवित पञ्च-वटी-तट-सुस्थित\n\nसुपर्ण-खर्ति-विधायक खरा-दूषण-मुख-सुदक सीता-प्रिय-हरि-नानुगा मरी-चर्ति-क्रिडासुगा विनष्ट-सीता-न्वेषक गृध्राधिप-गति-दायक\n\nसाबरी-दत्त-फलसना कबन्ध-बाहु-च्छेदन हनुमत्-सेवित-निज-पाद नाट-सुग्रीवाभिष्टदा गर्वित-वालि-संहारक वानर-दूत-प्रेषक\n\nहितकार-लक्ष्मण-सम्युत कपि-वर-संवत-संस्मृत तत्गति-विघ्न-ध्वंसक सीता-प्राण-धरक दुष्ट-दशन-दुषित सिस्त-हनुमद् भूषित\n\nसीतावेदित-काकावन कृत-चूडामणि-दर्शन कपिवर-वचन-स्वसित रावण-निधन-प्रस्थित वानर-सैन्य-समावृत सोषित-सरीडि-सार्थित\n\nविभीष-नाभय-दयाक पर्वत-सेतु-निबंधक कुम्भ-कर्ण-शीर्ष-छेदक राक्षस-संघ-विमर्दक अहि-मही-रावण-चरन संहित दास-मुख-रावण\n\nविधि-भाव-मुख-सुर-संस्तुत खस्थित-दशरथ-विक्षित सीता-दर्शन-मोदित अभिषिक्त-विभीषण-नत पुष्पक-यान-रोहण भरद्वाज-भि-निवेशन\n\nभरत-प्राण-प्रियकर सकेत-पुरी-भूषण सकल-स्वीय-समानत रत्न-लसत-पिठस्थित पत्ताभि-शेख-लंकृत पार्थिव-कुल-सम्मनित\n\nविभीष-नर्पित-रंगक किस-कुलानु-ग्रह-कर सकल-जीव-संरक्षक समस्त-लोक-धरक (शुद्ध)\n\nआगत-मुनिगण-संस्तुत विश्वृत-दशकान्तोद्भव सीता-लिङ्गन-निर्वृत नीति-सुरक्षित-जनपद विपिन-त्यजित-जनकजा कृत-लवण-सुर-वध\n\nस्वर्ग-गत-संभुका-संस्तुत स्व-तनय-कुस-लव-नन्दित अश्व-मेद-क्रतु-दीक्षित कल-वेदीत-सुर-पाद अयोध्याक-जन-मुक्तिद\n\nविधि-मुख-विबुध-नन्दक तेजोमय-निज-रूपक संस्मृति-बन्ध-विमोचक धर्म-स्थापन-तत्पर भक्तिपरायण-मुक्तिद सर्व-चराचर-पालक सर्व-भावमय-वरक\n\nवैकुंठालय-संस्थित नित्य-आनन्द-पाद-स्थित राम राम राम जय राज राम राम राम राम जय सीता राम\n\nशुद्ध-ब्रह्म-परात-पर कलात्मक-परमेश्वर भय-हार मंगल दशरथ जय जय मंगल सीता मंगल-कर जय मंगल संगत-शुभ-विभा-वोदय आनन्दमृता-वर्षक आश्रिता-वात्सल जय जय रघुपति-राघव राजा पातित-पावन सीता",
+            "bn": "11. নন্য স্পৃহা রঘুপতে হৃদয়ে স্মাদিয়ে সত্যং বাদামি চ ভবন অখিলান্তরত্ম; ভক্তিম প্রযচ্ছ রঘুপুঙ্গব নির্ভরং মে কামাদি দোষ-রহিতং করু মনসং চ।\n\nওঁ শ্রী-সীতা-লক্ষ্মণ-ভারত-সত্রুঘ্ন-হনুমৎসমেত শ্রী রামচন্দ্র পর-ব্রাহ্মণে নমঃ।\n\nশুদ্ধ-ব্রাহ্ম-পরাত-পর রাম কলাত্মক- পরমেশ্বর সেসা-তলপ-সুখ-নিদ্রিত ব্রহ্ম-দ্যামর-প্রার্থিত\n\nচন্দ-কিরণ-কুল-মন্দন শ্রীমদ-দশরথ-নন্দন কাউসल्या-সুখ-বর্ধন বিশ্বামিত্র-প্রিয়-ধন ঘোর-তাটক-ঘাটক মরিচাদি-নিপটক\n\nকৌসিক-মখ-সংরক্ষক শ্রীমদ-অহল্যা-দ্ধারক গৌতম-মুনি-সম্পূজিত সুর-মুনি-বর-গণ-সংস্তুত নাবিকা-ধাবিত-মৃদুপদ মিথিলা-পুর-জন-মোহক\n\nবিদেহ-মনস-রঞ্জক ত্রয়ম্বক-কর্মুক-ভঞ্জক সীতার্পিত-বরমালিকা কৃত-বৈবাহিক-কৌতুক ভার্গব-দর্প-বিনাশক শ্রীমদ-যোধ্য-পালক (শুদ্ধ)\n\nঅগণিত-গুণ-গণ-ভূষিত অভনী-তনয়-কমিত রাকা-চন্দ্র-সামান পিতৃ-বাক্য-সৃত-কানন প্রিয়-গুহা-নিবেদিত-পদ তৎক্ষলিত-নিজ-মৃদু-পদ\n\nভারদ্বাজ-মুখ-নন্দক চিত্রকূটাদ্রি-নিবেদন দশরথ-সন্তত-চিন্তিত কৈকেয়ী-তন-যর্থিত বিরচিত-নিজ-পিতৃ-কর্মক ভারতর্নিপিত-নিজ-পাদুক\n\nডান্ডক-বান জন-পবন দুষ্ট-বীরধ- বিনাশন সারভঙ্গ-সুতিক্ষ্ণ-র্চিত অগস্ত্য-অনুগ্রহ-বর্ধিত গ্রিধ্রাধিপ-সংশেবিত পঞ্চ-ওটি-তট-সুস্থিত\n\nসুপর্ণ-খর্তি-বিদ্যায়ক খরা-দূষণ-মুখ-সুদক সীতা-প্রিয়-হরি-নানুগা মরি-চর্তি-ক্রিদাসুগ বিনষ্ট-সীতা-অন্বেষক গ্রিধ্রাধিপ-গতি-দায়ক\n\nসাবরী-দত্ত-ফলসনা কাবন্ধ-বাহু-ছেদন হনুমৎ-সেবিত-নিজ-পদ নাট-সুগ্রীবাভিষ্ঠদা গর্বিত-ভালী-সমহারক বানর-দূত-প্রেষক\n\nহিতকার-লক্ষ্মণ-সম্যুত কপি-বর-সন্তত-সংশ্মৃত তৎগতি-বিঘ্ন-ধ্বংসক সীতা-প্রাণ-ধারক দুষ্ট-দশন-দুষিত সিস্ত-হনুমদ্ ভূষিত\n\nসীতাবেদিত-কাকাবন কৃত-চূডামণি-দর্শন কপিভর-ভচনা-স্বসিত রাবণ-নিধন-প্রস্থিত বানর-সৈন্য-সমাবৃত সোষিত-সারিদি-সার্থিত\n\nবিভীষ-নাভয়-দায়ক পর্বত-সেতু-নিবন্ধক কুম্ভ-কর্ণ-শীর্ষ-ছেদক রাক্ষস-সঙ্ঘ-বিমার্দক অহি-মহী-রাবণ-চরণ সংহৃত দাস-মুখ-রাবণ\n\nবিধি-ভাব-মুখ-সুর-সংস্তুত খস্থিত-দশরথ-দীক্ষিত সীতা-দর্শন-মোদিত অভিষিক্ত-বিভীষণ-নত পুষ্পক-যান-রোহণ ভারতর্নিপিত-নিৱেশন\n\nভারত-প্রাণ-প্রিয়কর সাকেত-পুরি-ভূষণ সকল-স্বীয়-সমানত রত্ন-লসত-পীঠস্থিত পট্টাভি-শেখ-লঙ্কৃত পার্থিভ-কুল-সম্মানিত\n\nবিভীষ-নারপিত-রঙ্গক কিস-কুলানু-গ্রহ-কর সকল-জীব-সংরক্ষক সমস্ত-লোক-ধারক (শুদ্ধ)\n\nআগত-মুনি-গণ-সংস্তুত বিশ্বৃত-দশকান্তোদ্ভব সীতা-লিঙ্গন-নির্বৃত নীতি-সুরক্ষিত-জনপদ বিপিন-ত্যজাত-জনকজা কৃত-লবণ-সুর-বধ\n\nস্বর্গ-গত-সম্ভুকা-সংস্তুত স্ব-তনয়-কুস-লব-নন্দিত অশ্ব-মেধ-ক্রতু-দীক্ষিত কল-বেদিত-সুর-পাদ অযোধ্যাক-জন-মুক্তিদ\n\nবিধি-মুখ-বিবুধ-নন্দক তেজোময়-নিজ-রূপক সংস্মৃতি-বন্ধ-বিমোচক ধর্ম-স্থাপন-তৎপর ভক্তিপরায়ণ-মুক্তিদ সর্ব-চরাচর-পালক সর্ব-ভাবময়-বরক\n\nবৈকুণ্ঠালয়-সংস্থিত নিত্য-আনন্দ-পাদ-স্থিত রাম রাম রাম জয় রাজা রাম রাম রাম রাম জয় সীতা রাম\n\nশুদ্ধ-ব্রাহ্ম-পরাত-পর কলাত্মক-পরমেশ্বর ভয়-হার মঙ্গল দশরথ জয় জয় মঙ্গল সীতা মঙ্গল-কর জয় মঙ্গল সংগত-শুভ-ভিভা-উদয় আনন্দমৃত-বর্ষক আশ্রিতা-ভাত্সল জয় জয় রঘুপতি-রাঘব রাজা পাতিত-পবন সীতা",
+            "ka": "11. ನನ್ಯ ಸ್ಪೃಹಾ ರಘು-ಪತೇ ಹೃದಯೇ ಸ್ಮಾದಿಯೇ ಸತ್ಯಂ ವಾದಾಮಿ ಚ ಭವನ್ ಅಖಿಲಾಂತರಾತ್ಮ; ಭಕ್ತಿಂ ಪ್ರಯಚ್ಚ ರಘುಪುಂಗವ ನಿರ್ಭರಂ ಮೇ ಕಾಮಾದಿ ದೋಷ-ರಹಿತಂ ಕುರು ಮನಸಂ ಚ।\n\nಓಂ ಶ್ರೀ-ಸೀತಾ-ಲಕ್ಷ್ಮಣ-ಭರತ-ಸತ್ರುಘ್ನ-ಹನುಮತ್-ಸಮೇತ ಶ್ರೀ ರಾಮಚಂದ್ರ ಪರ-ಬ್ರಹ್ಮಣೇ ನಮಃ।\n\nಶುದ್ಧ-ಬ್ರಹ್ಮ-ಪರಾತ-ಪರ ರಾಮ ಕಲಾತ್ಮಕ- ಪರಮೇಶ್ವರ ಸೇಸ-ತಲ್ಪ-ಸুখ-ನಿದ್ರಿತ ಬ್ರಹ್ಮ-ದ್ಯಾಮರ-ಪ್ರಾರ್ಥಿತ\n\nಚಂದ-ಕಿರಣ-ಕುಲ-ಮಂದನ ಶ್ರೀಮದ್-ದಶರಥ-ನಂದನ ಕೌಸಲ್ಯ-ಸુખ-ವರ್ಧನ ವಿಶ್ವಾಮಿತ್ರ-ಪ್ರಿಯ-ಧನ ಘೋರ-ತಾಟಕ-ಘಾಟಕ ಮರಿಚಾದಿ-ನಿಪಟಕ\n\nಕೌಸಿಕ-ಮಖ-ಸಂರಕ್ಷಕ ಶ್ರೀಮದ್-ಅಹಲ್ಯೋ-ಧ್ಯಾರಕ ಗೌತಮ-ಮುನಿ-ಸಂಪೂಜಿತ ಸುರ-ಮುನಿ-ವರ-ಗಣ-ಸಂಸ್ತುತ ನಾವಿಕಾ-ಧಾವಿತ-ಮೃದುಪಾದ ಮಿಥಿಲಾ-ಪುರ-ಜನ-ಮೋಹಕ\n\nವೀದೆಹ-ಮನಸ-ರಂಜಕ ತ್ರಯಂಬಕ-ಕರ್ಮುಕ-ಭಂಜಕ ಸೀತಾರ್ಪಿತ-ವರಮಾಲಿಕಾ ಕೃತ-ವೈವಾಹಿಕ-ಕೌತುಕ ಭಾರ್ಗವ-ದರ್ಪ-ವಿನಾಶಕ ಶ್ರೀಮದ್-ಯೋಧ್ಯ-ಪಾಲಕ (ಶುದ್ಧ)\n\nಅಗಣಿತ-ಗುಣ-ಗಣ-ಭೂಷಿತ ಅವನಿ-ತನಯ-ಕಮಿತ ರಾಕ-ಚಂದ್ರ-ಸಮಾನ ಪಿತ್ರಿ-ವಾಕ್ಯ-ಸೃತ-ಕಾನನ ಪ್ರಿಯ-ಗುಹಾ-ನಿವೇದಿತ-ಪಾದ ತತ್ವಕ್ಷಲಿತ-ನಿಜ-ಮೃದು-ಪಾದ\n\nಭರದ್ವಾಜ-ಮುಖ-ನಂದಕ ಚಿತ್ರಕೂಟಾದ್ರಿ-ನಿಕೇತನ ದಶರಥ-ಸಂತತ-ಚಿಂಚಿತ ಕೈಕೇಯಿ-ತನ-ಯಾರ್ಥಿತ ವಿರಚಿತ-ನಿಜ-ಪಿತೃ-ಕರ್ಮಕ ಭರತರ್ಪಿತ-ನಿಜ-ಪಾದುಕ\n\nದಂಡಕ-ವನ-ಜನ-ಪವನ ದುಷ್ಟ-ವೀರಧ- ವಿನಾಶನ ಸರಭಂಗ-ಸುತಿಕ್ಷ್ಣ-ರ್ಚಿತ ಅಗಸ್ತ್ಯಾನುಗ್ರಹ-ವರ್ಧಿತ ಗೃಹಧ್ರಾಧಿಪ-ಸಂಸೆವಿತ ಪಂಚ-ವಟಿ-ತಟ-ಸುಸ್ಥಿತ\n\nಸுபರ್ಣ-ಖರ್ತಿ-ವಿಧಾಯಕ ಖರಾ-ದೂಷಣ-ಮುಖ-ಸುಡಕ ಸೀತಾ-ಪ್ರಿಯ-ಹರಿ-ನಾನುಗ ಮರಿ-ಚರ್-ಕ್ರೀಡಾಸುಗ ವಿನಾಸ್ತ-ಸೀತಾ-ನವೇಶಕ ಗೃಹಧ್ರಾಧಿಪ-ಗತಿ-ದಾಯಕ\n\nಸಾಬರಿ-ದತ್ತ-ಫಲಸನಾ ಕಬಂಧ-ಬಾಹು-ಕ್ಷಣ ಹನುಮತ್-ಸೇವಿತ-ನಿಜ-ಪಾದ ನಟ-ಸುಗ್ರೀವಾಭಿಷ್ಠದಾ ಗರ್ವಿತ-ವಾಲಿ-ಸಂಹಾರಕ ವಾನರ-ದೂತ-ಪ್ರೇಷಕ\n\nಹಿತಕಾರ-ಲಕ್ಷ್ಮಣ-ಸಮ್ಯುತ ಕಪಿವರ-ಸಂತತ-ಸಂಸ್ಮೃತ ತತ್‌ಗತಿ-ವಿಘ್ನ-ಧ್ವಂಸಕ ಸೀತಾ-ಪ್ರಾಣ-ಧಾರಕ ದುಷ್ಟ-ದಶನ-ದುಷಿತ ಸಿಸ್ತ-ಹನುಮದ್ ಭೂಷಿತ\n\nಸೀತಾವೇದಿತ-ಕಾಕವನ ಕೃತ-ಚೂಡಾಮಣಿ-ದರ್ಶನ ಕಪಿವರ-ವಚನ-ಸ್ವಸಿತ ರಾವಣ-ನಿಧಾನ-ಪ್ರಸ್ಥಿತ ವಾನರ-ಸೈನ್ಯ-ಸಮಾವೃತ ಸೋಷಿತ-ಸಾರಿಡಿ-ಸಾರ್ಥಿತ\n\nವಿಭೀಷ-ನಾಭಯ-ದಾಯಕ ಪರ್ವತ-ಸೇತು-ನಿಬಂಧಕ ಕುಂಬ-ಕರ್ಣ-ಶಿರಃ-ಚೇದಕ ರಾಕ್ಷಸ-ಸಂಘ-ವಿಮಾರ್ದಕ ಅಹಿ-ಮಹೀ-ರಾವಣ-ಚರಣ ಸಂಹೃತ ದಾಸ-ಮುಖ-ರಾವಣ\n\nವಿಧಿ-ಭಾವ-ಮುಖ-ಸುರ-ಸಂಸ್ತುತ ಖಸ್ಥಿತ-ದಶರಥ-ವಿಕ್ಷಿತ ಸೀತಾ-ದರ್ಶನ-ಮೋದಿತ ಅಭಿಷಕ್ತ-ವಿಭೀಷಣ-ನತ ಪುಷ್ಪಕ-ಯಾನ-ರೋಹಣ ಭರದ್ವಾಜ-ಭಿ-ನಿವೇಶನ\n\nಭರತ-ಪ್ರಾಣ-ಪ್ರಿಯಕರ ಸಾಕೇತ-ಪುರಿ-ಭೂಷಣ ಎಲ್ಲಾ-ಸ್ವೀಯ-ಸಮಾನತ ರತ್ನ-ಲಸತ-ಪೀಠಸ್ಥಿತ ಪಟ್ಟಾಭಿ-ಶೇಖ-ಲಂಕೃತ ಪಾರ್ಥಿವ-ಕುಲ-ಸಮ್ಮಾನಿತ\n\nವಿಭೀಷ-ನರ್ಪಿತ-ರಂಗಕ ಕಿಸಾ-ಕುಲಾನು-ಗ್ರಹ-ಕರ ಎಲ್ಲಾ-ಜೀವ-ಸಂರಕ್ಷಕ ಸಂಪೂರ್ಣ-ಲೋಕ-ಧಾರಕ (ಶುದ್ಧ)\n\nಆಗತ-ಮುನಿಗಣ-ಸಂಸ್ತುತ ವಿಶ್ವೃತ-ದಶಕಾಂತೋದ್ಭವ ಸೀತೆ-ಲಿಂಗನ-ನಿರ್ವೃತ ನೀತಿ-ಸುರಕ್ಷಿತ-ಜನಪದ ವೀಪಿನ-ತ್ಯಜಿತ-ಜನಕಜ ಕೃತ-ಲವಣ-ಸುರ-ವಧ\n\nಸ್ವರ್ಗ-ಗತ-ಸಂಭುಕಾ-ಸಂಸ್ತುತ ಸ್ವ-ತನಯ-ಕೂಸ-ಲವ-ನಂದಿತ ಅಶ್ವ-ಮೇಧ-ಕ್ರಮ-ದೀಕ್ಷಿತ ಕಲಾ-ವೇದಿತ-ಸುರ-ಪಾದ ಅಯೋಧ್ಯಾಕ-ಜನ-ಮುಕ್ತಿದ\n\nವಿಧಿ-ಮುಖ-ವಿಭುಧ-ನಂದಕ ತೇಜೋಮಯ-ನಿಜ-ರೂಪಕ ಸಂಸ್ಮೃತಿ-ಬಂಧ-ವಿಮೋಚಕ ಧರ್ಮ-ಸ್ಥಾಪನೆ-ತತ್ಪರ ಭಕ್ತಿಪರಾಯಣ-ಮುಕ್ತಿದ ಎಲ್ಲಾ-ಚರಾಚರ-ಪಾಲಕ ಎಲ್ಲಾ-ಭಾವಮಯ-ವರಕ\n\nವೈಕುನ್ಠಾಲಯ-ಸಂಸ್ಥಿತ ನಿತ್ಯಾನಂದ-ಪಾದ-ಸ್ಥಿತ ರಾಮ ರಾಮ ರಾಮ ಜಯ ರಾಜ ರಾಮ ರಾಮ ರಾಮ ರಾಮ ಜಯ ಸೀತಾ ರಾಮ\n\nಶುದ್ಧ-ಬ್ರಹ್ಮ-ಪರಾತ-ಪರ ಕಲಾತ್ಮಕ-ಪರಮೇಶ್ವರ ಭಯ-ಹರ ಮಂಗಳ ದಶರಥ ಜಯ ಜಯ ಮಂಗಳ ಸೀತಾ ಮಂಗಳ-ಕರ ಜಯ ಮಂಗಳ ಸಂಗತ-ಶುಭ-ವಿಭಾ-ಊದಯ ಆನಂದಮೃತ-ವರ್ಷಕ ಆಶ್ರಿತ-ವಾತ್ಸಲ ಜಯ ಜಯ ರಘುಪತಿ-ರಾಘವ ರಾಜಾ ಪಾತಿತ-ಪವನ್ ಸೀತಾ"
+        },
+        "translation": {
+            "en": "This hymn, Sri Rama Nama Sankirtanam, is a profound devotional recitation glorifying Lord Sri Ramachandra along with his divine consort Sri Sita, his brothers Lakshmana, Bharata, Satrughna, and the devoted Hanuman. The devotee prays from the heart, seeking liberation from desires and sins, and requests steadfast devotion free from worldly attachments.\n\nThe hymn enumerates Sri Rama's divine qualities, his pure Brahman nature, and his activities that uphold dharma. It praises his incarnation in Ayodhya, his childhood and youthful deeds, the guidance of saints and sages, and the protection of devotees. It recalls the destruction of demons, protection of the righteous, and the blessings upon all beings.\n\nEach verse invokes the names and deeds of the divine, from cosmic acts to personal interventions, emphasizing Sri Rama’s compassion, valor, and dharmic rule. The hymn also celebrates sacred places, holy acts, and the protection of all life by the divine. The concluding lines exult the auspiciousness, victory, and grace of Sri Rama and Sita, portraying them as the ultimate refuge and source of joy and liberation for devotees.\n\nChanting this hymn fosters spiritual devotion, purification of mind and heart, and alignment with dharma. It is intended to invoke divine presence, protection, and guidance while expressing love, surrender, and reverence for the Lord and his companions."
+        }
+    },
+    {
+        "id": 555,
+        "slug": "guru-ashtakam",
+        "number": 555,
         "title": "Guru Ashtakam",
         "firstLine": "Shariram surupam sada rogamuktam",
         "category": "general",
@@ -200,54 +240,420 @@
         }
     },
     {
-        "id": 12,
+        "id": 8,
         "slug": "sri-ramakrishna-suprabhatam",
-        "number": 12,
+        "number": 8,
         "title": "Sri Ramakrishna Suprabhatam",
         "firstLine": "Om dharmasya hanimabhitah paridrishya",
-        "category": "ramakrishna",
+        "category": [
+            "general",
+            "ramakrishna"
+        ],
         "lyrics": {
             "en": "Om dharmasya hanimabhitah paridrishya sighram\nKamara pushkara iti prathite samriddhe\nGrame suvipra sadane hyabhijata deva\nSri Ramakrishna bhagavan tava suprabhatam\n\nBalye samadhyanubhava sitapakshi panktīm\nSandrishya megha patale samavapi yena\nIsaikya vedana sukham siva ratri kale\nSri Ramakrishna bhagavan tava suprabhatam\n\nNana vidhanayi sanatana dharma margan\nKraistadi chitra niyaman paradesa dharman\nAsthaya chaikya manayo ranubhuta vamstvam\nSri Ramakrishna bhagavan tava suprabhatam\n\nHe kalika pada saroruha krishna bhringa\nMatus samasta jagatam api saradayah\nAikyam hyadarsi tarasa paramam tvayaiva\nSri Ramakrishna bhagavan tava suprabhatam",
-            "hi": "ॐ धर्मस्य हानिमभितः परिदृश्य शीघ्रम्\nकामारपुष्कर इति प्रथिते समृद्धे\nग्रामे सुविप्र सदने ह्यभिजात देव\nश्री रामकृष्ण भगवन् तव सुप्रभातम्\n\nबाल्ये समाध्यानुभव सीतपक्षि पंक्तिम्\nसंद्रिश्य मेघ पतले समवापि येन\nईशैक्य वेदन सुखं शिवरात्रि काले\nश्री रामकृष्ण भगवन् तव सुप्रभातम्\n\nनानाविधानि सनातन धर्म मार्गान्\nक्रैस्तादि चित्र नियमन् परदेश धर्मान्\nआस्थाय चैत्य मनयो रणुभूत वंस्त्वम्\nश्री रामकृष्ण भगवन् तव सुप्रभातम्",
-            "ka": "ಓಂ ಧರ್ಮಸ್ಯ ಹಾನಿಮಭಿತಃ ಪರಿದೃಶ್ಯ ಶೀಘ್ರಂ\nಕಾಮಾರಪುಷ್ಕರ ಇತಿ ಪ್ರಸಿದ್ಧ ಸಮೃದ್ಧ ಗ್ರಾಮದಲ್ಲಿ\nಸುವಿಪ್ರ ಸದನದಲ್ಲಿ ಜನಿಸಿದ ದೇವಾ\nಶ್ರೀ ರಾಮಕೃಷ್ಣ ಭಗವನ್ ತವ ಸುಪ್ರಭಾತಂ",
-            "bn": "ওঁ ধর্মস্য হানিমভিতঃ পরিদৃশ্য শীঘ্রং\nকামারপুষ্কর ইতি প্রথিতে সমৃদ্ধে\nগ্রামে সুবিপ্র সদনে অভিজাত দেব\nশ্রী রামকৃষ্ণ ভগবন তব সুপ্রভাতম"
+            "hi": "ॐ धर्मस्य हानिमभितः परिदृश्य शीघ्रम्\nकामारपुष्कर इति प्रथिते समृद्धे\nग्रामे सुविप्र सदने ह्यभिजात देव\nश्री रामकृष्ण भगवन् तव सुप्रभातम्\n\nबाल्ये समाध्यानुभव सीतपक्षि पंक्तिम्\nसंद्रिश्य मेघ पतले समवापि येन\nईशैक्य वेदन सुखं शिवरात्रि काले\nश्री रामकृष्ण भगवन् तव सुप्रभातम्\n\nनानाविधानि सनातन धर्म मार्गान्\nक्रैस्तादि चित्र नियमन् परदेश धर्मान्\nआस्थाय चैत्य मनयो रणुभूत वंस्त्वम्\nश्री रामकृष्ण भगवन् तव सुप्रभातम्\n\nहे कालिका पद सरोरुह कृष्ण भृंग\nमातुः समस्त जगताम् अपि सारदायाः\nऐक्यं ह्यदर्शि तरसा परमं त्वयैव\nश्री रामकृष्ण भगवन् तव सुप्रभातम्",
+            "bn": "ওঁ ধর্মস্য হানিমভিতঃ পরিদৃশ্য শীঘ্রং\nকামারপুষ্কর ইতি প্রথিতে সমৃদ্ধে\nগ্রামে সুবিপ্র সদনে অভিজাত দেব\nশ্রী রামকৃষ্ণ ভগবন তব সুপ্রভাতম\n\nবাল্যে সমাধ্যানুভব সীতপক্ষি পংক্তিম\nসন্দৃশ্য মেঘ পতলে সমবাপি যেন\nঈশৈক্য বেদন সুখং শিবরাত্রি কালে\nশ্রী রামকৃষ্ণ ভগবন তব সুপ্রভাতম\n\nনানাবিধানি সনাতন ধর্ম মার্গান\nক্রাইস্তাদি চিত্র নিয়মন পরদেশ ধর্মান\nআস্থায় চৈক্য মনয়ো অনভূত বংস্ত্বম\nশ্রী রামকৃষ্ণ ভগবন তব সুপ্রভাতম\n\nহে কালিকা পদ সরোরুহ কৃষ্ণ ভৃঙ্গ\nমাতুঃ समस्त জগতাম আপি সারদাযাঃ\nঐক্যং হ্যদর্শি তরসা পরমং ত্বয়ৈব\nশ্রী রামকৃষ্ণ ভগবন তব সুপ্রভাতম",
+            "ka": "ಓಂ ಧರ್ಮಸ್ಯ ಹಾನಿಮಭಿತಃ ಪರಿದೃಶ್ಯ ಶೀಘ್ರಂ\nಕಾಮಾರಪುಷ್ಕರ ಇತಿ ಪ್ರಥಿತೇ ಸಮೃದ್ಧೇ\nಗ್ರಾಮೇ ಸುವಿಪ್ರ ಸದನೇ ಹ್ಯಭಿಜಾತ ದೇವ\nಶ್ರೀ ರಾಮಕೃಷ್ಣ ಭಗವನ್ ತವ ಸುಪ್ರಭಾತಂ\n\nಬಾಲ್ಯೇ ಸಮಾಧ್ಯಾನುಭವ ಸೀತಪಕ್ಷಿ ಪಂಕ್ತಿಂ\nಸಂದೃಶ್ಯ ಮೇಘ ಪತಲೇ ಸಮವಾಪಿ ಯೇನ\nಈಶೈಕ್ಯ ವೇದನ ಸುಖಂ ಶಿವರಾತ್ರಿ ಕಾಲೇ\nಶ್ರೀ ರಾಮಕೃಷ್ಣ ಭಗವನ್ ತವ ಸುಪ್ರಭಾತಂ\n\nನಾನಾವಿಧಾನಿ ಸನಾತನ ಧರ್ಮ ಮಾರ್ಗಾನ್\nಕ್ರೈಸ್ತಾದಿ ಚಿತ್ರ ನಿಯಮನ ಪರದೇಶ ಧರ್ಮಾನ್\nಆಸ್ಥಾಯ ಚೈಕ್ಯ ಮನಯೋ ಅನುಭೂತ ವಂಸ್ತ್ವಂ\nಶ್ರೀ ರಾಮಕೃಷ್ಣ ಭಗವನ್ ತವ ಸುಪ್ರಭಾತಂ\n\nಹೇ ಕಾಲಿಕಾ ಪದ ಸರೋರುಹ ಕೃಷ್ಣ ಭೃಂಗ\nಮಾತುಃ ಸಮಸ್ತ ಜಗತಾಮ್ ಅಪಿ ಸಾರದಾಯಾಃ\nಐಕ್ಯಂ ಹ್ಯದರಶಿ ತರಸಾ ಪರಮಂ ತ್ವಯೈವ\nಶ್ರೀ ರಾಮಕೃಷ್ಣ ಭಗವನ್ ತವ ಸುಪ್ರಭಾತಂ"
         },
         "translation": {
-            "en": ""
+            "en": "This hymn is a devotional morning salutation (Suprabhatam) offered to Sri Ramakrishna, awakening the divine presence with reverence and love. It begins by recalling the time when righteousness was declining in the world and the Divine incarnated in the sacred village of Kamarpukur, taking birth in a noble Brahmin family as Sri Ramakrishna. The hymn then reflects on his extraordinary spiritual experiences even in childhood, such as entering deep states of samadhi upon witnessing simple natural scenes like a row of white cranes against dark rain clouds, revealing his innate realization of the unity of the Divine. It praises his profound realization of the oneness of God, which he experienced during sacred occasions like Shivaratri and through intense spiritual practices. The verses also highlight his unique spiritual mission of practicing and realizing the truths of many religious paths — including the various traditions of Sanatana Dharma as well as other faiths such as Christianity — demonstrating that all sincere paths ultimately lead to the same Divine Reality. Finally, the hymn glorifies him as the devoted servant and spiritual bee at the lotus feet of Mother Kali and acknowledges the spiritual unity he revealed between the Divine Mother Kali and Holy Mother Sarada Devi, the universal mother of all beings. Chanting this hymn is a way of offering reverence at dawn, remembering Sri Ramakrishna’s divine life, his message of harmony among religions, and his embodiment of devotion, knowledge, and universal love."
         }
     },
     {
-        "id": 13,
+        "id": 9,
         "slug": "sri-ramakrishna-mangala-sasanam",
-        "number": 13,
+        "number": 9,
         "title": "Sri Ramakrishna Mangala Sasanam",
         "firstLine": "Om mangalam desikendraya yaminam cakravartine",
-        "category": "ramakrishna",
+        "category": [
+            "general",
+            "ramakrishna"
+        ],
         "lyrics": {
             "en": "1. Om mangalam desikendraya yaminam cakravartine parasakti-svarupinyai devyai bhavatu mangalam\n2. satya sandhasya bhaktasya kshudiramasyasunave gadadharaya medinyam avatirnaya mangalam\n\n3. gadadhara sunamne ca bhaktyaveshtita chetase anadritanya vidyaya mangalam brahmacarine\n4. bhavatarana dakshaya sannidhau dakshineshware apurva kalika puja niratayastu mangalam\n\n5. mathuranatha visvasa seva nirvrta chetase tapascarana silaya yogisayastu mangalam\n6. sadhaka vyaja samdishta sarvamnaya suvartmane sarva tantra svatantraya nitya siddhaya mangalam\n\n7. tapasi brahmacarye ca ya svasya saha dharmine tasyah sri sarada devya bhartre bhavatu mangalam\n\n8. totapuri yatiprapta caramasrama hetuke samadhau nirvikalpakhye sudirghasthaya mangalam\n\n9. sthitaya maturadesat jagad uddhara karanat purna hamta sthitau bhava mukhe bhavatu mangalam\n\n10. pasyate mataram strishu mrtpindam kancane tatha sarvabhuteshu ca brahma mayatitaya mangalam\n\n11. sadaropi viraktanam yatinam puratastu yah sada siva svarupaya tasyai bhavatu mangalam\n\n12. brahmanandadi sacchishya gana pujya padaya te teshu diptatma bodhaya paramahamsaya mangalam\n\n13. garjad vedanta simhena vivekananda rupina apasta nidra bhuryena karita tasya mangalam\n\n14. samsara sagarottara setu bhutanghri renave gurave sarvalokanam ramakrishnaya mangalam\n\n15. om sthapakaya ca dharmasya sarva dharma svarupine avatara varishthaya ramakrishnaya mangalam\n\n16. mangalam gurudevaya devyai matre ca mangalam mangalam bhakta vrindebhyah sarvalokaya mangalam",
-            "hi": "१. ॐ मंगलं देशिकेन्द्राय यमिनां चक्रवर्तिने पराशक्ति स्वरूपिण्यै देव्यै भवतु मंगलम्\n२. सत्यसंधस्य भक्तस्य क्षुदिरामस्य सूनवे गदाधराय मेदिन्याम् अवतीर्णाय मंगलम्\n\n३. गदाधर सुनाम्ने च भक्त्यावेष्टित चेतसे अनादृतान्य विद्याय मंगलं ब्रह्मचारिणे\n४. भवतारण दक्षाय सन्निधौ दक्षिणेश्वरे अपूर्व कालिका पूजा निरतायास्तु मंगलम्\n\n५. मथुरानाथ विश्वास सेवा निर्वृत चेतसे तपश्चरनशीलाय योगीशायास्तु मंगलम्\n६. साधक व्याज संदिष्ट सर्वाम्नाय सुवर्त्मने सर्वतन्त्र स्वतन्त्राय नित्य सिद्धाय मंगलम्\n\n७. तपसि ब्रह्मचर्ये च या स्वस्य सह धर्मिणे तस्याः श्री सारदा देव्या भर्त्रे भवतु मंगलम्\n\n८. तोतापुरी यति प्राप्त चतुर्थाश्रम हेतवे समाधौ निर्विकल्पाख्ये सुदीर्घस्थाय मंगलम्\n\n९. स्थिताय मातुरादेशात् जगदुद्धार कारणात् पूर्णाहंतास्थितौ भावमुखे भवतु मंगलम्\n\n१०. पश्यते मातरं स्त्रीषु मृत्पिण्डं काञ्चने तथा सर्वभूतेषु च ब्रह्म मायातीताय मंगलम्\n\n११. सदैव विरक्तानां यतीनां पुरतस्तु यः सदा शिव स्वरूपाय तस्यै भवतु मंगलम्\n\n१२. ब्रह्मानन्दादि सच्छिष्य गण पूज्य पदाय ते तेषु दीप्तात्मबोधाय परमहंसाय मंगलम्\n\n१३. गर्जद्वेदान्त सिंहेन विवेकानन्द रूपिणा अपास्त निद्राभूर्येण कृतं तस्य मंगलम्\n\n१४. संसार सागरोत्तर सेतु भूताङ्घ्रि रेणवे गुरवे सर्वलोकानां रामकृष्णाय मंगलम्\n\n१५. ॐ स्थापकाय च धर्मस्य सर्वधर्म स्वरूपिणे अवतार वरिष्ठाय रामकृष्णाय मंगलम्\n\n१६. मंगलं गुरुदेवाय देव्यै मात्रे च मंगलम् मंगलं भक्तवृन्देभ्यः सर्वलोकाय मंगलम्",
+            "hi": "१. ॐ मंगलं देशिकेन्द्राय यमिनां चक्रवर्तिने पराशक्ति स्वरूपिण्यै देव्यै भवतु मंगलम्\n२. सत्यसंधस्य भक्तस्य क्षुदिरामस्य सूनवे गदाधराय मेदिन्याम् अवतीर्णाय मंगलम्\n\n३. गदाधर सुनाम्ने च भक्त्यावेष्टित चेतसे अनादृतान्य विद्याय मंगलं ब्रह्मचारिणे\n४. भवतारण दक्षाय सन्निधौ दक्षिणेश्वरे अपूर्व कालिका पूजा निरतायास्तु मंगलम्\n\n५. मथुरानाथ विश्वास सेवा निर्वृत चेतसे तपश्चरनशीलाय योगीशायास्तु मंगलम्\n६. साधक व्याज संदिष्ट सर्वाम्नाय सुवर्त्मने सर्वतन्त्र स्वतन्त्राय नित्य सिद्धाय मंगलम्\n\n७. तपसि ब्रह्मचर्ये च या स्वस्य सह धर्मिणे तस्याः श्री सारदा देव्या भर्त्रे भवतु मंगलम्\n\n८. तोतापुरी यति प्राप्त चरमाश्रम हेतवे समाधौ निर्विकल्पाख्ये सुदीर्घस्थाय मंगलम्\n\n९. स्थिताय मातुरादेशात् जगदुद्धार कारणात् पूर्णाहंतास्थितौ भावमुखे भवतु मंगलम्\n\n१०. पश्यते मातरं स्त्रीषु मृत्पिण्डं काञ्चने तथा सर्वभूतेषु च ब्रह्म मायातीताय मंगलम्\n\n११. सदैव विरक्तानां यतीनां पुरतस्तु यः सदा शिव स्वरूपाय तस्यै भवतु मंगलम्\n\n१२. ब्रह्मानन्दादि सच्छिष्य गण पूज्य पदाय ते तेषु दीप्तात्मबोधाय परमहंसाय मंगलम्\n\n१३. गर्जद्वेदान्त सिंहेन विवेकानन्द रूपिणा अपास्त निद्रा भूर्येण कृतं तस्य मंगलम्\n\n१४. संसार सागरोत्तर सेतु भूताङ्घ्रि रेणवे गुरवे सर्वलोकानां रामकृष्णाय मंगलम्\n\n१५. ॐ स्थापकाय च धर्मस्य सर्वधर्म स्वरूपिणे अवतार वरिष्ठाय रामकृष्णाय मंगलम्\n\n१६. मंगलं गुरुदेवाय देव्यै मात्रे च मंगलम् मंगलं भक्तवृन्देभ्यः सर्वलोकाय मंगलम्",
             "bn": "১. ওঁ মঙ্গলং দেশিকেন্দ্রায় যমিনাং চক্রবর্তিনে পরাশক্তি স্বরূপিণ্যৈ দেব্যৈ ভবতু মঙ্গলম\n২. সত্যসন্ধস্য ভক্তস্য ক্ষুদিরামস্য সুনবে গদাধরায় মেদিন্যাম অবতীর্ণায় মঙ্গলম\n\n৩. গদাধর সুনাম্নে চ ভক্ত্যাবেষ্টিত চেতসে অনাদৃতান্য বিদ্যায় মঙ্গলং ব্রহ্মচারিণে\n৪. ভবতারণ দক্ষায় সন্নিধৌ দক্ষিণেশ্বরে অপূর্ব কালিকা পূজা নিরতায়াস্তু মঙ্গলম\n\n৫. মথুরানাথ বিশ্বাস সেবা নির্বৃত চেতসে তপশ্চরণশীলায় যোগীশায়াস্তু মঙ্গলম\n৬. সাধক ব্যাজ সন্দিষ্ট সর্বাম্নায় সুবর্ত্মনে সর্বতন্ত্র স্বাধীনায় নিত্য সিদ্ধায় মঙ্গলম\n\n৭. তপসি ব্রহ্মচার্যে চ যা স্বস্য সহ ধর্মিণে তস্যাঃ শ্রী সারদা দেব্যাঃ ভর্ত্রে ভবতু মঙ্গলম\n\n৮. তোতাপুরি যতি প্রাপ্ত চরমাশ্রম হেতুকে সমাধৌ নির্বিকল্পাখ্যে সুদীর্ঘস্থায় মঙ্গলম\n\n৯. স্থিতায় মাতুরাদেশাৎ জগদুদ্ধার কারণাৎ পূর্ণাহন্তা স্থিতৌ ভাবমুখে ভবতু মঙ্গলম\n\n১০. পশ্যতে মাতরং স্ত্রীষু মৃত্পিণ্ডং কাঞ্চনে তথা সর্বভূতেষু চ ব্রহ্ম মায়াতীতায় মঙ্গলম\n\n১১. সদারোপি বিরক্তানাং যতীনাং পুরতস্তু যঃ সদা শিব স্বরূপায় তস্যৈ ভবতু মঙ্গলম\n\n১২. ব্রহ্মানন্দাদি সচ্ছিষ্য গণ পূজ্য পদায় তে তেষু দীপ্ত আত্মবোধায় পরমহংসায় মঙ্গলম\n\n১৩. গর্জদ্বেদান্ত সিংহেন বিবেকানন্দ রূপিণা অপাস্ত নিদ্রা ভূর্যেণ কৃতং তস্য মঙ্গলম\n\n১৪. সংসার সাগরোত্তর সেতু ভূত অঙ্গ্রি রেণবে গুরুবে সর্বলোকানাং রামকৃষ্ণায় মঙ্গলম\n\n১৫. ওঁ স্থাপকায় চ ধর্মস্য সর্বধর্ম স্বরূপিণে অবতার বরিষ্ঠায় রামকৃষ্ণায় মঙ্গলম\n\n১৬. মঙ্গলং গুরুদেবায় দেব্যৈ মাত্রে চ মঙ্গলম মঙ্গলং ভক্তবৃন্দেব্যঃ সর্বলোকায় মঙ্গলম",
-            "ka": "೧. ಓಂ ಮಂಗಳಂ ದೇಶಿಕೇಂದ್ರಾಯ ಯಮಿನಾಂ ಚಕ್ರವರ್ತಿನೇ ಪರಾಶಕ್ತಿ ಸ್ವರೂಪಿಣ್ಯೈ ದೇವ್ಯೈ ಭವತು ಮಂಗಳಂ\n೨. ಸತ್ಯಸಂಧಸ್ಯ ಭಕ್ತಸ್ಯ ಕ್ಷುದಿರಾಮಸ್ಯ ಸುನವೇ ಗದಾಧರಾಯ ಮೇದಿನ್ಯಾಂ ಅವತೀರ್ಣಾಯ ಮಂಗಳಂ\n\n೩. ಗದಾಧರ ಸುನಾಮ್ನೇ ಚ ಭಕ್ತ್ಯಾವೇಶ್ಠಿತ ಚೇತಸೇ ಅನಾದೃತಾನ್ಯ ವಿದ್ಯಾಯ ಮಂಗಳಂ ಬ್ರಹ್ಮಚಾರಿಣೇ\n೪. ಭವತಾರಣ ದಕ್ಷಾಯ ಸನ್ನಿಧೌ ದಕ್ಷಿಣೇಶ್ವರೇ ಅಪೂರ್ವ ಕಾಲಿಕಾ ಪೂಜಾ ನಿರತಾಯಾಸ್ತು ಮಂಗಳಂ\n\n೫. ಮಥುರಾನಾಥ ವಿಶ್ವಾಸ ಸೇವಾ ನಿವೃತ್ತ ಚೇತಸೇ ತಪಶ್ಚರಣ ಶೀಲಾಯ ಯೋಗೀಶಾಯಾಸ್ತು ಮಂಗಳಂ\n೬. ಸಾಧಕ ವ್ಯಾಜ ಸಂದಿಷ್ಟ ಸರ್ವಾಮ್ನಾಯ ಸುವರ್ತ್ಮನೇ ಸರ್ವತಂತ್ರ ಸ್ವತಂತ್ರಾಯ ನಿತ್ಯ ಸಿದ್ಧಾಯ ಮಂಗಳಂ\n\n೭. ತಪಸಿ ಬ್ರಹ್ಮಚರ್ಯೇ ಚ ಯಾ ಸ್ವಸ್ಯ ಸಹ ಧರ್ಮಿಣೇ ತಸ್ಯಾಃ ಶ್ರೀ ಸಾರದಾ ದೇವ್ಯಾಃ ಭರ್ತ್ರೆ ಭವತು ಮಂಗಳಂ\n\n೮. ತೋಟಾಪುರಿ ಯತಿ ಪ್ರಾಪ್ತ ಚರಮಾಶ್ರಮ ಹೇತುಕೇ ಸಮಾಧೌ ನಿರ್ವಿಕಲ್ಪಾಖ್ಯೇ ಸುದೀರ್ಘಸ್ಥಾಯ ಮಂಗಳಂ\n\n೯. ಸ್ಥಿತಾಯ ಮಾತುರಾದೇಶಾತ್ ಜಗದುದ್ದಾರ ಕಾರಣಾತ್ ಪೂರ್ಣಾಹಂತಾ ಸ್ಥಿತೌ ಭಾವಮುಖೇ ಭವತು ಮಂಗಳಂ\n\n೧೦. ಪಶ್ಯತೇ ಮಾತರಂ ಸ್ತ್ರೀಷು ಮೃತ್ಪಿಂಡಂ ಕಾಂಚನೇ ತಥಾ ಸರ್"
+            "ka": "೧. ಓಂ ಮಂಗಳಂ ದೇಶಿಕೇಂದ್ರಾಯ ಯಮಿನಾಂ ಚಕ್ರವರ್ತಿನೇ ಪರಾಶಕ್ತಿ ಸ್ವರೂಪಿಣ್ಯೈ ದೇವ್ಯೈ ಭವತು ಮಂಗಳಂ\n೨. ಸತ್ಯಸಂಧಸ್ಯ ಭಕ್ತಸ್ಯ ಕ್ಷುದಿರಾಮಸ್ಯ ಸುನವೇ ಗದಾಧರಾಯ ಮೇದಿನ್ಯಾಂ ಅವತೀರ್ಣಾಯ ಮಂಗಳಂ\n\n೩. ಗದಾಧರ ಸುನಾಮ್ನೇ ಚ ಭಕ್ತ್ಯಾವೇಷ್ಠಿತ ಚೇತಸೇ ಅನಾದೃತಾನ್ಯ ವಿದ್ಯಾಯ ಮಂಗಳಂ ಬ್ರಹ್ಮಚಾರಿಣೇ\n೪. ಭವತಾರಣ ದಕ್ಷಾಯ ಸನ್ನಿಧೌ ದಕ್ಷಿಣೇಶ್ವರೇ ಅಪೂರ್ವ ಕಾಲಿಕಾ ಪೂಜಾ ನಿರತಾಯಾಸ್ತು ಮಂಗಳಂ\n\n೫. ಮಥುರಾನಾಥ ವಿಶ್ವಾಸ ಸೇವಾ ನಿರ್ವೃತ ಚೇತಸೇ ತಪಶ್ಚರಣಶೀಲಾಯ ಯೋಗೀಶಾಯಾಸ್ತು ಮಂಗಳಂ\n೬. ಸಾಧಕ ವ್ಯಾಜ ಸಂದಿಷ್ಟ ಸರ್ವಾಮ್ನಾಯ ಸುವರ್ತ್ಮನೇ ಸರ್ವತಂತ್ರ ಸ್ವತಂತ್ರಾಯ ನಿತ್ಯ ಸಿದ್ಧಾಯ ಮಂಗಳಂ\n\n೭. ತಪಸಿ ಬ್ರಹ್ಮಚರ್ಯೇ ಚ ಯಾ ಸ್ವಸ್ಯ ಸಹ ಧರ್ಮಿಣೇ ತಸ್ಯಾಃ ಶ್ರೀ ಸಾರದಾ ದೇವ್ಯಾಃ ಭರ್ತ್ರೆ ಭವತು ಮಂಗಳಂ\n\n೮. ತೋಟಾಪುರಿ ಯತಿ ಪ್ರಾಪ್ತ ಚರಮಾಶ್ರಮ ಹೇತುಕೇ ಸಮಾಧೌ ನಿರ್ವಿಕಲ್ಪಾಖ್ಯೇ ಸುದೀರ್ಘಸ್ಥಾಯ ಮಂಗಳಂ\n\n೯. ಸ್ಥಿತಾಯ ಮಾತುರಾದೇಶಾತ್ ಜಗದುದ್ದಾರ ಕಾರಣಾತ್ ಪೂರ್ಣಾಹಂತಾ ಸ್ಥಿತೌ ಭಾವಮುಖೇ ಭವತು ಮಂಗಳಂ\n\n೧೦. ಪಶ್ಯತೇ ಮಾತರಂ ಸ್ತ್ರೀಷು ಮೃತ್ಪಿಂಡಂ ಕಾಂಚನೇ ತಥಾ ಸರ್ವಭೂತೇಷು ಚ ಬ್ರಹ್ಮ ಮಾಯಾತೀತಾಯ ಮಂಗಳಂ\n\n೧೧. ಸದಾರೋಪಿ ವಿರಕ್ತಾನಾಂ ಯತೀನಾಂ ಪುರತಸ್ತು ಯಃ ಸದಾ ಶಿವ ಸ್ವರೂಪಾಯ ತಸ್ಯೈ ಭವತು ಮಂಗಳಂ\n\n೧೨. ಬ್ರಹ್ಮಾನಂದಾದಿ ಸಚ್ಚಿಷ್ಯ ಗಣ ಪೂಜ್ಯ ಪದಾಯ ತೇ ತೇಷು ದೀಪ್ತ ಆತ್ಮಬೋಧಾಯ ಪರಮಹಂಸಾಯ ಮಂಗಳಂ\n\n೧೩. ಗರ್ಜದ್ವೇದಾಂತ ಸಿಂಹೇನ ವಿವೇಕಾನಂದ ರೂಪಿಣಾ ಅಪಾಸ್ತ ನಿದ್ರಾ ಭೂರ್ಯೇಣ ಕೃತಂ ತಸ್ಯ ಮಂಗಳಂ\n\n೧೪. ಸಂಸಾರ ಸಾಗರೋತ್ತರ ಸೇತು ಭೂತ ಅಂಗ್ರಿ ರೇಣವೇ ಗುರುವೇ ಸರ್ವಲೋಕಾನಾಂ ರಾಮಕೃಷ್ಣಾಯ ಮಂಗಳಂ\n\n೧೫. ಓಂ ಸ್ಥಾಪಕಾಯ ಚ ಧರ್ಮಸ್ಯ ಸರ್ವಧರ್ಮ ಸ್ವರೂಪಿಣೇ ಅವತಾರ ವರಿಷ್ಠಾಯ ರಾಮಕೃಷ್ಣಾಯ ಮಂಗಳಂ\n\n೧೬. ಮಂಗಳಂ ಗುರುದೇವಾಯ ದೇವ್ಯೈ ಮಾತ್ರೆ ಚ ಮಂಗಳಂ ಮಂಗಳಂ ಭಕ್ತವೃಂದೇಭ್ಯಃ ಸರ್ವಲೋಕಾಯ ಮಂಗಳಂ"
         },
         "translation": {
-            "en": ""
+            "en": "This hymn is a series of auspicious benedictions offered to Sri Ramakrishna, praising his divine life, spiritual realizations, and universal mission..."
         }
     },
     {
-        "id": 14,
+        "id": 10,
         "slug": "sri-sarada-suprabhatam",
-        "number": 14,
+        "number": 10,
         "title": "Sri Sarada Suprabhatam",
         "firstLine": "Matah samasta jagatam paramasya pumsah",
-        "category": "sharada",
+        "category": [
+            "general",
+            "sarada"
+        ],
         "lyrics": {
             "en": "Matah samasta jagatam paramasya pumsah shakti svarupini shive karunardra chitte lokasya soka samanaya krtavatare Sri Sarade'stu tava suprabhatam.\n\nBalye bhavasya tamasah pariharayitri lila manusya vapuse'tha gadadharaya datte tadarpita dhiya samasta vidye Sri Sarade'stu tava suprabhatam.\n\nBalyat pare vayasi bhartari sampravrttam unmatta ity anucitam avadhuya vartam tad darsana kramita durgama dura marge Sri Ramakrishna dayite tava suprabhatam.\n\nSanyasinam patim avekshya nodvijane sevarpita trikarane parisuddha chitte tat sadhana carama simni samarpitamghre Sri Ramakrishna parameswari suprabhatam.\n\nYameva catma jananim bhavatarinim ca sevaparam tu bubudhe gurur asta bhedah tasya samasta jagato'sya saranya murteh Sri Ramakrishna dayite tava suprabhatam.\n\nAvrinvatim paramikam prakritim svakiyam samsariniva bahu duhkha jale bhavabdhou sarvam sahe sritajanoddharanaika dikshe Sri Ramakrishna dayite tava suprabhatam.\n\nGehasya marjana vidhau mama karma santim nayatya sankhyabhuja niskriya manam evam akasmikokti vivritakhila sakti rupe Sri Ramakrishna dayite tava suprabhatam.\n\nSri Ramakrishna dayite tad adhina satve tad bhakta vrinda paripalini muktidatre tad bhava rakta hrdaye tad abhinnatatve Matah samasta jagatam tava suprabhatam.",
-            "hi": "मातः समस्त जगतां परमस्य पुंसः शक्ति स्वरूपिणि शिवे करुणार्द्र चित्ते लोकस्य शोक समनाय कृतावतारे श्री सारदेऽस्तु तव सुप्रभातम्।\n\nबाल्ये भवस्य तमसः परिहारयित्री लीला मनुष्य वपुषेऽथ गदाधराय दत्ते तदर्पित धिया समस्त विद्ये श्री सारदेऽस्तु तव सुप्रभातम्।\n\nबाल्यात् परे वयसि भर्तरि संप्रवृत्तम् उन्मत्त इत्यनुचितम् अवधूय वार्ताम् तद्दर्शन क्रमित दुर्गम दूरमार्गे श्री रामकृष्ण दयिते तव सुप्रभातम्।\n\nसंन्यासिनां पतिमवेक्ष्य नोद्विजाने सेवार्पित त्रिकरणे परिशुद्ध चित्ते तत् साधन चरमसीम्नि समर्पिताङ्घ्रे श्री रामकृष्ण परमेश्वरि सुप्रभातम्।",
-            "bn": "মাতঃ সমস্ত জগতাং পরমস্য পুংসঃ শক্তি স্বরূপিণী শিবে করুণার্দ্র চিতে লোকস্য শোক সমনায় কৃতাবতারে শ্রী সারদে’স্তু তব সুপ্রভাতম।\n\nবাল্যে ভবস্য তमसঃ পরিহারয়িত্রী লীলা মনুষ্য বপুষে’থ গদাধরায় দত্তে তদর্পিত ধিয়া সমস্ত বিদ্যে শ্রী সারদে’স্তু তব সুপ্রভাতম।\n\nবাল্যাত্ পরে বয়সি ভর্তরি সংপ্রবৃত্তম উন্মত্ত ইত্যনুচিতম অবধূয় বার্তাম তদ্দর্শন ক্রমিত দুর্গম দূরমার্গে শ্রী রামকৃষ্ণ দয়িতে তব সুপ্রভাতম।",
-            "ka": "ಮಾತಃ ಸಮಸ್ತ ಜಗತಾಂ ಪರಮಸ್ಯ ಪುಂಸಃ ಶಕ್ತಿ ಸ್ವರೂಪಿಣಿ ಶಿವೇ ಕರುಣಾರ್ದ್ರ ಚಿತ್ತೇ ಲೋಕಸ್ಯ ಶೋಕ ಸಮನಾಯ ಕೃತಾವತಾರೆ ಶ್ರೀ ಸಾರದೇಸ್ತು ತವ ಸುಪ್ರಭಾತಂ।\n\nಬಾಲ್ಯೇ ಭವಸ್ಯ ತಮಸಃ ಪರಿಹಾರಯಿತ್ರೀ ಲೀಲಾ ಮನುಷ್ಯ ವಪುಷೇಽಥ ಗದಾಧರಾಯ ದತ್ತೇ ತದರ್ಪಿತ ಧಿಯಾ ಸಮಸ್ತ ವಿದ್ಯೇ ಶ್ರೀ ಸಾರದೇಸ್ತು ತವ ಸುಪ್ರಭಾತಂ।\n\nಬಾಲ್ಯಾತ್ ಪರೇ ವಯಸಿ ಭರ್ತರಿ ಸಂಪ್ರವೃತ್ತಂ ಉನ್ಮತ್ತ ಇತ್ಯನುಚಿತಂ ಅವಧೂಯ ವಾರ್ತೆ ತದ್ದರ್ಶನ ಕ್ರಮಿತ ದುರ್ಗಮ ದೂರಮಾರ್ಗೇ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ದಯಿತೇ ತವ ಸುಪ್ರಭಾತಂ।"
+            "hi": "मातः समस्त जगतां परमस्य पुंसः शक्ति स्वरूपिणि शिवे करुणार्द्र चित्ते लोकस्य शोक समनाय कृतावतारे श्री सारदेऽस्तु तव सुप्रभातम्।\n\nबाल्ये भवस्य तमसः परिहारयित्री लीला मनुष्य वपुषेऽथ गदाधराय दत्ते तदर्पित धिया समस्त विद्ये श्री सारदेऽस्तु तव सुप्रभातम्।\n\nबाल्यात् परे वयसि भर्तरि संप्रवृत्तम् उन्मत्त इत्यनुचितम् अवधूय वार्ताम् तद्दर्शन क्रमित दुर्गम दूरमार्गे श्री रामकृष्ण दयिते तव सुप्रभातम्।\n\nसंन्यासिनां पतिमवेक्ष्य नोद्विजाने सेवार्पित त्रिकरणे परिशुद्ध चित्ते तत् साधन चरमसीम्नि समर्पिताङ्घ्रे श्री रामकृष्ण परमेश्वरि सुप्रभातम्।\n\nयामेव चात्मजननीं भवतारिणीं च सेवापरां तु बुबुधे गुरुरस्तभेदः तस्य समस्त जगतोऽस्य शरण्यमूर्तेः श्री रामकृष्ण दयिते तव सुप्रभातम्।\n\nआवृण्वतीं परमिकीं प्रकृतिं स्वकीयां संसारीनिव बहु दुःखजाले भवाब्धौ सर्वं सहे श्रितजनोद्धरणैक दीक्षे श्री रामकृष्ण दयिते तव सुप्रभातम्।\n\nगृहस्य मार्जन विधौ मम कर्म शान्तिं नयत्यसङ्ख्यभुजा निष्क्रिय मानमेवम् अकस्मिक उक्तिविवृताखिल शक्ति रूपे श्री रामकृष्ण दयिते तव सुप्रभातम्।\n\nश्री रामकृष्ण दयिते तदधीन सत्त्वे तद्भक्त वृन्द परिपालिनि मुक्तिदात्रे तद्भाव रक्त हृदये तदभिन्न तत्त्वे मातः समस्त जगतां तव सुप्रभातम्।",
+            "bn": "মাতঃ সমস্ত জগতাং পরমস্য পুংসঃ শক্তি স্বরূপিণী শিবে করুণার্দ্র চিতে লোকস্য শোক সমনায় কৃতাবতারে শ্রী সারদে'স্তু তব সুপ্রভাতম।\n\nবাল্যে ভবস্য তমসঃ পরিহারয়িত্রী লীলা মনুষ্য বপুষে'থ গদাধরায় দত্তে তদর্পিত ধিয়া সমস্ত বিদ্যে শ্রী সারদে'স্তু তব সুপ্রভাতম।\n\nবাল্যাত্ পরে বয়সি ভর্তরি সংপ্রবৃত্তম উন্মত্ত ইত্যনুচিতম অবধূয় বার্তাম তদ্দর্শন ক্রমিত দুর্গম দূরমার্গে শ্রী রামকৃষ্ণ দয়িতে তব সুপ্রভাতম।\n\nসন্ন্যাসিনাং পতিমবেক্ষ্য নোদ্বিজানে সেবার্পিত ত্রিকরণে পরিশুদ্ধ চিতে তৎ সাধন চরমসীম্নি সমর্পিতাঙ্ঘ্রে শ্রী রামকৃষ্ণ পরমেশ্বরী সুপ্রভাতম।\n\nযামেব চাত্মজননীং ভবতারিণীং চ সেবাপরাং তু বুবুধে গুরু রস্তভেদঃ তস্য সমস্ত জগতস্য শরণ্যমূর্তেঃ শ্রী রামকৃষ্ণ দয়িতে তব সুপ্রভাতম।\n\nআবৃণ্বতীম্ পরমিকাং প্রকৃতিং স্বকীয়াং সংসারিণীব বহুদুঃখজালে ভবাব্ধৌ সর্বং সহে শ্রিতজনোদ্ধারণৈক দীক্ষে শ্রী রামকৃষ্ণ দয়িতে তব সুপ্রভাতম।\n\nগৃহস্য মার্জন বিধৌ মম কর্ম শান্তিং নয়ত্যসংখ্যভুজা নিষ্ক্রিয় মানমেবম আকস্মিকোক্তি বিবৃতাখিল শক্তি রূপে শ্রী রামকৃষ্ণ দয়িতে তব সুপ্রভাতম।\n\nশ্রী রামকৃষ্ণ দয়িতে তদধীন সত্ত্বে তদ্ভক্ত বৃন্দ পরিপালিনি মুক্তিদাত্রে তদ্ভাব রক্ত হৃদয়ে তদভিন্ন তত্ত্বে মাতঃ সমস্ত জগতাং তব সুপ্রভাতম।",
+            "ka": "ಮಾತಃ ಸಮಸ್ತ ಜಗತಾಂ ಪರಮಸ್ಯ ಪುಂಸಃ ಶಕ್ತಿ ಸ್ವರೂಪಿಣಿ ಶಿವೇ ಕರುಣಾರ್ದ್ರ ಚಿತ್ತೇ ಲೋಕಸ್ಯ ಶೋಕ ಸಮನಾಯ ಕೃತಾವತಾರೆ ಶ್ರೀ ಸಾರದೇಸ್ತು ತವ ಸುಪ್ರಭಾತಂ।\n\nಬಾಲ್ಯೇ ಭವಸ್ಯ ತಮಸಃ ಪರಿಹಾರಯಿತ್ರೀ ಲೀಲಾ ಮನುಷ್ಯ ವಪುಷೇಽಥ ಗದಾಧರಾಯ ದತ್ತೇ ತದರ್ಪಿತ ಧಿಯಾ ಸಮಸ್ತ ವಿದ್ಯೇ ಶ್ರೀ ಸಾರದೇಸ್ತು ತವ ಸುಪ್ರಭಾತಂ।\n\nಬಾಲ್ಯಾತ್ ಪರೇ ವಯಸಿ ಭರ್ತರಿ ಸಂಪ್ರವೃತ್ತಂ ಉನ್ಮತ್ತ ಇತ್ಯನುಚಿತಂ ಅವಧೂಯ ವಾರ್ತೆ ತದ್ದರ್ಶನ ಕ್ರಮಿತ ದುರ್ಗಮ ದೂರಮಾರ್ಗೇ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ದಯಿತೇ ತವ ಸುಪ್ರಭಾತಂ।\n\nಸನ್ಯಾಸಿನಾಂ ಪತಿಮವೀಕ್ಷ್ಯ ನೋದ್ವಿಜಾನೆ ಸೇವಾರ್ಪಿತ ತ್ರಿಕರಣೇ ಪರಿಶುದ್ಧ ಚಿತ್ತೇ ತತ್ ಸಾಧನ ಚರಮಸೀಮ್ನಿ ಸಮರ್ಪಿತಾಂಘ್ರೇ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ಪರಮೇಶ್ವರಿ ಸುಪ್ರಭಾತಂ।\n\nಯಾಮೇವ ಚಾತ್ಮಜನನೀಂ ಭವತಾರಿಣೀಂ ಚ ಸೇವಾಪರಾಂ ತು ಬುಬುಧೇ ಗುರುರಸ್ತ ಭೇದಃ ತಸ್ಯ ಸಮಸ್ತ ಜಗತಸ್ಯ ಶರಣ್ಯಮೂರ್ತೇಃ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ದಯಿತೇ ತವ ಸುಪ್ರಭಾತಂ।\n\nಆವೃಣ್ವತೀಂ ಪರಮಿಕಾಂ ಪ್ರಕೃತಿಂ ಸ್ವಕೀಯಾಂ ಸಂಸಾರಿಣೀವ ಬಹುದುಃಖಜಾಲೇ ಭವಾಬ್ಧೌ ಸರ್ವಂ ಸಹೇ ಶ್ರಿತಜನೋದ್ದರಣೈಕ ದೀಕ್ಷೇ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ದಯಿತೇ ತವ ಸುಪ್ರಭಾತಂ।\n\nಗೃಹಸ್ಯ ಮಾರ್ಜನ ವಿಧೌ ಮಮ ಕರ್ಮ ಶಾಂತಿಂ ನಯತ್ಯಸಂಖ್ಯಭುಜಾ ನಿಷ್ಕ್ರಿಯ ಮಾನಮೇವಂ ಅಕಸ್ಮಿಕೋಕ್ತಿ ವಿವೃತಾಖಿಲ ಶಕ್ತಿ ರೂಪೇ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ದಯಿತೇ ತವ ಸುಪ್ರಭಾತಂ।\n\nಶ್ರೀ ರಾಮಕೃಷ್ಣ ದಯಿತೇ ತದಧೀನ ಸತ್ವೇ ತದ್ಭಕ್ತ ವೃಂದ ಪರಿಪಾಲಿನಿ ಮುಕ್ತಿದಾತ್ರೇ ತದ್ಭಾವ ರಕ್ತ ಹೃದಯೇ ತದಭಿನ್ನ ತತ್ತ್ವೇ ಮಾತಃ ಸಮಸ್ತ ಜಗತಾಂ ತವ ಸುಪ್ರಭಾತಂ।"
         },
         "translation": {
-            "en": ""
+            "en": "This hymn is a devotional morning salutation offered to Holy Mother Sri Sarada Devi, revered as the universal mother and the divine spiritual companion of Sri Ramakrishna. The hymn praises her as the embodiment of the Supreme Divine Power (Shakti) and as the compassionate mother who incarnated to remove the suffering of the world. It recalls her sacred role in the life of Sri Ramakrishna, especially how she came to serve him with purity, devotion, and complete self-surrender, despite worldly misunderstandings about his divine state. The verses highlight her spiritual greatness, describing how she served Sri Ramakrishna with perfect purity of body, mind, and speech, supporting his highest spiritual realizations and sharing in his divine mission. She is praised as the spiritual mother recognized by Sri Ramakrishna himself as the very embodiment of the Divine Mother who liberates beings from worldly bondage. The hymn also reflects on her extraordinary humility and simplicity, as she lived an outwardly ordinary life while silently bearing the burdens and sorrows of countless devotees, guiding them with infinite patience and compassion. Her daily actions, even simple household tasks, are described as expressions of divine power hidden within her gentle human form. Finally, she is revered as the protector of devotees, the giver of liberation, and the living embodiment of divine motherhood for the entire world. Chanting this suprabhatam is a way of remembering her boundless compassion, purity, and spiritual strength, while offering a prayer that her grace may awaken devotion, peace, and spiritual awakening in all beings."
+        }
+    },
+    {
+        "id": 16,
+        "slug": "itani-binati-raghunandana-se",
+        "number": 16,
+        "title": "Itani Binati Raghunandana Se",
+        "firstLine": "Itani binati Raghunandana se Duhkha dvandva hamara mitao ji.",
+        "category": "general",
+        "lyrics": {
+            "en": "Itani binati Raghunandana se Duhkha dvandva hamara mitao ji.\n\nApne pada pankaja pinjara me Chitahamsa hamara baithao ji.\n\nTulasidasa kahe karajori Bhava sagara para utaro ji.",
+            "hi": "इतनी बिनती रघुनंदन से दुःख द्वंद्व हमारा मिटाओ जी।\n\nअपने पद पंकज पिंजरा में चितहंस हमारा बैठाओ जी।\n\nतुलसीदास कहे करजोरि भव सागर पार उतारो जी।",
+            "bn": "ইতনি বিনতি রঘুনন্দন সে দুঃখ দ্বন্দ্ব হামারা মিটাও জি।\n\nআপনে পদ পঙ্কজ পিঞ্জরা মে চিতহংস হামারা বৈঠাও জি।\n\nতুলসীদাস কহে করজোরি ভব সাগর পার উতারো জি।",
+            "ka": "ಇತನಿ ಬಿನತಿ ರಘುನಂದನ ಸೆ ದುಃಖ ದ್ವಂದ್ವ ಹಮಾರಾ ಮಿಟಾವೋ ಜಿ।\n\nಅಪ್ನೆ ಪದ ಪಂಕಜ ಪಿಂಜರಾ ಮೇ ಚಿತಹಂಸ ಹಮಾರಾ ಬೈಠಾವೋ ಜಿ।\n\nತುಲಸಿದಾಸ ಕಹೇ ಕರಜೋರಿ ಭವ ಸಾಗರ ಪಾರ ಉತಾರೋ ಜಿ।"
+        },
+        "translation": {
+            "en": "In this humble devotional prayer, the poet-saint Tulasidas appeals to Lord Rama, the son of King Dasharatha, lovingly called Raghunandana. The devotee earnestly requests the Lord to remove the dual sufferings and troubles of worldly life. With deep humility, the devotee asks that his mind, compared to a pure swan (hamsa), may find a secure resting place within the cage of the Lord’s lotus feet—symbolizing complete surrender and spiritual refuge in the divine. Finally, Tulasidas, with folded hands, prays that Lord Rama may carry him across the vast ocean of worldly existence (bhava sagara), granting liberation from the cycle of birth and death. The hymn expresses deep devotion, surrender, and the longing for divine grace and spiritual liberation through the compassionate protection of Lord Rama."
+        }
+    },
+    {
+        "id": 17,
+        "slug": "payo-ji-maine-rama-ratana-dhana-payo",
+        "number": 17,
+        "title": "Payo Ji Maine Rama Ratana Dhana Payo",
+        "firstLine": "Payo ji maine Rama ratana dhana payo.",
+        "category": "general",
+        "lyrics": {
+            "en": "Payo ji maine Rama ratana dhana payo.\n\n1. Vastu amolika di mere Sataguru Kirapa kara apanayo.\n\n2. Janama janama ki punji pai Jaga me sabhi khovayo.\n\n3. Kharachai na khutai vako Chora na lutai\nDina dina badata savayo.\n\n4. Sata ki nava khevatiya Sataguru Bhavasagara tara ayo.\n\n5. Mira ke Prabhu Giridhara nagara Harakha harakha jasa gayo.",
+            "hi": "पायो जी मैंने राम रतन धन पायो।\n\n1. वस्तु अमोलिक दी मेरे सतगुरु किरपा कर अपनायो।\n\n2. जनम जनम की पूंजी पाई जग में सभी खोवायो।\n\n3. खरचै न खुटै वाको चोर न लुटै\nदिन दिन बढ़त सवायो।\n\n4. सत की नाव खेवनिया सतगुरु भवसागर तर आयो।\n\n5. मीरा के प्रभु गिरिधर नागर हरख हरख जस गायो।",
+            "bn": "পায়ো জি ম্যায়নে রাম রতন ধন পায়ো।\n\n1. বস্তু অমূলিক দি মেরে সতগুরু কৃপা কর আপনায়ো।\n\n2. জনম জনম কি পুঁজি পাই জগ মে সবহি খোভায়ো।\n\n3. খরচৈ ন খুটৈ বাকো চোর ন লুটৈ\nদিন দিন বাড়ত সভায়ো।\n\n4. সত কি নাও খেভতিয়া সতগুরু ভবসাগর তর আয়ো।\n\n5. মীরা কে প্রভু গিরিধর নাগর হরখ হরখ যস গায়ো।",
+            "ka": "ಪಾಯೋ ಜಿ ಮೈನೆ ರಾಮ ರತನ ಧನ ಪಾಯೋ।\n\n1. ವಸ್ತು ಅಮೋಲಿಕ ದಿ ಮೇರೆ ಸತಗುರು ಕಿರಪಾ ಕರ ಅಪನಾಯೋ।\n\n2. ಜನಮ ಜನಮ ಕಿ ಪೂಂಜಿ ಪಾಯಿ ಜಗ ಮೇ ಸಭಿ ಖೋವಾಯೋ।\n\n3. ಖರಚೈ ನ ಖುಟೈ ವಾಕೋ ಚೋರ ನ ಲುಟೈ\nದಿನ ದಿನ ಬಡತ ಸವಾಯೋ।\n\n4. ಸತ ಕಿ ನಾವ ಖೇವತಿಯ ಸತಗುರು ಭವಸಾಗರ ತರ ಆಯೋ।\n\n5. ಮೀರಾ ಕೆ ಪ್ರಭು ಗಿರಿಧರ ನಾಗರ ಹರಖ ಹರಖ ಜಸ ಗಾಯೋ।"
+        },
+        "translation": {
+            "en": "This famous devotional hymn expresses the deep joy of a devotee who has obtained the priceless spiritual treasure of devotion to Lord Rama. The singer proclaims with gratitude that through the grace of the true Guru (Satguru), an invaluable treasure—the divine name and love of Rama—has been received. Unlike worldly wealth that can be lost, stolen, or exhausted, this spiritual treasure only increases day by day and can never be diminished. The hymn teaches that the true Guru guides the devotee like a skilled boatman who helps them cross the vast ocean of worldly existence (bhava sagara). In the final verse, the poet-saint Mirabai joyfully sings the glory of her beloved Lord, Giridhara (Krishna), celebrating the bliss and fulfillment that come from divine devotion. The hymn emphasizes gratitude to the Guru, the imperishable nature of spiritual wealth, and the joy of loving remembrance of God."
+        }
+    },
+    {
+        "id": 18,
+        "slug": "bhajore-bhayya-rama-govinda-hari",
+        "number": 18,
+        "title": "Bhajore Bhayya Rama Govinda Hari",
+        "firstLine": "Bhajore bhayya Rama Govinda Hari.",
+        "category": "general",
+        "lyrics": {
+            "en": "Bhajore bhayya Rama Govinda Hari. Japa tapa sadhana kachhu nahi lagata Kharachata nahi gathari.\n\nSantata sampata sukha ke karana Jase bhula pari.\n\nKahata Kabira ja mukha Rama na O mukha dhula bhari.",
+            "hi": "भजो रे भैया राम गोविंद हरि। जप तप साधन कछु नहीं लागत खरचत नहीं गठरी।\n\nसंतत संपत सुख के कारण जासे भूला परि।\n\nकहत कबीर जा मुख राम न ओ मुख धूल भरी।",
+            "bn": "ভজো রে ভইয়া রাম গোবিন্দ হরি। জপ তপ সাধন কিছু নহি লাগত খরচত নহি গাঁঠরি।\n\nসন্তত সম্পত সুখ কে কারণ জাসে ভুলা পরি।\n\nকহত কবীর যা মুখ রাম ন ও মুখ ধূল ভরি।",
+            "ka": "ಭಜೋ ರೇ ಭಯ್ಯಾ ರಾಮ ಗೋವಿಂದ ಹರಿ। ಜಪ ತಪ ಸಾಧನ ಕಛು ನಹಿ ಲಾಗತ ಖರಚತ ನಹಿ ಗಾಠರಿ।\n\nಸಂತತ ಸಂಪತ ಸುಖ ಕೆ ಕಾರಣ ಜಾಸೇ ಭೂಲಾ ಪರಿ।\n\nಕಹತ ಕಬೀರ ಜಾ ಮುಖ ರಾಮ ನ ಓ ಮುಖ ಧೂಲ ಭರಿ।"
+        },
+        "translation": {
+            "en": "In this devotional hymn, the poet-saint Kabir urges people to lovingly sing and remember the names of God—Rama, Govinda, and Hari. He explains that the practice of chanting the divine name requires no difficult austerities, rituals, or expensive offerings. It does not demand wealth or possessions, yet it grants immense spiritual benefit. Human beings often become lost in the pursuit of worldly prosperity, comfort, and happiness, forgetting the simple path of devotion. Kabir reminds devotees that a mouth which does not utter the name of Rama is spiritually empty and is as if filled with dust. The hymn teaches that remembering and chanting the divine name is the easiest and most precious spiritual practice, bringing purity, devotion, and connection with God without any material cost."
+        }
+    },
+    {
+        "id": 19,
+        "slug": "raghuvara-tumako-meri-laj",
+        "number": 19,
+        "title": "Raghuvara Tumako Meri Laj",
+        "firstLine": "Raghuvara tumako meri laj.",
+        "category": "general",
+        "lyrics": {
+            "en": "Raghuvara tumako meri laj. Sada sada mai sharana tiharo, tuma hi garibanivaja.\n\n1. Patita udharana virada tiharo, shravanana shuni avaja.\n\n2. Hao to patita puratana kahiye, para utar jahaja.\n\n3. Aghakhandana duhkha bhanjana janake\nYahi tiharo kaja.\n\n4. Tulasidasa par kripa kariye, bhaktidana dehu aja.",
+            "hi": "रघुवर तुमको मेरी लाज। सदा सदा मैं शरण तिहारो, तुम ही गरीबनिवाज।\n\n1. पतित उद्धारण विरद तिहारो, श्रवणन शुनि आवाज।\n\n2. हौं तो पतित पुरातन कहिए, पार उतार जहाज।\n\n3. अघखंडन दुःख भंजन जनके\nयहि तिहारो काज।\n\n4. तुलसीदास पर कृपा करिए, भक्तिदान देहु आज।",
+            "bn": "রঘুবর তুমকো মেরি লাজ। সদা সদা ম্যাঁ শরণ তিহারো, তুম হি গরীবনিবাজ।\n\n1. পতিত উদ্ধারন বিরদ তিহারো, শ্রবণন শুনি আওয়াজ।\n\n2. হৌ তো পতিত পুরাতন কহিয়ে, পার উতার জাহাজ।\n\n3. অঘখণ্ডন দুঃখ ভঞ্জন জনকে\nযহি তিহারো কাজ।\n\n4. তুলসীদাস পর কৃপা করিয়ে, ভক্তিদান দেহু আজ।",
+            "ka": "ರಘುವರ ತುಮಕೋ ಮೇರಿ ಲಾಜ। ಸದಾ ಸದಾ ಮೈ ಶರಣ ತಿಹಾರೋ, ತುಮ ಹಿ ಗರೀಬನಿವಾಜ।\n\n1. ಪತಿತ ಉದ್ಧಾರಣ ವಿರದ ತಿಹಾರೋ, ಶ್ರವಣನ ಶುನಿ ಅವಾಜ।\n\n2. ಹೌ ತೋ ಪತಿತ ಪುರಾತನ ಕಹಿಯೇ, ಪಾರ ಉತರ ಜಹಾಜ।\n\n3. ಅಘಖಂಡನ ದುಃಖ ಭಂಜನ ಜನಕೆ\nಯಹಿ ತಿಹಾರೋ ಕಾಜ।\n\n4. ತುಲಸಿದಾಸ ಪರ ಕೃಪಾ ಕರಿಯೇ, ಭಕ್ತಿದಾನ ದೇಹು ಆಜ।"
+        },
+        "translation": {
+            "en": "This heartfelt prayer is addressed to Lord Rama, the noble descendant of the Raghu dynasty (Raghuvara). The devotee humbly places his honor and spiritual welfare in the Lord’s hands, declaring complete surrender at His feet. The hymn recalls that Lord Rama is known for rescuing and uplifting the fallen and the helpless, and the devotee pleads for His compassionate response. Acknowledging himself as a sinner from ancient times, the devotee asks the Lord to carry him across the ocean of worldly existence just as a strong ship carries passengers safely to the other shore. The Lord’s divine mission is described as destroying sin, removing suffering, and protecting His devotees. In the final verse, the poet-saint Tulasidas folds his hands and prays for the Lord’s grace, asking for the precious gift of devotion. The hymn expresses humility, surrender, and deep faith in the saving grace and compassion of Lord Rama."
+        }
+    },
+    {
+        "id": 20,
+        "slug": "prema-mudita-manase-kaho-rama-rama",
+        "number": 20,
+        "title": "Prema Mudita Manase Kaho Rama Rama",
+        "firstLine": "Prema mudita manase kaho Rama Rama Ram Sri Rama Rama Ram Sri Rama Rama Ram",
+        "category": "general",
+        "lyrics": {
+            "en": "Prema mudita manase kaho Rama Rama Ram Sri Rama Rama Ram Sri Rama Rama Ram\n\n1. Papa kate dukha mite leke Rama nam Bhavasamudra sukhada nava eka Rama nam\n\n2. Parama bhakti sukha nidana nitya Rama nam Niradharako adhara eka Rama nam\n\n3. Santa hridaya sada basata eka Rama nam Paramagupta parama ishta mantra Rama nam\n\n4. Mahadeva satata japata divya Rama nam Kala shamata bhita satata kahata Rama nam\n\n5. Mata pita bandhu sakha sabahi Rama nam Bhakata janana jivana dhana eka Rama nam",
+            "hi": "प्रेम मुदित मनसे कहो राम राम राम श्री राम राम राम श्री राम राम राम\n\n1. पाप कटे दुख मिटे लेके राम नाम भवसमुद्र सुखद नाव एक राम नाम\n\n2. परम भक्ति सुख निधान नित्य राम नाम निराधार को आधार एक राम नाम\n\n3. संत हृदय सदा बसत एक राम नाम परमगुप्त परम इष्ट मंत्र राम नाम\n\n4. महादेव सतत जपत दिव्य राम नाम काल शमित भीत सतत कहत राम नाम\n\n5. माता पिता बंधु सखा सबहि राम नाम भक्त जनन जीवन धन एक राम नाम",
+            "bn": "প্রেম মুদিত মনসে কহো রাম রাম রাম শ্রী রাম রাম রাম শ্রী রাম রাম রাম\n\n1. পাপ কাটে দুখ মিটে লেকে রাম নাম ভবসমুদ্র সুখদ নাও এক রাম নাম\n\n2. পরম ভক্তি সুখ নিধান নিত্য রাম নাম নিরাধার কো আধার এক রাম নাম\n\n3. সন্ত হৃদয় সদা বসত এক রাম নাম পরমগুপ্ত পরম ইষ্ট মন্ত্র রাম নাম\n\n4. মহাদেব সতত জপত দিব্য রাম নাম কাল শমিত ভীত সতত কহত রাম নাম\n\n5. মাতা পিতা বন্ধু সখা সবহি রাম নাম ভক্ত জনন জীবন ধন এক রাম নাম",
+            "ka": "ಪ್ರೇಮ ಮುದಿತ ಮನಸೆ ಕಹೊ ರಾಮ ರಾಮ ರಾಮ ಶ್ರೀ ರಾಮ ರಾಮ ರಾಮ ಶ್ರೀ ರಾಮ ರಾಮ ರಾಮ\n\n1. ಪಾಪ ಕಟೆ ದುಖ ಮಿಟೆ ಲೇಕೆ ರಾಮ ನಾಮ ಭವಸಮುದ್ರ ಸುಖದ ನಾವ ಏಕ ರಾಮ ನಾಮ\n\n2. ಪರಮ ಭಕ್ತಿ ಸುಖ ನಿಧಾನ ನಿತ್ಯ ರಾಮ ನಾಮ ನಿರಾಧಾರಕೋ ಆಧಾರ ಏಕ ರಾಮ ನಾಮ\n\n3. ಸಂತ ಹೃದಯ ಸದಾ ಬಸತ ಏಕ ರಾಮ ನಾಮ ಪರಮಗುಪ್ತ ಪರಮ ಇಷ್ಟ ಮಂತ್ರ ರಾಮ ನಾಮ\n\n4. ಮಹಾದೇವ ಸತತ ಜಪತ ದಿವ್ಯ ರಾಮ ನಾಮ ಕಾಲ ಶಮಿತ ಭೀತ ಸತತ ಕಹತ ರಾಮ ನಾಮ\n\n5. ಮಾತಾ ಪಿತಾ ಬಂಧು ಸಖಾ ಸಬಹಿ ರಾಮ ನಾಮ ಭಕ್ತ ಜನನ ಜೀವನ ಧನ ಏಕ ರಾಮ ನಾಮ"
+        },
+        "translation": {
+            "en": "This joyful devotional hymn encourages devotees to chant the sacred name of Lord Rama with a heart filled with love and happiness. The repetition of the divine name is described as a powerful spiritual practice that removes sins and destroys sorrow. The hymn teaches that the name of Rama is like a blissful boat that carries devotees safely across the vast ocean of worldly existence. It is portrayed as the source of supreme devotion, inner peace, and spiritual happiness, and as the only support for those who feel helpless in life. The divine name constantly resides in the hearts of saints and is considered a most sacred and secret mantra. Even Lord Shiva (Mahadeva) is said to continuously repeat the holy name of Rama. The hymn concludes by declaring that the name of Rama is everything to the devotee—mother, father, friend, companion, and the greatest treasure of life. Through loving remembrance of the divine name, the devotee finds protection, joy, and spiritual fulfillment."
+        }
+    },
+    {
+        "id": 21,
+        "slug": "govardhana-giridhara-govinda",
+        "number": 21,
+        "title": "Govardhana Giridhara Govinda",
+        "firstLine": "Govardhana giridhara govinda Gokula palaka paramananda",
+        "category": "general",
+        "lyrics": {
+            "en": "Govardhana giridhara govinda Gokula palaka paramananda Srivatsankita Srikaustubha dhara Bhavaka bhayahara pahi mukunda Anandamrta varidhi khela\n\nAlagu parakrama anupamasila Srinandatmaja sritajana pala Srlkara kisalaya lalanalola\n\nPatita suraripu padapa vrnda Pavana carita paramrta kanda\n\nNatya rasotkata nanabharana Narayana Tirtha vandita carana",
+            "hi": "गोवर्धन गिरिधर गोविंद गोकुल पालक परमानंद श्रीवत्सांकित श्रीकौस्तुभ धर भावक भयहर पाहि मुकुंद आनंदामृत वारिधि खेल\n\nअलघु पराक्रम अनुपमशील श्रीनंदात्मज श्रितजन पाल श्रीकर किसलय लालनलोल\n\nपतित सुररिपु पादप वृंद पावन चरित परमृत कंद\n\nनाट्य रसोत्कट नानाभरण नारायण तीर्थ वंदित चरण",
+            "bn": "গোবর্ধন গিরিধর গোবিন্দ গোকুল পালক পরমানন্দ শ্রীবৎসাঙ্কিত শ্রীকৌস্তুভ ধর ভাবক ভয়হর পাহি মুকুন্দ আনন্দামৃত বারিধি খেল\n\nঅলঘু পরাক্রম অনুপমশীল শ্রীনন্দাত্মজ শ্রিতজন পাল শ্রীকর কিসলয় লালনলোল\n\nপতিত সুররিপু পাদপ বৃন্দ পাবন চরিত পরমৃত কন্দ\n\nনাট্য রসোৎকট নানাভরণ নারায়ণ তীর্থ বন্দিত চরণ",
+            "ka": "ಗೋವರ್ಧನ ಗಿರಿಧರ ಗೋವಿಂದ ಗೋಕುಲ ಪಾಲಕ ಪರಮಾನಂದ ಶ್ರೀವತ್ಸಾಂಕಿತ ಶ್ರೀಕೌಸ್ತುಭ ಧರ ಭಾವಕ ಭಯಹರ ಪಾಹಿ ಮುಕುಂದ ಆನಂದಾಮೃತ ವಾರಿಧಿ ಖೇಲ\n\nಅಲಘು ಪರಾಕ್ರಮ ಅನುಪಮಶೀಲ ಶ್ರೀನಂದಾತ್ಮಜ ಶ್ರಿತಜನ ಪಾಲ ಶ್ರೀಕರ ಕಿಸಲಯ ಲಾಲನಲೋಲ\n\nಪತಿತ ಸುರರಿಪು ಪಾದಪ ವೃಂದ ಪಾವನ ಚರಿತ ಪರಮೃತ ಕಂದ\n\nನಾಟ್ಯ ರಸೋತ್ಕಟ ನಾನಾಭರಣ ನಾರಾಯಣ ತೀರ್ಥ ವಂದಿತ ಚರಣ"
+        },
+        "translation": {
+            "en": "This devotional hymn praises Lord Krishna, lovingly addressed as Govinda and the lifter of the Govardhana mountain (Giridhara). The hymn celebrates Krishna as the joyful protector of Gokula and the embodiment of supreme bliss. He is described as bearing the divine marks of Srivatsa and the Kaustubha gem on His chest, symbols of His divine glory. The devotee prays to Mukunda, the giver of liberation, to remove fear and protect all beings. Krishna is portrayed as the son of Nanda, the compassionate protector of those who seek refuge, and as a playful divine child who delights in tender pastimes. His heroic power, incomparable character, and sacred deeds purify the world. The hymn also celebrates His graceful dance, beautiful ornaments, and divine charm that enchant devotees. In the final line, the saint Narayana Tirtha reverently bows at the lotus feet of the Lord. Overall, the hymn expresses deep love, reverence, and admiration for Lord Krishna as the joyful protector, savior, and source of divine bliss."
+        }
+    },
+    {
+        "id": 22,
+        "slug": "chalo-mana-gariga-yamuna-tira",
+        "number": 22,
+        "title": "Chalo Mana Gariga Yamuna Tira",
+        "firstLine": "Chalo mana Gariga Yamuna tira Ganga Yamuna nirmala pani, Sitala hota sarira.",
+        "category": "general",
+        "lyrics": {
+            "en": "Chalo mana Gariga Yamuna tira Ganga Yamuna nirmala pani, Sitala hota sarira.\n\nBarisi bajavata gavata kanha, Sariga liya Balabira.\n\nMora mukuta pitambara sohe, Kundala jhalakata hira\n\nMira ke prabhu Giridhara Nagara, Carana - kamala para sir.",
+            "hi": "चलो मन गरिगा यमुना तीर गंगा यमुना निर्मल पानी, शीतल होत शरीर।\n\nबरिसि बजावत गावत कान्हा, संग लिया बलबीर।\n\nमोर मुकुट पीतांबर सोहे, कुंडल झलकत हीरा\n\nमीरा के प्रभु गिरिधर नागर, चरण-कमल पर सिर।",
+            "bn": "চলো মন গরিগা যমুনা তীর গঙ্গা যমুনা নির্মল পানি, শীতল হত শরীর।\n\nবরিসি বাজাবত গাবত কান्हা, সঙ্গ লিয়া বলবীর।\n\nমোর মুকুট পীতাম্বর সোহে, কুণ্ডল ঝলকত হীরা\n\nমীরা কে প্রভু গিরিধর নাগর, চরণ-কমল পর সির।",
+            "ka": "ಚಲೋ ಮನ ಗರಿಗಾ ಯಮುನಾ ತೀರ ಗಂಗಾ ಯಮುನಾ ನಿರ್ಮಲ ಪಾನಿ, ಶೀತಲ ಹೋತ ಶರೀರ।\n\nಬರಿಸಿ ಬಜಾವತ ಗಾವತ ಕಾಂಹಾ, ಸಂಗ ಲಿಯಾ ಬಲಬೀರ।\n\nಮೋರ ಮುಕುಟ ಪೀತಾಂಬರ ಸೋಹೆ, ಕುಂಡಲ ಝಲಕತ ಹೀರಾ\n\nಮೀರಾ ಕೆ ಪ್ರಭು ಗಿರಿಧರ ನಾಗರ, ಚರಣ-ಕಮಲ ಪರ ಸಿರ್।"
+        },
+        "translation": {
+            "en": "This devotional hymn by the saint Mirabai invites the mind to go to the sacred banks of the Yamuna River, where the pure waters of the Ganga and Yamuna cool and refresh the body and soul. The scene beautifully depicts Lord Krishna (Kanha) joyfully playing His flute, singing, and wandering along the riverbank together with His strong brother Balarama. Krishna’s enchanting divine form is described with loving devotion: He wears a peacock-feather crown, a shining yellow garment (pitambara), and sparkling earrings like precious gems. The hymn expresses the deep longing of the devotee to witness this divine beauty and to dwell in the sacred presence of the Lord. In the final line, Mirabai declares her complete surrender, placing her head at the lotus feet of her beloved Lord Giridhara (Krishna). The hymn reflects devotion, longing for divine vision, and the blissful remembrance of Krishna’s playful and compassionate presence."
+        }
+    },
+    {
+        "id": 23,
+        "slug": "shyama-nama-sankirtanam",
+        "number": 23,
+        "title": "Shyama Nama Sankirtanam",
+        "firstLine": "Vande vamsidharam Krishnam smayamana mukhambujam.",
+        "category": "general",
+        "lyrics": {
+            "en": "Vande vamsidharam Krishnam smayamana mukhambujam.\nPitambaradharam nilam malya-chandana-bhushitam. Radha-chitta-chakorendum saudarya sumahodadhim Paratparataram devam brahmananda-kripanidhim.\n\nOm Sri Naradoddhavadi-parshada-gopa-gopigana-Sri Radha sameta Sri Krishna paramatmane namah.\n\nSatya sanatana sundara Shyam Nityananda ghanesvara\n\nLakshmi-sevita padayuga Sura muni varagana yachita Bhu bharoddhara narthita Lokabandhu guru vachaka Dharma sthapana silana Svikrita naratanu suravara\n\nMayadhisvara chinmaya Yadavakula sambhushana Nanda Yashoda palita Srivatsankita balaka Marita maya putana Sakatasura khala bhanjana\n\nDamodaraguna mandira Shyam Yamalarjuna taru bhanjana Gopi janagana mohana Aganita guna ganabhushita Agha baka rakshasa ghataka Kaliya sarpa vimardana\n\nJaya Vrindavana charavara Gocharana rata godhara Barha susobhita chudaka Gala lambita vana malaka Agraja bala bhadranvita Gopavadhu hridaya sthita\n\nSarvatmaka sarvesvara Dhenuka khara vadha karaka Surendra pujana varaka Parvata pujana karaka\n\nSuragana prarthita sangada Nirupama kridana toshana\n\nPadaradhaka vidhi hara Gopi bhavita priyakara Nandita nanda sunandana Vaikunthesa narakriti Kalinditata charana Mohana murali vadana\n\nRasa mahotsava khelana Shyam Anandamrita varshana Bahu vidha sarira dharana Nana lila kautuka Dhvaja vajrankita mridupada Samasta loka radhaka\n\nVrishabharistha nipidaka Vidhigata darpa vinasaka Ruchira svarupa janardana Nila kalebara chidghana Sadhaka mati samsodhana Lila natana manohara\n\nGopi jana gana pujita Radha veni sobhaka Akrurarthita sleshada Krita ratha yana rohana Vrajanari kula varita Sakhigana dahada virahaka\n\nMathura purajana mohaka Sanakadika munichintita Matta rajaka gala ghataka Subha pitambara dharaka Mala kara supujita Brahma purna paramatpara\n\nKubja lepana nandita Shyam Vakrakrit riju karaka Ghatita gajamada lepana Kesika Kamsa nishudana Padma gadadhara kirtita Ugrasena vara rajyada\n\nRamakrishna Hari Giridhara Madhava Keshava Narahari Mrita Guru sunu sujivaka Bhimaka bala kamita Dwaravati samsthapaka Rukminyartha suharaka\n\nNarakasura vadha karaka Aditi samarpita kundala Svadharma tatpara mokshada Sishupala suvighataka Banasura bhuja bhedana Danava vara madhusudana\n\nChakra pratapa sudarshaka Paundraka darpa vimardaka Dagdha kama janidayaka Indra vidhisa susevita Sakha bhaktarjuna sarathi Pandava kula sanmanita\n\nGitamrita samdohaka Shyam Bhishma pratijna palaka Vishva rupa samdarsaka Atyantika sukha sadhaka Bhakta kriparnava bhargada\n\nSaranagata jana taraka\n\nBhakta kama sampuraka Mangalakara gati dayaka Aisvaryadika shadguna Visvasraya jana palaka Sarva charachara dharana Purna charachara khelana\n\nDwaravati pura plavana Kuru yadukula samharaka Badari samprahi toddhava Prabhasa gamana modita Yoga sthita Yadu nandana Suragana vandita modana\n\nDevakyatmaja daivata Mohana natana nandana Suchita nara tanu tyaga Jara lubhdhaka sara vedhita Satya sanatana sundara Nityananda ghanesvara",
+            "hi": "वन्दे वंशीधरं कृष्णं स्मयमान मुखाम्बुजम्।\nपीताम्बरधरं नीलं माल्य-चन्दन-भूषितम्। राधा-चित्त-चकोरेन्दुं सौन्दर्य सुमहोदधिम् परात्परतरं देवं ब्रह्मानन्द-कृपानिधिम्।\n\nॐ श्री नारदोद्धवादि-पार्षद-गोप-गोपिगण-श्री राधा समेत श्री कृष्ण परमात्मने नमः।\n\nसत्य सनातन सुन्दर श्याम नित्यानन्द घनेश्वर\n\nलक्ष्मी-सेवित पदयुग सुर मुनि वरगण याचित भू भारोद्धार नार्थित लोकबन्धु गुरु वाचक धर्म स्थापना शीलन स्वीकृत नरतनु सुरवर\n\nमायाधीश्वर चिन्मय यादवकुल संभूषण नन्द यशोदा पालित श्रीवत्सांकित बालक मारित माया पूतना शकटासुर खल भंजन\n\nदामोदरगुण मन्दिर श्याम यमलार्जुन तरु भंजन गोपी जनगण मोहन अगणित गुण गणभूषित अघ बक राक्षस घातक कालिय सर्प विमर्दन\n\nजय वृन्दावन चारवर गोचरण रत गोधर बर्ह सुसोभित चूडक गल लम्बित वनमालक अग्रज बल भद्रान्वित गोपवधु हृदय स्थित\n\nसर्वात्मक सर्वेश्वर धेनुक खर वध कारक सुरेन्द्र पूजन वारक पर्वत पूजन कारक\n\nसुरगण प्रार्थित संगद निरुपम क्रीड़न तोषण\n\nपदाराधक विधि हर गोपी भावित प्रियकर नन्दित नन्द सुनन्दन वैकुण्ठेश नराकृति कालिन्दी तट चरण मोहन मुरली वदन\n\nरास महोत्सव खेलन श्याम आनन्दामृत वर्षण बहु विध शरीर धारण नाना लीला कौतुक ध्वज वज्रांकित मृदुपद समस्त लोक राधक\n\nवृषभारिष्ट निपीडक विधिगत दर्प विनाशक रुचिर स्वरूप जनार्दन नील कलेबर चिद्घन साधक मति संशोधन लीला नटन मनोहर\n\nगोपी जन गण पूजित राधा वेणी शोभक अक्रूरार्थित श्लेषद कृत रथ यान रोहन व्रजनारी कुल वारित सखिगण दहद विरहक\n\nमथुरा पुरजन मोहक सनकादिक मुनि चिन्तित मत्त रजक गल घातक शुभ पीताम्बर धारक माला कर सुपूजित ब्रह्म पूर्ण परमत्पर\n\nकुब्जा लेपन नन्दित श्याम वक्रकृत ऋजु कारक घटित गजमद लेपन केशिक कंस निषूदन पद्म गदाधर कीर्तित उग्रसेन वर राज्यद\n\nरामकृष्ण हरि गिरिधर माधव केशव नरहरि मृत गुरु सुनु सुजीवक भीमक बल कामित द्वारवती संस्थापक रुक्मिण्यार्थ सुहारक\n\nनरकासुर वध कारक अदिति समर्पित कुण्डल स्वधर्म तत्पर मोक्षद शिशुपाल सुविघातक बाणासुर भुज भेदन दानव वर मधुसूदन\n\nचक्र प्रताप सुदर्शक पौण्ड्रक दर्प विमर्दक दग्ध काम जनिदायक इन्द्र विधिश सुसेवित सखा भक्तार्जुन सारथि पाण्डव कुल सम्मानित\n\nगीतमृत संदोहम् श्याम भीष्म प्रतिज्ञा पालक विश्व रूप संदर्शक अत्यन्तिक सुख साधक भक्त कृपार्णव भार्गद\n\nशरणागत जन तारक\n\nभक्त काम सम्पूरक मंगलकार गति दायक ऐश्वर्यादिक षड्गुण विश्वाश्रय जन पालक सर्व चराचर धारण पूर्ण चराचर खेलन\n\nद्वारवती पुर प्लवन कुरु यदुकुल संहारक बदरी संप्रहि तोद्धव प्रभास गमन मोदित योग स्थित यदु नन्दन सुरगण वन्दित मोदन\n\nदेवक्यात्मज दैवत मोहन नटन नन्दन सूचित नर तनु त्याग जर लुब्धक शर वेधित सत्य सनातन सुन्दर नित्यानन्द घनेश्वर",
+            "bn": "বন্দে বংশীধরং কৃষ্ণং স্ময়মান মুখাম্বুজম্।\nপীতাম্বরধরং নীলং মাল্য-চন্দন-ভূষিতম্। রাধা-চিত্ত-চকোরেন্দুং সৌন্দর্য সুমহোদধিম্ পরাত্পরতারং দেবং ব্রহ্মানন্দ-কৃপানিধিম্।\n\nওঁ শ্রী নারদোদ্ধবাদি-পার্ষদ-গোপ-গোপীগণ-শ্রী রাধা সমেত শ্রী কৃষ্ণ পরমাত্মনে নমঃ।\n\nসত্য সনাতন সুন্দর শ্যাম নিত্যানন্দ ঘনেশ্বর\n\nলক্ষ্মী-সেবিত পদযুগ সুর মুনি বরগণ যাচিত ভূ ভারোদ্ধার নার্থিত লোকবন্ধু গুরু বাচক ধর্ম স্থাপনা শীলন স্বীকৃত নরতনু সুরবর\n\nমায়াধীশ্বর চিন্ময় যাদবকুল সম্ভূষণ নন্দ যশোদা পালিত শ্রীবৎসাঙ্কিত বালক মারিত মায়া পূতনা শকটাসুর খল ভঞ্জন\n\nদামোদরগুণ মন্দির শ্যাম যমলার্জুন তরু ভঞ্জন গোপী জনগণ মোহন অগণিত গুণ গণভূষিত অঘ বক রাক্ষস ঘাতক কালিয় সर्प বিমর্দন\n\nজয় বৃন্দাবন চারবর গোচরণ রত গোধর বর্হ সুশোভিত চূড়ক গল লম্বিত বনমালক অগ্রজ বল ভদ্রান্বিত গোপবধূ হৃদয়স্থিত\n\nসর্বাত্মক সর্বেশ্বর ধেনুক খর বধ কারক সুরেন্দ্র পূজন বারক পর্বত পূজন কারক\n\nসুরগণ প্রার্থিত সঙ্গদ নিরুপম ক্রীড়ন তোষণ\n\nপদারাধক বিধি হর গোপী ভাবিত প্রিয়কর নন্দিত নন্দ সুনন্দন বৈকুণ্ঠেশ নরাকৃতি কালিন্দী তট চরণ মোহন মুরলি বদন\n\nরাস মহোৎসব খেলন শ্যাম আনন্দামৃত বর্ষণ বহু বিধ শরীর ধারণ নানা লীলা কৌতুক ধ্বজ বজ্রাঙ্কিত মৃদুপদ সমস্ত লোক রাধক\n\nবৃষভারিষ্ট নিপীড়ক বিধিগত দর্প বিনাশক রুচির স্বরূপ জনার্দন নীল কলেবর চিদ্ঘন সাধক মতি সংশোধন লীলা নটন মনোহর\n\nগোপী জন গণ পূজিত রাধা বেণী শোভক অক্রূরার্থিত শ্লেষদ কৃত রথ যান রোহন ব্রজনারী কুল বারিত সখীগণ দহদ বিরহক\n\nমথুরা পুরজন মোহক সনকাদিক মুনিচিন্তিত মত্ত রজক গল ঘাতক শুভ পীতাম্বর ধারক মালা কর সুপূজিত ব্রহ্ম পূর্ণ পরমাত্পর\n\nকুব্জা লেপন নন্দিত শ্যাম বক্রকৃত ঋজু কারক ঘটিত গজমদ লেপন কেশিক কংস নিষূদন পদ্ম গদাধর কীর্তিত উগ্রসেন বর রাজ্যদ\n\nরামকৃষ্ণ হরি গিরিধর माधব কেশব নারহরি মৃত গুরু সুনু সুজীবক ভীমক বল কামিত দ্বারবতী সংস্থাপক রুক্মিণ্যর্থ সুহারক\n\nনরকাসুর বধ কারক অদিতি সমর্পিত কুণ্ডল স্বধর্ম তত্পর মোক্ষদ শিশুপাল সুবিঘাতক বানাসুর ভুজ ভেদন দানব বর মধুসূদন\n\nচক্র প্রতাপ সুদর্শক পৌণ্ড্রক দর্প বিমর্দক দগ্ধ কাম জনিদায়ক ইন্দ্র বিধিশ সুসেবিত সখা ভক্তার্জুন সারথি পাণ্ডব কুল সম্মানিত\n\nগীতামৃত সন্দোহক শ্যাম ভীষ্ম প্রতিজ্ঞা পালক বিশ্বরূপ সন্দর্শক অত্যান্তিক সুখ সাধক ভক্ত কৃপারণব ভর্গদ\n\nশরণাগত জন তারক\n\nভক্ত কাম সম্পূরক মঙ্গলকার গতি দায়ক ঐশ্বর্যাদিক ষড়্গুণ বিশ্বাশ্রয় জন পালক সর্ব চরাচর ধারণ পূর্ণ চরাচর খেলন\n\nদ্বারবতী পুর প্লবন কুরু যদুকুল সংহারক বদরী সংপ্রহি তোদ্ধব প্রভাস গমন মোদিত যোগস্থিত যদু নন্দন সুরগণ বন্দিত মোদন\n\nদেবক্যात्मজ দৈবত মোহন নটন নন্দন সূচিত নর তনু ত্যাগ জরা লুব্ধক শর বেধিত সত্য সনাতন সুন্দর নিত্যানন্দ ঘনেশ্বর",
+            "ka": "ವಂದೇ ವಂಶೀಧರಂ ಕೃಷ್ಣಂ ಸ್ಮಯಮಾನ ಮುಖಾಂಬುಜಂ।\nಪೀತಾಂಬರಧರಂ ನೀಲಂ ಮಾಲ್ಯ-ಚಂದನ-ಭೂಷಿತಂ। ರಾಧಾ-ಚಿತ್ತ-ಚಕೋರೇಂದುಂ ಸೌಂದರ್ಯ ಸುಮಹೋದಧಿಂ ಪರಾತ್ಪರತರಂ ದೇವಂ ಬ್ರಹ್ಮಾನಂದ-ಕೃಪಾನಿಧಿಂ।\n\nಓಂ ಶ್ರೀ ನಾರದೋದ್ದವಾದಿ-ಪಾರ್ಷದ-ಗೋಪ-ಗೋಪಿಗಣ-ಶ್ರೀ ರಾಧಾ ಸಮೇತ ಶ್ರೀ ಕೃಷ್ಣ ಪರಮಾತ್ಮನೇ ನಮಃ।\n\nಸತ್ಯ ಸನಾತನ ಸುಂದರ ಶ್ಯಾಮ ನಿತ್ಯಾನಂದ ಘನೇಶ್ವರ\n\nಲಕ್ಷ್ಮೀ-ಸೇವಿತ ಪದಯುಗ ಸುರ ಮುನಿ ವರಗಣ ಯಾಚಿತ ಭೂ ಭಾರೋದ್ದಾರ ನಾರ್ಥಿತ ಲೋಕಬಂಧು ಗುರು ವಾಚಕ ಧರ್ಮ ಸ್ಥಾಪನ ಶೀಲನ ಸ್ವೀಕೃತ ನರತನೂ ಸುರವರ\n\nಮಾಯಾಧೀಶ್ವರ ಚಿನ್ಮಯ ಯಾದವಕುಲ ಸಂಭೂಷಣ ನಂದ ಯಶೋದಾ ಪಾಲಿತ ಶ್ರೀವತ್ಸಾಂಕಿತ ಬಾಲಕ ಮಾರಿತ ಮಾಯಾ ಪೂತನಾ ಶಕಟಾಸುರ ಖಲ ಭಂಜನ\n\nದಾಮೋದರಗುಣ ಮಂದಿರ ಶ್ಯಾಮ ಯಮಲಾರ್ಜುನ ತರು ಭಂಜನ ಗೋಪೀ ಜನಗಣ ಮೋಹನ ಅಗಣಿತ ಗುಣ ಗಣಭೂಷಿತ ಅಘ ಬಕ ರಾಕ್ಷಸ ಘಾತಕ ಕಾಲಿಯ ಸರ್ಪ ವಿಮರ್ಧನ\n\nಜಯ ವೃಂದಾವನ ಚಾರವರ ಗೋಚರಣ ರತ ಗೋಧರ ಬರ್ಹ ಸುಶೋಭಿತ ಚೂಡಕ ಗಲ ಲಂಬಿತ ವನಮಾಲಕ ಅಗ್ರಜ ಬಲ ಭದ್ರಾನ್ವಿತ ಗೋಪವಧು ಹೃದಯ ಸ್ಥಿತ\n\nಸರ್ವಾತ್ಮಕ ಸರ್ವೇಶ್ವರ ಧೇನುಕ ಖರ ವಧ ಕಾರಕ ಸುರೇಂದ್ರ ಪೂಜನ ವಾರಕ ಪರ್ವತ ಪೂಜನ ಕಾರಕ\n\nಸುರಗಣ ಪ್ರಾರ್ಥಿತ ಸಂಗದ ನಿರುಪಮ ಕ್ರೀಡನ ತೋಷಣ\n\nಪದಾರಾಧಕ ವಿಧಿ ಹರ ಗೋಪೀ ಭಾವಿತ ಪ್ರಿಯಕರ ನಂದಿತ ನಂದ ಸುನಂದನ ವೈಕುಂಠೇಶ ನರಾಕೃತಿ ಕಾಲಿಂದಿ ತಟ ಚರಣ ಮೋಹನ ಮುರಳಿ ವದನ\n\nರಾಸ ಮಹೋತ್ಸವ ಖೇಲನ ಶ್ಯಾಮ ಆನಂದಾಮೃತ ವರ್ಷಣ ಬಹು ವಿಧ ಶರೀರ ಧರಣ ನಾನಾ ಲೀಲಾ ಕೌತುಕ ಧ್ವಜ ವಜ್ರಾಂಕಿತ ಮೃದುಪದ ಸಮಸ್ತ ಲೋಕ ರಾಧಕ\n\nವೃಷಭಾರಿಷ್ಟ ನಿಪೀಡಕ ವಿಧಿಗತ ದರ್ಪ ವಿನಾಶಕ ರುಚಿರ ಸ್ವರೂಪ ಜನಾರ್ದನ ನೀಲ ಕಲೆಬರ ಚಿದ್ಘನ ಸಾಧಕ ಮತಿ ಸಂಶೋಧನ ಲೀಲಾ ನಟನ ಮನೋಹರ\n\nಗೋಪೀ ಜನ ಗಣ ಪೂಜಿತ ರಾಧಾ ವೇಣಿ ಶೋಭಕ ಅಕ್ರೂರಾರ್ಥಿತ ಶ್ಲೇಷದ ಕೃತ ರಥ ಯಾನ ರೋಹನ ವ್ರಜನಾರಿ ಕುಲ ವಾರಿತ ಸಖಿಗಣ ದಹದ ವಿರಹಕ\n\nಮಥುರಾ ಪುರಜನ ಮೋಹಕ ಸನಕಾದಿಕ ಮುನಿಚಿಂತಿತ ಮತ್ತ ರಜಕ ಗಲ ಘಾತಕ ಶುಭ ಪೀತಾಂಬರ ಧಾರಕ ಮಾಲಾ ಕರ ಸುಪೂಜಿತ ಬ್ರಹ್ಮ ಪೂರ್ಣ ಪರಮಾತ್ಪರ\n\nಕುಬ್ಜಾ ಲೇಪನ ನಂದಿತ ಶ್ಯಾಮ ವಕ್ರಕೃತ ಋಜು ಕಾರಕ ಘಟಿತ ಗಜಮದ ಲೇಪನ ಕೇಶಿಕ ಕಂಸ ನಿಷೂದನ ಪದ್ಮ ಗದಾಧರ ಕೀರ್ತಿತ ಉಗ್ರಸೇನ ವರ ರಾಜ್ಯದ\n\nರಾಮಕೃಷ್ಣ ಹರಿ ಗಿರಿಧರ ಮಾಧವ ಕೇಶವ ನರಹರಿ ಮೃತ ಗುರು ಸುನು ಸುಜೀವಕ ಭೀಮಕ ಬಲ ಕಾಮಿತ ದ್ವಾರವತಿ ಸಂಸ್ಥಾಪಕ ರುಕ್ಮಿಣ್ಯರ್ಥ ಸುಹಾರಕ\n\nನರಕಾಸುರ ವಧ ಕಾರಕ ಅದಿತಿ ಸಮರ್ಪಿತ ಕುಂಡಲ ಸ್ವಧರ್ಮ ತತ್ಪರ ಮೋಕ್ಷದ ಶಿಶುಪಾಲ ಸುವಿಘಾತಕ ಬಾಣಾಸುರ ಭುಜ ಭೇದನ ದಾನವ ವರ ಮಧುಸೂದನ\n\nಚಕ್ರ ಪ್ರತಾಪ ಸುದರ್ಶಕ ಪೌಂಡ್ರಕ ದರ್ಪ ವಿಮರ್ಧಕ ದಗ್ಧ ಕಾಮ ಜನಿದಾಯಕ ಇಂದ್ರ ವಿಧಿಶ ಸುಸೇವಿತ ಸಖ ಭಕ್ತಾರ್ಜುನ ಸಾರಥಿ ಪಾಂಡವ ಕುಲ ಸನ್ಮಾನಿತ\n\nಗೀತಾಮೃತ ಸಂದೋಹಕ ಶ್ಯಾಮ ಭೀಷ್ಮ ಪ್ರತಿಜ್ಞಾ ಪಾಲಕ ವಿಶ್ವ ರೂಪ ಸಂದರ್ಶಕ ಅತ್ಯಂತಿಕ ಸುಖ ಸಾಧಕ ಭಕ್ತ ಕೃಪಾರ್ಣವ ಭರ್ಗದ\n\nಶರಣಾಗತ ಜನ ತಾರಕ\n\nಭಕ್ತ ಕಾಮ ಸಂಪೂರಕ ಮಂಗಳಕಾರ ಗತಿ ದಾಯಕ ಐಶ್ವರ್ಯಾದಿಕ ಷಡ್ಗುಣ ವಿಶ್ವಾಶ್ರಯ ಜನ ಪಾಲಕ ಸರ್ವ ಚರಾಚರ ಧಾರಣ ಪೂರ್ಣ ಚರಾಚರ ಖೇಲನ\n\nದ್ವಾರವತಿ ಪುರ ಪ್ಲವನ ಕುರು ಯದುಕುಲ ಸಂಹಾರಕ ಬದರಿ ಸಂಪ್ರಹಿ ತೊದ್ದವ ಪ್ರಭಾಸ ಗಮನ ಮೋದಿತ ಯೋಗ ಸ್ಥಿತ ಯದು ನಂದನ ಸುರಗಣ ವಂದಿತ ಮೋದನ\n\nದೇವಕ್ಯಾತ್ಮಜ ದೈವತ ಮೋಹನ ನಟನ ನಂದನ ಸೂಚಿತ ನರ ತನु ತ್ಯಾಗ ಜರ ಲುಬ್ಧಕ ಶರ ವೇಧಿತ ಸತ್ಯ ಸನಾತನ ಸುಂದರ ನಿತ್ಯಾನಂದ ಘನೇಶ್ವರ"
+        },
+        "translation": {
+            "en": "Shyama Nama Sankirtanam is a grand devotional litany celebrating the many names, qualities, and divine acts of Lord Krishna. The hymn begins by praising Krishna as the flute-bearing Lord with a smiling lotus face, adorned with yellow garments, sandal paste, and garlands, and as the beloved of Radha whose beauty is like an infinite ocean. He is acknowledged as the supreme divine reality, the source of bliss, compassion, and spiritual grace.\n\nThe hymn proceeds to recount the divine life and deeds of Krishna from His childhood to His cosmic role as the protector of the universe. It describes His upbringing in Gokula under Nanda and Yashoda, His miraculous childhood exploits, and His destruction of many demons such as Putana, Sakatasura, Aghasura, Bakasura, Kaliya, and Dhenuka. These acts symbolize the removal of evil and ignorance from the world.\n\nKrishna’s enchanting beauty and loving relationship with the gopis are celebrated, especially His flute playing, His presence in Vrindavan, and the divine rasa dance that represents the highest form of spiritual love between the soul and God. The hymn also praises His compassion toward devotees and His protection of the righteous.\n\nLater sections recall His heroic deeds in Mathura and Dwaraka, including the defeat of tyrants like Kamsa and Narakasura, the protection of the Yadava people, and His marriage to Rukmini. Krishna is also remembered as the guide and charioteer of Arjuna in the Mahabharata, where He delivered the immortal wisdom of the Bhagavad Gita and revealed His universal cosmic form.\n\nThe hymn concludes by glorifying Krishna as the savior of those who surrender to Him, the fulfiller of devotees’ wishes, the sustainer of the universe, and the eternal, blissful, supreme Lord. Chanting these sacred names is believed to purify the heart, deepen devotion, and connect the devotee with the divine love and grace of Lord Krishna."
+        }
+    },
+    {
+        "id": 24,
+        "slug": "trigunatita-radhamadhava",
+        "number": 24,
+        "title": "Trigunatita Radhamadhava",
+        "firstLine": "Trigunatita gunesvara Radhamadhava Radha Shyam",
+        "category": "general",
+        "lyrics": {
+            "en": "Trigunatita gunesvara Radhamadhava Radha Shyam\nSrististhitilayakarana Radhamadhava Radha Shyam\nGovindachyuta yadava Radhamadhava Radha Shyam\nNarayana hari kesava Radhamadhava Radha Shyam\nMukunda murahara vamana Radhamadhava Radha Shyam\nJaya jaya gopi vallabha Radhamadhava Radha Shyam\nAnupama sundara mohana Radhamadhava Radha Shyam\nAkhila rasamrita sagara Radhamadhava Radha Shyam",
+            "hi": "त्रिगुणातित गुणेश्वर राधामाधव राधा श्याम\nसृष्टिस्थितिलय कारण राधामाधव राधा श्याम\nगोविंदअच्युत यादव राधामाधव राधा श्याम\nनारायण हरी केशव राधामाधव राधा श्याम\nमुकुंद मुराहर वामन राधामाधव राधा श्याम\nजय जय गोपीवल्लभ राधामाधव राधा श्याम\nअनुपम सुन्दर मोहना राधामाधव राधा श्याम\nअखिल रसामृत सागर राधामाधव राधा श्याम",
+            "bn": "ত্রিগুণাতিত গুণেশ্বর রাধামাধব রাধা শ্যাম\nসৃষ্টিস্থিতিলয় কারণ রাধামাধব রাধা শ্যাম\nগোবিন্দঅচ্যুত যাদব রাধামাধব রাধা শ্যাম\nনারায়ণ হরি কেশব রাধামাধব রাধা শ্যাম\nমুকুন্দ মুরাহর বামন রাধামাধব রাধা শ্যাম\nজয় জয় গোপীবল্লভ রাধামাধব রাধা শ্যাম\nঅনুপম সুন্দর মোহনা রাধামাধব রাধা শ্যাম\nঅখিল রসামৃত সাগর রাধামাধব রাধা শ্যাম",
+            "ka": "ತ್ರಿಗುಣಾತಿತ ಗುಣೇಶ್ವರ ರಾಧಾಮಾಧವ ರಾಧಾ ಶ್ಯಾಮ್\nಸೃಷ್ಟಿಸ್ಥಿತಿಲಯ ಕಾರಣ ರಾಧಾಮಾಧವ ರಾಧಾ ಶ್ಯಾಮ್\nಗೋವಿಂದಅಚ್ಯುತ ಯಾದವ ರಾಧಾಮಾಧವ ರಾಧಾ ಶ್ಯಾಮ್\nನಾರಾಯಣ ಹರಿ ಕೇಶವ ರಾಧಾಮಾಧವ ರಾಧಾ ಶ್ಯಾಮ್\nಮುಕುಂದ ಮುರಾಹರ ವಾಮನ ರಾಧಾಮಾಧವ ರಾಧಾ ಶ್ಯಾಮ್\nಜಯ ಜಯ ಗೋಪೀವಲ್ಲಭ ರಾಧಾಮಾಧವ ರಾಧಾ ಶ್ಯಾಮ್\nಅನೂಪಮ ಸುಂದರ ಮೋಹನ ರಾಧಾಮಾಧವ ರಾಧಾ ಶ್ಯಾಮ್\nಅಖಿಲ ರಸಾಮೃತ ಸಾಗರ ರಾಧಾಮಾಧವ ರಾಧಾ ಶ್ಯಾಮ್"
+        },
+        "translation": {
+            "en": "This hymn glorifies Radha and Madhava (Krishna) as transcending the three gunas (qualities), the supreme embodiment of all virtues and beauty. Each line celebrates their divine roles: as the cause of creation, preservation, and dissolution, as Govinda and Achyuta, as Narayana, Hari, Kesava, Mukunda, and Vamana. The hymn praises Krishna’s intimate relationship with the gopis, his incomparable beauty, and the boundless ocean of rasa and divine delight that flows from their love. Chanting these names evokes devotion, spiritual bliss, and a direct connection to the transcendent love of Radha and Krishna."
+        }
+    },
+    {
+        "id": 25,
+        "slug": "gayati-vanamali-madhuram",
+        "number": 25,
+        "title": "Gayati Vanamali Madhuram",
+        "firstLine": "Gayati vanamali madhuram.",
+        "category": "general",
+        "lyrics": {
+            "en": "Gayati vanamali madhuram.\nPushpa sugandhi sumalaya samire Munijana darshita yamuna tire.\nKujita shuka pika mukha khaga kunje kutilalaka bahu nirada punje.\nTulasidama vibhushana hari Jalaja bhavastuta sadguna shauri.\nParamahamsa hridayotsavakari Paripurita muraliravakari.",
+            "hi": "गायति वनमालि मधुरम्।\nपुष्प सुगंधि सुमलय समिरे मुनिजन दर्शित यमुना तिरे।\nकुजित शुक पिक मुख काग कुंजे कुटिलालक बहु निरदा पुंजे।\nतुलसीदाम विभूषण हरि जलज भवस्तुता सद्गुण शौरी।\nपरमहंस हृदयोत्सवकारी परिपूरित मुरलीरवकारी।",
+            "bn": "গায়তি বনমালি মধুরম্।\nপুষ্প সুগন্ধি সুমলয় সমিরে মুনিজন দর্শিত যমুনা তীরে।\nকুজিত শুক পিক মুখ কাগ কুঞ্জে কুটিলালক বহু নিরদা পুঞ্জে।\nতুলসীদাম বিভূষণ হরি জলজ ভবস্তুতা সদগুণ শৌরী।\nপরমহংস হৃদয়োৎসবকারী পরিপূরিত মুরলীরবকারী।",
+            "ka": "ಗಾಯತಿ ವನಮಾಲಿ ಮಧುರಂ।\nಪುಷ್ಪ ಸುಗಂಧಿ ಸುಮಲಯ ಸಮಿರೆ ಮುನಿಜನ ದರ್ಶನ ಯಮುನಾ ತಿರೆ।\nಕುಜಿತ ಶುಕ ಪಿಕ ಮುಖ ಕಾಗೆ ಕುಂಜೆ ಕುಟಿಲಾಲಕ ಬಹು ನಿರದ ಪುಂಜೆ।\nತುಳಸೀದಾಮ ವಿಭೂಷಣ ಹರಿ ಜಲಜ ಭವಸ್ತುತ ಸತ್ಸ್ಗುಣ ಶೌರಿ।\nಪರಮಹಂಸ ಹೃದಯೋತ್ಸವಕಾರಿ ಪರಿಪೂರಿತ ಮುರಳಿರವಕಾರಿ।"
+        },
+        "translation": {
+            "en": "This hymn celebrates the enchanting beauty and fragrance of the forest adorned with flowers, particularly along the banks of the Yamuna River. The scene is described vividly with the sounds of parrots and birds in the groves, and clusters of flowers swaying in the breeze. Krishna, adorned with tulasi leaves and divine ornaments, is praised as the embodiment of virtue and charm. The hymn also honors the joy of the Paramahamsa (supreme soul) whose heart resonates with the melodies of Krishna’s flute, creating a full, blissful celebration of divine presence. Chanting this hymn evokes the serene and delightful atmosphere of Vrindavan, inspiring devotion and love for Krishna."
+        }
+    },
+    {
+        "id": 26,
+        "slug": "atmarama-avanija-ramana",
+        "number": 26,
+        "title": "Atmarama Avanija Ramana",
+        "firstLine": "Atmarama avanija ramana",
+        "category": "general",
+        "lyrics": {
+            "en": "Atmarama avanija ramana\nVeda vibhushana varada vibhishana Bhavabhaya saman bhadradribhavana Raghukula bhushana rajivalochana Anujaprana saranatrana Sacchidananda Sri ramanarayana.",
+            "hi": "आत्माराम अवनिज रमण\nवेद विभूषण वरद विभीषण भवभय समन भद्रद्रिभवन रघुकुल भूषण राजिवलोचन अनुजप्राण शरणत्राण सच्चिदानंद श्री रमनारायण।",
+            "bn": "আত্মারাম অবনিজ রমণ\nবেদ বিভূষণ বরদ বিভীষণ ভবভয় সমন ভদ্রদ্রিভবন রঘুকুল ভূষণ রাজিভলোচন অনুজপ্রাণ শরণত্রাণ সচ্চিদানন্দ শ্রী রমনারায়ণ।",
+            "ka": "ಆತ್ಮಾರಾಮ ಅವನಿಜ ರಮಣ\nವೇದ ವಿಭೂಷಣ ವರದ ವಿಭೀಷಣ ಭವಭಯ ಸಮನ ಭದ್ರದ್ರಿಭವನ ರಘುಕುಲ ಭೂಷಣ ರಾಜಿವಲೋಚನ ಅನುಜಪ್ರಾಣ ಶರಣತ್ರಾಣ ಸಚ್ಚಿದಾನಂದ ಶ್ರೀ ರಮಣಾರಾಯಣ।"
+        },
+        "translation": {
+            "en": "This hymn glorifies Sri Ramanarayana as the supreme self-delighting Lord, whose very presence dispels fear and sorrow. He is adorned with the wisdom of the Vedas and grants boons like Vishnu and protection like Bhima. Praised as the jewel of the Raghu dynasty with lotus-like eyes, he is the life of his younger devotees and the ultimate refuge. The hymn emphasizes his nature as pure existence, consciousness, and bliss (Sacchidananda), inspiring surrender, devotion, and spiritual confidence in the devotee."
+        }
+    },
+    {
+        "id": 27,
+        "slug": "dinoddharana-rama-hare",
+        "number": 27,
+        "title": "Dinoddharana Rama Hare",
+        "firstLine": "Dinoddharana rama hare",
+        "category": "general",
+        "lyrics": {
+            "en": "Dinoddharana rama hare Dinadayalo krishna hare Raghukula tilaka rama hare Yadukulanandana krishna hare.",
+            "hi": "दिनोद्धारन राम हरे दिनदयालो कृष्ण हरे रघुकुल तिलक राम हरे यदुकुलनंदन कृष्ण हरे।",
+            "bn": "দিনোদ্ধারণ রাম হরে দিনদয়ালো কৃষ্ণ হরে রঘুকুল তিলক রাম হরে যদুকুলনন্দন কৃষ্ণ হরে।",
+            "ka": "ದಿನೋದ್ದಾರಣ ರಾಮ ಹರೆ ದಿನದಯಾಲೋ ಕೃಷ್ಣ ಹರೆ ರಘುಕುಲ ತಿಲಕ ರಾಮ ಹರೆ ಯದುಕುಲನಂದನ ಕೃಷ್ಣ ಹರೆ।"
+        },
+        "translation": {
+            "en": "This hymn venerates Rama and Krishna as compassionate saviors of the distressed. Rama is praised as the jewel of the Raghu dynasty, while Krishna is celebrated as the delight of the Yadu lineage. The repetitive chanting of their names emphasizes their mercy, protection, and ability to uplift devotees, inspiring deep devotion and surrender to their divine grace."
+        }
+    },
+    {
+        "id": 28,
+        "slug": "sakala-bhuvana-hai-ramamaya",
+        "number": 28,
+        "title": "Sakala Bhuvana Hai Ramamaya",
+        "firstLine": "Sakala bhuvana hai ramamaya Raghuvara mere pranapriya",
+        "category": "general",
+        "lyrics": {
+            "en": "Sakala bhuvana hai ramamaya Raghuvara mere pranapriya Sakalabhuvana hai shyamamaya Giridhara mere pranapriya.",
+            "hi": "सकल भुवन है राममय रघुवर मेरे प्राणप्रिय सकलभुवन है श्याममय गिरिधर मेरे प्राणप्रिय।",
+            "bn": "সকল ভুবন হয় রামময় রঘুবর মেরে প্রাণপ্রিয় সকলভুবন হয় শ্যামময় গিরিধর মেরে প্রাণপ্রিয়।",
+            "ka": "ಸಕಲ ಭುವನ ಹೈ ರಾಮಮಯ ರಘುವರ ಮೇರೇ ಪ್ರಾಣಪ್ರಿಯ ಸಕಲಭುವನ ಹೈ ಶ್ಯಾಮಮಯ ಗಿರಿಧರ ಮೇರೇ ಪ್ರಾಣಪ್ರಿಯ।"
+        },
+        "translation": {
+            "en": "This hymn expresses the devotional realization that the entire universe is pervaded by the divine presence of God. The devotee lovingly declares that all worlds are filled with the essence of Lord Rama, the noble descendant of the Raghu dynasty, who is dearer than life itself. In the same spirit, the hymn proclaims that the whole universe is also permeated by the presence of Shyama—Lord Krishna, the lifter of Govardhana (Giridhara). By mentioning both Rama and Krishna, the hymn teaches that the one Supreme Divine manifests in different forms for the sake of devotees. The devotee experiences the world not as ordinary matter but as sacred, filled everywhere with the presence of the beloved Lord. Chanting this hymn inspires a vision of unity, reminding the devotee that God exists in all beings and throughout creation, awakening deep love, surrender, and spiritual awareness."
+        }
+    },
+    {
+        "id": 29,
+        "slug": "yamuna-tiravihari",
+        "number": 29,
+        "title": "Yamuna Tiravihari",
+        "firstLine": "Yamuna tiravihari",
+        "category": "general",
+        "lyrics": {
+            "en": "Yamuna tiravihari\nBrindavana samchari\nGovardhanoddhari Gopala krishna murari.",
+            "hi": "यमुना तीरविहारी\nवृन्दावन संचारी\nगोवर्धनोद्धारी गोपाल कृष्ण मुरारी।",
+            "bn": "যমুনা তীরবিহারী\nবৃন্দাবন সঞ্চারী\nগোবর্ধনোদ্ধারী গোপাল কৃষ্ণ মুরারী।",
+            "ka": "ಯಮುನಾ ತೀರವಿಹಾರಿ\nವೃಂದಾವನ ಸಂಚಾರಿ\nಗೋವರ್ಧನೋದ್ದಾರಿ ಗೋಪಾಲ ಕೃಷ್ಣ ಮುರಾರಿ."
+        },
+        "translation": {
+            "en": "This hymn is a loving praise of Lord Krishna, describing his divine play in the sacred land of Vrindavana. The devotee remembers Krishna as the one who joyfully wanders along the banks of the holy Yamuna River and moves freely through the forests and groves of Vrindavana. He is praised as Govardhanoddhari—the one who lifted Mount Govardhana to protect the people of Vraja from the storm sent by Indra. He is also called Gopala, the tender protector of cows and the beloved of the cowherd community, and Murari, the destroyer of the demon Mura. Through these names, the hymn celebrates Krishna’s beauty, compassion, courage, and divine playfulness. Chanting this hymn fills the heart with devotion and remembrance of Krishna’s loving presence and his protective grace toward all devotees."
+        }
+    },
+    {
+        "id": 30,
+        "slug": "hare-murare-madhukaitabhare",
+        "number": 30,
+        "title": "Hare Murare Madhukaitabhare",
+        "firstLine": "Hare murare madhukaitabhare",
+        "category": "general",
+        "lyrics": {
+            "en": "Hare murare madhukaitabhare Gopala govinda mukunda saure Hymn",
+            "hi": "हरे मुुरारे मधुकैतभरे गोपाल गोविंद मुकुंद सौर हाइम्न",
+            "bn": "হরে মুরারে মধুকৈতভরে গোপাল গোবিন্দ মুকুন্দ সাউর হিম্ন",
+            "ka": "ಹರೆ ಮುರಾರೇ ಮಧುಕೈತಭರೇ ಗೋಪಾಲ ಗೋವಿಂದ ಮುಕುಂದ ಸೌರೇ ಹೈಮ್ನ್"
+        },
+        "translation": {
+            "en": "This hymn exalts Lord Krishna in his various forms—Murari, Madhukaitabha-bhare, Gopala, Govinda, and Mukunda. It celebrates his valor, divine pastimes, and the joy he brings to devotees. Chanting these names invokes protection, divine grace, and a devotional connection with Krishna’s playful and heroic aspects."
+        }
+    },
+    {
+        "id": 31,
+        "slug": "jaya-govinda-jaya-gopala",
+        "number": 31,
+        "title": "Jaya Govinda Jaya Gopala",
+        "firstLine": "Jaya govinda jaya gopala",
+        "category": "general",
+        "lyrics": {
+            "en": "Jaya govinda jaya gopala Kesava madhava dinadayala Dinadayala prabhu Dinadayala Dinadayala prabhu Dinadayala.",
+            "hi": "जय गोविंदा जय गोपाला केशव माधव दिनदयाल दिनदयाल प्रभु दिनदयाल दिनदयाल प्रभु दिनदयाल।",
+            "bn": "জয় গোবিন্দ জয় গোপালা কেশব মাধব দিনদয়াল দিনদয়াল প্রভু দিনদয়াল দিনদয়াল প্রভু দিনদয়াল।",
+            "ka": "ಜಯ ಗೋವಿಂದ ಜಯ ಗೋಪಾಲ ಕೇಶವ ಮಾಧವ ದಿನದಯಾಲ ದಿನದಯಾಲ ಪ್ರಭು ದಿನದಯಾಲ ದಿನದಯಾಲ ಪ್ರಭು ದಿನದಯಾಲ।"
+        },
+        "translation": {
+            "en": "This hymn praises Lord Krishna in his forms as Govinda, Gopala, Kesava, and Madhava, highlighting his compassion and mercy. The repeated invocation of 'Dinadayala' emphasizes his role as the protector and benefactor of all beings, encouraging devotees to experience devotion, spiritual solace, and surrender through the remembrance of his divine qualities."
+        }
+    },
+    {
+        "id": 32,
+        "slug": "hey-jagatraataa-viswa-vidhaataa",
+        "number": 32,
+        "title": "Hey Jagatraataa Viswa Vidhaataa",
+        "firstLine": "hey jagatraataa viswa vidhaataa hey sukha shaanti niketana hey",
+        "category": "general",
+        "lyrics": {
+            "en": "hey jagatraataa viswa vidhaataa hey sukha shaanti niketana hey\n\n1. prema ke sindho dina ke bandho dukha daridra vinashana hey\n\n2. nitya akhanda ananta anaadi purana brahma sanaatan hey\n\n3. jaga aashray jagapati jagavandana anupama alakha niranjana hey\n\n4. prana sakha tribhuvan pratipalaka jeevan ke avalambana hey",
+            "hi": "हे जगत्राता विश्व विधाता हे सुख शांति निकेतन हे\n\n1. प्रेम के सिंधो दीन के बंधो दुख दरिद्र विनाशन हे\n\n2. नित्य अखंड अनंत अनादि पुराण ब्रह्म सनातन हे\n\n3. जग आश्रय जगपति जगवंदन अनुपम अलख निरंजन हे\n\n4. प्राण सखा त्रिभुवन प्रतिपालक जीवन के अवलंबन हे",
+            "bn": "হে জগত্রাতা বিশ্ব বিধাতা হে সুখ শান্তি নিকেতন হে\n\n1. প্রেম কে সিন্ধু দীন কে বন্ধো দুঃখ দরিদ্র বিনাশন হে\n\n2. নিত্য অখণ্ড অনন্ত অনাদি পুরাণ ব্রহ্ম সনাতন হে\n\n3. জগ আশ্রয় জগপতি জগবন্দন অনুপম অলখ নিরঞ্জন হে\n\n4. প্রাণ সখা ত্রিভুবন প্রতিপালক জীবন কে অবলম্বন হে",
+            "ka": "ಹೇ ಜಗತ್ರಾತಾ ವಿಶ್ವ ವಿಧಾತಾ ಹೇ ಸುಖ ಶಾಂತಿ ನಿಕೇತನ ಹೇ\n\n1. ಪ್ರೇಮ ಕೆ ಸಿಂಧೋ ದೀನ ಕೆ ಬಂಧೋ ದುಃಖ ದರಿದ್ರ ವಿನಾಶನ ಹೇ\n\n2. ನಿತ್ಯ ಅಖಂಡ ಅನಂತ ಅನಾದಿ ಪುರಾಣ ಬ್ರಹ್ಮ ಸನಾತನ ಹೇ\n\n3. ಜಗ ಆಶ್ರಯ ಜಗಪತಿ ಜಗವಂದನ ಅನುಪಮ ಅಲಖ ನಿರಂಜನ ಹೇ\n\n4. ಪ್ರಾಣ ಸಖ ತ್ರಿಭುವನ ಪ್ರತಿಪಾಲಕ ಜೀವನ ಕೆ ಅವಲಂಬನ ಹೇ"
+        },
+        "translation": {
+            "en": "This hymn is a heartfelt prayer addressed to the Supreme Lord, the protector and creator of the entire universe. The devotee praises God as the source of peace, happiness, and refuge for all beings. The hymn describes the Lord as an ocean of divine love and the compassionate friend of the poor and helpless, who destroys sorrow and poverty.\n\nIt further glorifies the Divine as eternal, indivisible, infinite, and beginningless—the ancient and everlasting Supreme Brahman who exists beyond time. The Lord is praised as the support of the universe, the ruler of all worlds, and the one worshipped by all creation. Though beyond human perception and description, the Divine remains pure, stainless, and incomparable.\n\nFinally, the devotee addresses God as the intimate friend of the soul and the protector of the three worlds, acknowledging that the Lord alone is the true support and foundation of life. Chanting this hymn awakens devotion, surrender, and trust in the all-loving and all-sustaining presence of the Supreme Being."
+        }
+    },
+    {
+        "id": 33,
+        "slug": "deva-deva-krishna-dinabandhu",
+        "number": 33,
+        "title": "Deva Deva Krishna Dinabandhu",
+        "firstLine": "Deva deva deva krishna dinabandhu pahimam",
+        "category": "general",
+        "lyrics": {
+            "en": "1. Deva deva deva krishna dinabandhu pahimam Nilamegha shyama krishna nitya mukta rakshamam Putana samhara krishna bhuvananatha pahimam Pundarika nayana krishna punuarupa rakshamam\n\nVenuganalola krishna vimalanatha pahimam Vishwarupa vasudeva vira rama rakshamam\n\nNandanandana mukundanatha radha krishna pahimam Induvadana mandahasa isa krishna rakshamam.",
+            "hi": "1. देव देव देव कृष्ण दिनबंधु पाहिमम् नीलमेघ श्याम कृष्ण नित्य मुक्त रक्षमम् पुत्रणा संहार कृष्ण भुवननाथ पाहिमम् पुण्डरीक नयन कृष्ण पुनारूप रक्षमम्\n\nवेंगुनालोल कृष्ण विमलनाथ पाहिमम् विश्वरूप वासुदेव वीर राम रक्षमम्\n\nनंदनंदन मुकुंदनाथ राधा कृष्ण पाहिमम् इन्दुवदन मन्दहास ईसा कृष्ण रक्षमम्।",
+            "bn": "1. দেব দেব দেব কৃষ্ণ দিনবন্ধু পাহিমম্ নীলমেঘ শ্যাম কৃষ্ণ নিত্য মুক্ত রক্ষমম্ পুতনা সংসাহার কৃষ্ণ ভুবননাথ পাহিমম্ পুণ্ডরীক নয়ন কৃষ্ণ পুনারূপ রক্ষমম্\n\nবেংগুনালোলা কৃষ্ণ বিমলনাথ পাহিমম্ বিশ্বরূপ বাসুদেব বীর রাম রক্ষমম্\n\nনন্দনন্দন মুকুন্দনাথ রাধা কৃষ্ণ পাহিমম্ ইন্দুবদন মন্দহাস ঈসা কৃষ্ণ রক্ষমম্।",
+            "ka": "1. ದೇವ ದೇವ ದೇವ ಕೃಷ್ಣ ದಿನಬಂಧು ಪಾಹಿಮಮ್ ನೀಲಮೇಘ ಶ್ಯಾಮ ಕೃಷ್ಣ ನಿತ್ಯ ಮುಕ್ತ ರಕ್ಷಮಮ್ ಪುತನ ಸಂಹಾರ ಕೃಷ್ಣ ಭುವನನಾಥ ಪಾಹಿಮಮ್ ಪುಂಡರೀಕ ನಯನ ಕೃಷ್ಣ ಪುನರೂಪ ರಕ್ಷಮಮ್\n\nವೇಣುಗಾನಲೋಲ ಕೃಷ್ಣ ವಿಮಲನಾಥ ಪಾಹಿಮಮ್ ವಿಶ್ವರೂಪ ವಾಸುದೇವ ವೀರ ರಾಮ ರಕ್ಷಮಮ್\n\nನಂದನಂದನ ಮುಖುನ್ದನಾಥ ರಾಧಾ ಕೃಷ್ಣ ಪಾಹಿಮಮ್ ಇಂದುವದನ ಮಂದಹಾಸ ಈಸಾ ಕೃಷ್ಣ ರಕ್ಷಮಮ್।"
+        },
+        "translation": {
+            "en": "This hymn venerates Lord Krishna as the divine protector and friend of the distressed. It praises Krishna’s deeds, such as slaying Putana, and highlights his various forms including Nilamegha Shyama, Pundarika Nayana, Venuganalola, Vishwarupa, Mukundanatha, and Radha Krishna. Each verse requests Krishna’s protection, celebrating his compassion, divine beauty, and playful grace. Chanting these names invokes devotion, divine safety, and spiritual upliftment, emphasizing Krishna’s role as the savior and eternal companion of his devotees."
+        }
+    },
+    {
+        "id": 34,
+        "slug": "sundaralala-nandadulala",
+        "number": 34,
+        "title": "Sundaralala Nandadulala",
+        "firstLine": "Sundaralala nandadulala",
+        "category": "general",
+        "lyrics": {
+            "en": "1. Sundaralala nandadulala\n\n2. Nacata Shribrundavaname Bhale-chandana tilaka manohara,\nAlaka shobhe kapolaname!!sundara!!\n\n2. Shire chuda nayanabishala,\n\n3. Kundamala hiya para dole, Pahirana pita patambara bole, Runu jhuna nupura carananame!sundara!\n\n3. Koyi gavata pamcamatan,\n\n4. Bamshipukare radha nam, Mangalatala mridamga rasala, Bajavata koyi rangana me!!sundara!!\n\n4. Radha krishna ekatanu hoye,\n\n5. Nidhuvaname jo ranga macaye, Vishwarupa jo bhagavana sohi,\nLila karata vrundavana me!!sundara!!",
+            "hi": "1. सुन्दर लाल नन्द दुलाला\n\n2. नाचत श्रीवृन्दावन में भाल चन्दन तिलक मनोहर,\nअलक शोभे कपोलों में!!सुन्दर!!\n\n2. शिर चूड़ा नयन विशाल,\n\n3. कुंदमाला हिया पर डोले, पहिरन पीत पटाम्बर बोले, रुनु झुनु नूपुर चरणों में!सुन्दर!\n\n3. कोई गावता पंचमतान,\n\n4. बंशी पुकारे राधा नाम, मंगल ताल मृदंग रसाल, बजावत कोई रंगन में!!सुन्दर!!\n\n4. राधा कृष्ण एकतनु होये,\n\n5. निधुवन में जो रंग मचाये, विश्वरूप जो भगवान सोहि,\nलीला करत वृन्दावन में!!सुन्दर!!",
+            "bn": "1. সুন্দর লাল নন্দ দুলালা\n\n2. নাচত শ্রীবৃন্দাবনে ভাল চন্দন তিলক মনোহর,\nঅলক শোভে কপোলনে!!সুন্দর!!\n\n2. শিরে চূড়া নয়ন বিশাল,\n\n3. কুন্দমালা হিয়া পর দোলে, পহিরণ পীত পটাম্বর বোলে, রুনু ঝুনু নূপুর চরণনে!সুন্দর!\n\n3. কেউ গাবত পঞ্চম তান,\n\n4. বাঁশি পুকারে রাধা নাম, মঙ্গল তাল মৃদঙ্গ রসাল, বাজাবত কেউ রঙ্গনে!!সুন্দর!!\n\n4. রাধা কৃষ্ণ একতনু হয়,\n\n5. নিধুবনে যে রঙ্গ মচায়ে, বিশ্বরূপ যে ভগবান সোহি,\nলীলা করত বৃন্দাবনে!!সুন্দর!!",
+            "ka": "1. ಸುಂದರಲಾಲ ನಂದದುಲಾಲ\n\n2. ನಾಚತ ಶ್ರೀವೃಂದಾವನ ಮೇ ಭಾಲ ಚಂದನ ತಿಲಕ ಮನೋಹರ,\nಅಲಕ ಶೋಭೆ ಕಪೋಲನ ಮೇ!!ಸುಂದರ!!\n\n2. ಶಿರೆ ಚೂಡಾ ನಯನ ವಿಶಾಲ,\n\n3. ಕುಂದಮಾಲ ಹಿಯಾ ಪರ ದೋಲೆ, ಪಹಿರಣ ಪೀತ ಪಟಾಂಬರ ಬೋಲೆ, ರುನು ಝುನು ನೂಪುರ ಚರಣನ ಮೇ!ಸುಂದರ!\n\n3. ಕೊಯಿ ಗಾವತ ಪಂಚಮತಾನ,\n\n4. ಬಂಶಿ ಪುಕಾರೆ ರಾಧಾ ನಾಮ, ಮಂಗಳ ತಾಳ ಮೃದಂಗ ರಸಾಲ, ಬಜಾವತ ಕೊಯಿ ರಂಗನ ಮೇ!!ಸುಂದರ!!\n\n4. ರಾಧಾ ಕೃಷ್ಣ ಏಕತನೂ ಹೋಯೆ,\n\n5. ನಿಧುವನ ಮೇ ಜೋ ರಂಗ ಮಚಾಯೆ, ವಿಶ್ವರೂಪ ಜೋ ಭಗವಾನ ಸೋಹಿ,\nಲೀಲಾ ಕರತ ವೃಂದಾವನ ಮೇ!!ಸುಂದರ!!"
+        },
+        "translation": {
+            "en": "This hymn beautifully describes the enchanting divine play of Lord Krishna in the sacred land of Vrindavana. Krishna is lovingly addressed as the beautiful child of Nanda, the charming and delightful Lord who captivates the hearts of devotees. The hymn portrays Krishna dancing joyfully in Vrindavana, adorned with a sandalwood tilak on his forehead, curly locks decorating his cheeks, and a crown upon his head. His large, compassionate eyes and his graceful appearance fill the devotees with wonder.\n\nKrishna is decorated with a garland of fragrant flowers and dressed in shining yellow garments. As he moves, the anklets on his feet produce sweet musical sounds. The atmosphere of Vrindavana is filled with music and devotion—some sing melodious songs while others play instruments like the mridanga. Krishna’s flute calls out the sacred name of Radha, expressing their eternal divine love.\n\nThe hymn culminates in the vision of Radha and Krishna as one divine reality expressing itself through loving play in Nidhuvana. Though the Lord is the cosmic and universal form of God, he lovingly manifests in Vrindavana to perform sweet divine pastimes for the joy of devotees. Singing this hymn awakens devotion and allows the heart to experience the beauty, love, and bliss of Krishna’s divine presence."
+        }
+    },
+    {
+        "id": 35,
+        "slug": "govinda-gopala-he-nandalala",
+        "number": 35,
+        "title": "Govinda Gopala He Nandalala",
+        "firstLine": "Govinda gopala he nandalala Radhe gopala gopi gopala!",
+        "category": "general",
+        "lyrics": {
+            "en": "Govinda gopala he nandalala Radhe gopala gopi gopala!\n\n1 Mirake natha prabhu murali gopala, Govardha-noddhara gopalabala.\n\n2 Nanda yashodaki dulal venu-gopala, Kaliya-mardana Sri vraja bala.",
+            "hi": "गोविन्द गोपाला हे नन्दलाला राधे गोपाला गोपी गोपाला!\n\n1 मीराके नाथ प्रभु मुरली गोपाला, गोवर्धन-उद्धार गोपालबाला।\n\n2 नन्द यशोदा की दुलाल वेणु-गोपाल, कालिय-मर्दन श्री व्रज बाला।",
+            "bn": "গোবিন্দ গোপালা হে নন্দলালা রাধে গোপালা গোপী গোপালা!\n\n1 মীরাকে নাথ প্রভু মুরলী গোপালা, গোবর্ধন-উদ্ধার গোপালবালা।\n\n2 নন্দ যশোদাকি দুলাল বেণু-গোপাল, কালিয়-মর্দন শ্রী ব্রজ বালা।",
+            "ka": "ಗೋವಿಂದ ಗೋಪಾಲ ಹೇ ನಂದಲಾಲಾ ರಾಧೇ ಗೋಪಾಲ ಗೋಪೀ ಗೋಪಾಲ!\n\n1 ಮೀರಾಕೇ ನಾಥ ಪ್ರಭು ಮುರಳಿ ಗೋಪಾಲ, ಗೋವರ್ಧನ-ಉದ್ಧಾರ ಗೋಪಾಲಬಾಲಾ.\n\n2 ನಂದ ಯಶೋದಾಕಿ ದುಲಾಲ ವೇಣು-ಗೋಪಾಲ, ಕಾಲಿಯ-ಮರ್ದನ ಶ್ರೀ ವ್ರಜ ಬಾಲಾ."
+        },
+        "translation": {
+            "en": "This hymn is a loving devotional song in praise of Lord Krishna, addressing him by many of his affectionate and divine names. The devotee calls out to Govinda and Gopala, the protector of cows and the beloved son of Nanda, who is adored by Radha and the gopis of Vraja.\n\nThe hymn also remembers Krishna as the Lord of the great devotee Mirabai, who worshipped him with complete surrender and love. Krishna is praised as Murali Gopala, the enchanting flute-player whose divine music attracts the hearts of all beings. He is also glorified as the one who lifted Mount Govardhana to protect the people of Vraja, demonstrating his compassion and divine power.\n\nThe song further celebrates him as the cherished child of Nanda and Yashoda, and as Venu Gopala, the sweet flute-playing cowherd of Vrindavana. It also recalls his heroic deed of subduing the serpent Kaliya, thereby protecting the people of Vraja. Through these sacred names and memories, the hymn expresses deep devotion, love, and gratitude toward Lord Krishna, inviting devotees to remember his divine play, protection, and grace."
+        }
+    },
+    {
+        "id": 36,
+        "slug": "bita-gaye-dina-bhajana-bina-re",
+        "number": 36,
+        "title": "Bita Gaye Dina Bhajana Bina Re",
+        "firstLine": "Bita gaye dina bhajana bina re.",
+        "category": "general",
+        "lyrics": {
+            "en": "Bita gaye dina bhajana bina re. Bala avastha khela gavayo,\nJaba jaubana taba mana dhana re.\n\nLahe karana mula gavayo, Ajahu na gayi mana ki trishna re.\n\nKahata Kabira suno bhai sadho, Para utara gaye santa jana re.",
+            "hi": "बीता गये दिन भजन बिना रे. बाला अवस्था खेला गवायो,\nजब जौबन तब मन धन रे.\n\nलाहे कारण मूल गवायो, अजहु न गई मन की तृष्णा रे.\n\nकहत कबीर सुनो भाई साधो, पार उतरा गये संत जना रे.",
+            "bn": "বীতা গয়ে দিন ভজন বিনা রে. বালা অবস্থা খেলা গবায়ো,\nযব জৌবন তব মন ধন রে.\n\nলাহে কারণ মূল গবায়ো, অজহু না গয়ী মন কি তৃষ্ণা রে.\n\nকহত কবিরা শুনো ভাই সাধো, পার উতরা গয়ে সন্ত জনা রে.",
+            "ka": "ಬೀತ ಗಯೇ ದಿನ ಭಜನ ಬಿನಾ ರೇ. ಬಾಲ ಅವಸ್ಥಾ ಖೇಲಾ ಗವಾಯೋ,\nಜಬ ಜೌಬನ ತಬ ಮನ ಧನ ರೇ.\n\nಲಾಹೇ ಕಾರಣ ಮೂಲ ಗವಾಯೋ, ಅಜಹು ನ ಗಯೀ ಮನ ಕೀ ತೃಷ್ಣಾ ರೇ.\n\nಕಹತ ಕಬೀರಾ ಸುನೋ ಭಾಯಿ ಸಾಧೋ, ಪಾರ ಉತರಾ ಗಯೇ ಸಂತ ಜನಾ ರೇ."
+        },
+        "translation": {
+            "en": "This devotional hymn attributed to the saint Kabir reflects on the fleeting nature of human life and the tragedy of wasting it without devotion to God. The poet laments that many days of life have already passed without engaging in bhajana (devotional remembrance of the Divine). Childhood was spent in play and carefree activities, and when youth arrived, the mind became absorbed in worldly wealth, desires, and attachments.\n\nKabir points out that the very purpose of human birth—the opportunity to realize the Divine—has been neglected. Even after so much time has passed, the deep cravings and restlessness of the mind have not disappeared. The human heart continues to chase desires instead of turning toward spiritual practice.\n\nIn the final lines, Kabir lovingly addresses spiritual seekers and saints, urging them to listen carefully. He reminds them that the realized saints have crossed the ocean of worldly existence through devotion and spiritual discipline. The hymn therefore serves as a wake-up call, encouraging listeners to awaken from worldly distraction, engage in sincere devotion, and follow the path shown by the saints in order to attain liberation and inner peace."
         }
     }
 ]

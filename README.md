@@ -42,7 +42,8 @@ IMPORTANT: step by step:
 - What files were created/modified
 - What to run in terminal if anything
 - Ask me to confirm before moving to next step
-================
+  
+======================
 PROJECT OVERVIEW
 ======================
 
@@ -59,9 +60,9 @@ Branding:
 - Font: Clean, readable, good for elderly users
 - Style: Devotional, warm, minimal, mobile-first
 
-=============================================================
+======================
 STEP 1 - PROJECT SETUP
-=============================================================
+======================
 
 Create a new Next.js 14 project called "rvc-hymns" with:
 - App Router (not pages router)
@@ -78,9 +79,9 @@ cd rvc-hymns
 
 STOP HERE. Tell me it's done and wait for my confirmation.
 
-=============================================================
+======================
 STEP 2 - FOLDER STRUCTURE
-=============================================================
+======================
 
 After I confirm Step 1, create this exact folder structure 
 (do not add any files yet, just create the folders):
@@ -106,9 +107,9 @@ rvc-hymns/
 
 STOP HERE. Show me the folder structure and wait for my confirmation.
 
-=============================================================
+======================
 STEP 3 - HYMN DATA (JSON)
-=============================================================
+======================
 
 After I confirm Step 2, create the file: data/hymns.json
 
@@ -169,9 +170,9 @@ The structure above is the exact schema to follow for all 30 hymns.
 
 STOP HERE. Show me the JSON structure and wait for my confirmation.
 
-=============================================================
+======================
 STEP 4 - GLOBAL LAYOUT & COMPONENTS
-=============================================================
+======================
 
 After I confirm Step 3, build these components one by one.
 Build them in this order and STOP after each one:
@@ -226,9 +227,9 @@ Available languages for now: ["EN"]
 
 STOP after each sub-component and wait for confirmation before next.
 
-=============================================================
+======================
 STEP 5 - PAGES
-=============================================================
+======================
 
 After I confirm Step 4, build each page. STOP after each one.
 
@@ -274,9 +275,9 @@ After I confirm Step 4, build each page. STOP after each one.
 
 STOP after each page and wait for my confirmation.
 
-=============================================================
+======================
 STEP 6 - FINAL CHECKS
-=============================================================
+======================
 
 After I confirm Step 5, do the following checks:
 
@@ -292,9 +293,9 @@ After I confirm Step 5, do the following checks:
 
 STOP HERE and show me the build output.
 
-=============================================================
+======================
 STEP 7 - VERCEL DEPLOYMENT INSTRUCTIONS
-=============================================================
+======================
 
 After build passes, give me exact step by step instructions for:
 
@@ -316,9 +317,9 @@ After build passes, give me exact step by step instructions for:
    - Click Deploy
    - Site will be live at: rvc-hymns.vercel.app
 
-=============================================================
+======================
 DEVELOPER NOTES FOR FUTURE VERSIONS
-=============================================================
+======================
 
 Keep these in mind for later - do NOT implement now:
 
@@ -337,7 +338,7 @@ Keep these in mind for later - do NOT implement now:
 
 - Audio: a future version could add audio playback per hymn.
 
-=============================================================
+======================
 BEGIN NOW WITH STEP 1. 
 Do not proceed to Step 2 until I confirm Step 1 is complete.
-=============================================================
+======================

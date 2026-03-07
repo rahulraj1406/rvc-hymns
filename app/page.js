@@ -1,6 +1,7 @@
 import Link from "next/link";
 import HymnCard from "../components/HymnCard";
 import hymns from "../data/hymns.json";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export default function Home() {
   const featuredHymns = hymns.slice(0, 6);

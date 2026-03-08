@@ -21,16 +21,14 @@ export default function Home() {
           </div>
 
           <h1 className="text-4xl md:text-5xl font-bold text-[#FF6B00] mb-3">
-            Devotional Hymn Book
+            Bhakti Saurabha
           </h1>
 
-          <p className="text-xl text-gray-600 mb-2">
-            Ramakrishna Vedanta Centre Dublin
-          </p>
-
+          <p className="text-xl text-gray-600 mb-1">Devotional Hymn Book</p>
+          <p className="text-gray-600 mb-2">Ramakrishna Vedanta Centre Dublin</p>
           <p className="text-gray-500 text-sm mb-8 max-w-xl mx-auto leading-relaxed">
             A collection of sacred hymns and devotional songs used in our
-            daily worship and celebrations at Éire Vedanta Society.
+            daily worship and celebrations.
           </p>
 
           <Link

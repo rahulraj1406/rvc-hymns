@@ -23,7 +23,9 @@ export default function HymnsPage() {
         { id: "krishna", label: "Krishna" },
         { id: "shiva", label: "Shiva" },
         { id: "devi", label: "Devi" },
-        { id: "general", label: "General" }
+        { id: "guru", label: "Guru" },
+        { id: "namavali", label: "Namavali" },
+        { id: "others", label: "Others" }
     ];
 
     let filtered = hymns.filter((hymn) => {

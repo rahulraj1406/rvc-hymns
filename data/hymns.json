@@ -25,7 +25,10 @@
         "number": 2,
         "title": "Om Hrim Ritam Tvam-Achalo",
         "firstLine": "Om hrim ritam tvam-achalo, gunajit, gunedyah",
-        "category": "aarathikam",
+        "category": [
+            "aarathikam",
+            "ramakrishna"
+        ],
         "lyrics": {
             "en": "Om hrim ritam tvam-achalo, gunajit, gunedyah\nNaktam-divam, sakarunam, tava pada-padmam;\nMohan-kasham, bahu-kritam, na bhaje yato'ham\nTasmat tvam-eva sharanam, mama dina-bandho.\n\nBhaktir bhagas-cha bhajanam, bhava-bheda-kari\nGach-chantyalam, suvipulam, gamanaya tattvam;\nVak-trod-dhritopi hridi me, nacha bhati kinchit\nTasmat tvam-eva sharanam, mama dina-bandho.\n\nTejas-taranti tarasa, tvayi tripta-trishna,\nRage krite, rita-pathe, tvayi Ramakrishne;\nMartyam-ritam, tava padam, maranormi-nasham\nTasmat tvam-eva sharanam, mama dina-bandho.\n\nKrityam karoti kalusham, kuhakanta-kari\nShnantam shivam, suvimalam, tava nama natha;\nYasmad-aham tvasharano, jagadeka-gamya\nTasmat tvam-eva sharanam, mama dina-bandho.\n\nOm sthapakaya cha dharmasya, sarva dharma-svarupine;\nAvatara-varishthaya Ramakrishnaya te namah.\n\nOm namah shri bhagavate Ramakrishnaya namo namah.",
             "hi": "ओं हृम् रितं त्वम्-अचलो, गुणजित्, गुणेध्यः\nनक्तं-दिवं, साकारुणं, तव पद-पद्मम्;\nमोहन-कशं, बहु-कृतं, न भजे यतोऽहम्\nतस्मात् त्वमेव शरणं, मम दीन-बन्धो।\n\nभक्तिर् भागश्च भजनम्, भव-भेदा-कारी\nगच्छ-चन्त्यालं, सुविपुलं, गमनय तत्त्वम्;\nवक्त्रोद्धृतोऽपि हृदि मे, नच भाति किंचित्\nतस्मात् त्वमेव शरणं, मम दीन-बन्धो।\n\nतेजस-तरन्ति तरसा, त्वयी त्रिप्त-त्रिष्णा,\nरागे कृत, रित-पथे, त्वयी रामकृष्णे;\nमर्त्यम्-ऋतम्, तव पदम्, मरणोर्मि-नाशम्\nतस्मात् त्वमेव शरणं, मम दीन-बन्धो।\n\nकृत्यं करोति कलुषं, कुःकान्त-करी\nशन्तं शिवं, सुविमलम्, तव नाम नाथ;\nयस्माद् अहम् त्वषरणो, जगदेक-गम्य\nतस्मात् त्वमेव शरणं, मम दीन-बन्धो।\n\nओं स्थापकाय च धर्मस्य, सर्व धर्म-स्वरूपिने;\nअवतार-वरीष्ठाय रामकृष्णाय ते नमः।\n\nओं नमः श्री भगवते रामकृष्णाय नमो नमः।",
@@ -44,7 +47,7 @@
         "firstLine": "Om sarvamangala mangalye shive sarvarthasadhike",
         "category": [
             "aarathikam",
-            "general"
+            "devi"
         ],
         "lyrics": {
             "en": "Om sarvamangala mangalye shive sarvarthasadhike,\nSharanye tryambake Gauri Narayani namo'stu te.\n\nSrishti sthiti vinashanam shaktibhute sanatani,\nGunashraye gunamaye Narayani namo'stu te.\n\nSharanagata dinarta paritrana parayane,\nSarvasyartihare Devi Narayani namo'stu te.\n\nJaya Narayani namo'stu te,\nJaya Narayani namo'stu te,\nJaya Narayani namo'stu te,\nJaya Narayani namo'stu te.\n\nJai Shri Guru Maharaj ji ki jai!\nJai Mahamayi ki jai!\nJai Swamiji Maharaj ji ki jai!",
@@ -84,8 +87,7 @@
         "title": "Prata Smarami Hridi Samsphurida",
         "firstLine": "Prata smarami hridi samsphurida-tma-tattvam",
         "category": [
-            "general",
-            "sarada"
+            "general"
         ],
         "lyrics": {
             "en": "Prata smarami hridi samsphurida-tma-tattvam sat-chit-sukham paramahamsa-gatim turiyam.\nYat svapna-jagara-sushuptam avaiti nityam tad brahma nishkalam aham na cha bhuta-sanghah.\nPratar bhajami manaso vachasam agamyam vacho vibhanti nikhila yad-anugrahena.\nYanneti neti vachanaih nigamah avochuh tam deva-devam ajam achyutam ahur-agryam.\nPratar namami tamasah param arka-varnam purnam sanatana-padam purushottam-akhyam.\nYasmin idam jagad-ashesam ashesa-murtau rajvam bhujangama iva pratibhasitam vai.",
@@ -103,7 +105,10 @@
         "number": 7,
         "title": "Sri Guru Padamula Stotram",
         "firstLine": "śarīraṁ surūpaṁ sadā rogamuktaṁ yaśaśchāru chitraṁ dhanaṁ merutulyaṁ",
-        "category": "general",
+        "category": [
+            "general",
+            "guru"
+        ],
         "lyrics": {
             "en": "1. śarīraṁ surūpaṁ sadā rogamuktaṁ yaśaśchāru chitraṁ dhanaṁ merutulyaṁ Guro-raṁghri-padme mana-śchenna lagnaṁ tataḥ kiṁ tataḥ kiṁ tataḥ kiṁ tataḥ kiṁ\n\n2. kalatraṁ dhanaṁ putra-pautrādi sarvaṁ grihaṁ bāndhavā sarva-metaddhi jātaṁ\n\n3. shaḍaṁgādi-vedo mukhe śāstra-vidyā kavitvaṁ cha gadyaṁ cha padyaṁ karoti\n\n4. videśeshu mānyaḥ svadeśeshu dhanyaḥ Sadāchāra-vritteshu matto na chānyaḥ\n\n5. kshamā-maṁḷale bhūpa-bhūpāla-vrindaiḥ sadā sevitaṁ yasya pādāravindaṁ\n\n6. yaśo me gataṁ dikshu dāna-pratāpāt jagadvastu sarvaṁ kare yatprasādāt\n\n7. na bhoge na yoge na vā vājimedhe na kāntā sukhe naiva vitteshu chittaṁ\n\n8. araṇye na vā svasya gehe na kārye na dehe mano vartate me tvanarghye",
             "hi": "1. शरीरं सुरूपं सदा रोगमुक्तं यशश्चारु चित्रं धनं मेरुतुल्यं गुरु-रंघ्री-पद्मे मन-श्चेन्न लग्नं ततः किं ततः किं ततः किं ततः किं\n\n2. कलत्रं धनं पुत्र-पौत्रादि सर्वं गृहं बान्धवाः सर्व-मेतद्दि जातं\n\n3. षडंगादि-वेदो मुखे शास्त्र-विद्या कावित्वं च गद्यं च पद्यं करोति\n\n4. विदेशेषु मान्यः स्वदेशेषु धन्यः सदाचारा-वृत्तेषु मतो न चान्यः\n\n5. क्षमा-मण्डले भूपा-भूपाल-वृन्दैः सदा सेवितं यस्य पादारविन्दं\n\n6. यशो मे गतं दिशु दान-प्रतापात् जगद्वस्तु सर्वं करे यत्प्रसादात्\n\n7. न भोगे न योगे न वा वाजिमेधे न कांता सुखे नैव वित्तेषु चित्तं\n\n8. अरण्ये न वा स्वस्य गेहे न कार्ये न देहे मनो वर्तते मे त्वनर्घ्ये",
@@ -121,7 +126,6 @@
         "title": "Tumi Brahma Ramakrishna",
         "firstLine": "Tumi Brahma Ramakrishna tumi Krishna tumi Ram",
         "category": [
-            "general",
             "ramakrishna"
         ],
         "lyrics": {
@@ -141,7 +145,6 @@
         "title": "Ramakrishna Sharanam",
         "firstLine": "Ramakrishna sharanam Ramakrishna sharanam Ramakrishna sharanam sharanye",
         "category": [
-            "general",
             "ramakrishna"
         ],
         "lyrics": {
@@ -160,7 +163,7 @@
         "number": 78,
         "title": "Bhava Bhaya Bhanjana",
         "firstLine": "Bhava bhaya bhanjana purusha niranjana ratipati ganjana kari",
-        "category": "general",
+        "category": "ramakrishna",
         "lyrics": {
             "en": "1. Bhava bhaya bhanjana purusha niranjana ratipati ganjana kari\nYatijana ranjana manomada khandana jaya bhava bandhana hari.\n\n2. Jaya jana palaka suradala nayaka jaya jaya vishva vidhata\nChira subha sadhaka matimala pavaka jaya chitta samsaya trata.\n\n3. Suranara vandana vijara vibandhana chitamana nandana kari\nRipuchaya manthana jaya bhava tarana sthalajala bhudhara dhari.\n\n4. Sama dama mandana abhaya nik tana jaya jaya mangala data\nJaya sukha sagara natavara nagara jaya sharanagata pata.\n\n5. Bhrama-tama bhaskara jaya param svara sukhakara sundara bhashi\nAchala sanatana jaya bhava pavana jaya vijayi avinasi.\n\n6. Bhakata vimohana varatanu dharana jaya Hari kirtana bhala\nGada gada bhashana chitamana toshana dhala dhala nartana lila.\n\n7. Mati gati vardhana kalibala mardana vishaya viraga prasari\nJadachita chetaka bhava jala bhedaka jaya nara manasa chari.\n\n8. Jaya purushottama anupama samyama jaya jaya antarayami\nKharatara sadhana nara dukha varana jaya Ramakrishna namami (Repeat)",
             "hi": "१. भाव भय भंजन पुरुष निरंजन रति-पति गंजना करी\nयति-जना रंजना मनो-मदा खंडन जय भाव बंधन हरि |\n\n२. जय जन पालक सुरदल नायक जय जय विश्व विधाता\nचिर शुभ साधक मति-माला पावक जय चित्त संशय त्राता |\n\n३. सुर-नर वंदन विजर विबंधन चित-मना नंदना करी\nरिपुचय मंथन जय भाव तरण स्थलजल भुधर धरी |\n\n४. सम दमा मन्दन अभय निक तना जय जय मङ्गल दाता\nजय सुख सागर नतावर नगर जय शरणागत पत्ता |\n\n५. भ्रम-तम भास्कर जय परम स्वर सुखकार सुन्दर भासी\nअचल सनातन जय भाव पवन जय विजयी अविनाशी |\n\n६. भक्त विमोहन वरतनु धारणा जय हरी कीर्तन भला\nगदा गदा भाषण चित-मना तोषण ढाल ढाल नर्तन लीला |\n\n७. मति गति वर्धन कालिबल मर्दन विषय विराग प्रसारी\nजडचित चेतक भाव जल भेदक जय नर मनसा चारी |\n\n८. जय पुरुषोत्तम अनुपमा संयम जय जय अंतरायामी\nखरतर साधना नर दुख वारणा जय रामकृष्ण नमामी (दोहराएँ)",
@@ -177,7 +180,7 @@
         "number": 101,
         "title": "Om Jaya Jagadisha Hare",
         "firstLine": "Om jaya jagadisha hare",
-        "category": "shiva",
+        "category": "others",
         "lyrics": {
             "en": "Om jaya jagadisha hare\nSwami jaya jagadisha hare\nBhakta jano ke sankat\nDasa jano ke sankat\nKshana mein door kare\nOm jaya jagadisha hare ॥1॥\n\nJo dhyave phala pave\nDukha binase mana ka\nSwami dukha binase mana ka\nSukha sammati ghara ave\nSukha sammati ghara ave\nKashta mite tana ka\nOm jaya jagadisha hare ॥2॥\n\nMata pita tuma mere\nSharana gahum main kisaki\nSwami sharana gahum main kisaki\nTuma bina aura na duja\nTuma bina aura na duja\nAsa karum main jisaki\nOm jaya jagadisha hare ॥3॥\n\nTuma purana paramatma\nTuma antaryami\nSwami tuma antaryami\nParabrahma parameshvara\nParabrahma parameshvara\nTuma saba ke swami\nOm jaya jagadisha hare ॥4॥\n\nTuma karuna ke sagara\nTuma palanakarta\nSwami tuma palanakarta\nMain murakha khala kami\nMain sevaka tuma swami\nKripa karo bhartara\nOm jaya jagadisha hare ॥5॥\n\nTuma ho eka agochara\nSabake pranapati\nSwami sabake pranapati\nKisa vidha milum dayamaya\nKisa vidha milum dayamaya\nTumako main kumati\nOm jaya jagadisha hare ॥6॥\n\nDinabandhu dukhaharta\nThakura tuma mere\nSwami tuma mere\nApane hatha uthavo\nApani sharana lagavo\nDvara pada tere\nOm jaya jagadisha hare ॥7॥\n\nVishaya vikara mitavo\nPapa haro deva\nSwami papa haro deva\nShraddha bhakti badhavo\nShraddha bhakti badhavo\nSantana ki seva\nOm jaya jagadisha hare ॥8॥",
             "hi": "ॐ जय जगदीश हरे\nस्वामी जय जगदीश हरे\nभक्त जनों के संकट\nदास जनों के संकट\nक्षण में दूर करे\nॐ जय जगदीश हरे ॥१॥\n\nजो ध्यावे फल पावे\nदुख बिनसे मन का\nस्वामी दुख बिनसे मन का\nसुख सम्पत्ति घर आवे\nसुख सम्पत्ति घर आवे\nकष्ट मिटे तन का\nॐ जय जगदीश हरे ॥२॥\n\nमाता पिता तुम मेरे\nशरण गहूं मैं किसकी\nस्वामी शरण गहूं मैं किसकी\nतुम बिन और न दूजा\nतुम बिन और न दूजा\nआस करूं मैं जिसकी\nॐ जय जगदीश हरे ॥३॥\n\nतुम पूर्ण परमात्मा\nतुम अंतर्यामी\nस्वामी तुम अंतर्यामी\nपरब्रह्म परमेश्वर\nपरब्रह्म परमेश्वर\nतुम सबके स्वामी\nॐ जय जगदीश हरे ॥४॥\n\nतुम करुणा के सागर\nतुम पालनकर्ता\nस्वामी तुम पालनकर्ता\nमैं मूर्ख खल कामी\nमैं सेवक तुम स्वामी\nकृपा करो भर्ता\nॐ जय जगदीश हरे ॥५॥\n\nतुम हो एक अगोचर\nसबके प्राणपति\nस्वामी सबके प्राणपति\nकिस विधि मिलूं दयामय\nकिस विधि मिलूं दयामय\nतुमको मैं कुमति\nॐ जय जगदीश हरे ॥६॥\n\nदीनबंधु दुखहर्ता\nठाकुर तुम मेरे\nस्वामी तुम मेरे\nअपने हाथ उठाओ\nअपनी शरण लगाओ\nद्वार पड़ा तेरे\nॐ जय जगदीश हरे ॥७॥\n\nविषय विकार मिटाओ\nपाप हरो देव\nस्वामी पाप हरो देव\nश्रद्धा भक्ति बढ़ाओ\nश्रद्धा भक्ति बढ़ाओ\nसंतन की सेवा\nॐ जय जगदीश हरे ॥८॥",
@@ -194,7 +197,7 @@
         "number": 6,
         "title": "Guru Stotram",
         "firstLine": "Om Gurur Brahma Gurur Vishnu",
-        "category": "general",
+        "category": "guru",
         "lyrics": {
             "en": "Om Gurur Brahma Gurur Vishnu Gurur Devo Maheshvarah\nGurureva Param Brahma Tasmai Shri Gurave Namah\n\nAjnana Timirandhasya Jnananjana Shalakaya\nChakshur Unmilitam Yena Tasmai Shri Gurave Namah\n\nChidrūpena Parivyaptam Trailokyam Sacharacharam\nTatpadam Darshitam Yena Tasmai Shri Gurave Namah\n\nSarva Shruti Shiro Ratna Samudbhasita Murtaye\nVedantambuja Suryaya Tasmai Shri Gurave Namah\n\nJnana Shakti Samarudhas Tattva Mala Vibhushitah\nBhukti Mukti Pradata Cha Tasmai Shri Gurave Namah\n\nNa Guror Adhikam Tattvam Na Guror Adhikam Tapah\nTattva Jnanat Param Nasti Tasmai Shri Gurave Namah\n\nGurur Adir Anadischa Guruh Paramadaivatam\nGuroh Parataram Nasti Tasmai Shri Gurave Namah\n\nBrahmanandam Parama Sukhadam Kevalam Jnana Murtim\nDvandvatitam Gagana Sadrsham Tattvamasyadi Lakshyam\nEkam Nityam Vimalam Achalam Sarvadhi Sakshi Bhutam\nBhavatitam Triguna Rahitam Sadgurum Tam Namami",
             "hi": "ॐ गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः\nगुरुरेव परं ब्रह्म तस्मै श्री गुरवे नमः\n\nअज्ञान तिमिरान्धस्य ज्ञानाञ्जन शलाकया\nचक्षुरुन्मीलितं येन तस्मै श्री गुरवे नमः\n\nचिद्रूपेण परिव्याप्तं त्रैलोक्यं सचराचरम्\nतत्पदं दर्शितं येन तस्मै श्री गुरवे नमः\n\nसर्वश्रुति शिरो रत्न समुद्भासित मूर्तये\nवेदान्ताम्बुज सूर्याय तस्मै श्री गुरवे नमः\n\nज्ञानशक्ति समारूढस्तत्त्वमाला विभूषितः\nभुक्ति मुक्ति प्रदाता च तस्मै श्री गुरवे नमः\n\nन गुरोरधिकं तत्त्वं न गुरोरधिकं तपः\nतत्त्वज्ञानात् परं नास्ति तस्मै श्री गुरवे नमः\n\nगुरुरादिरनादिश्च गुरुः परमदैवतम्\nगुरोः परतरं नास्ति तस्मै श्री गुरवे नमः\n\nब्रह्मानन्दं परमसुखदं केवलं ज्ञानमूर्तिम्\nद्वन्द्वातीतं गगनसदृशं तत्त्वमस्यादिलक्ष्यम्\nएकं नित्यं विमलमचलं सर्वधी साक्षिभूतम्\nभावातीतं त्रिगुणरहितं सद्गुरुं तं नमामि",
@@ -211,7 +214,7 @@
         "number": 11,
         "title": "Sri Rama Nama Sankirtanam",
         "firstLine": "Nanya spriha Raghu-pate hrdaye smadiye",
-        "category": "general",
+        "category": "rama",
         "lyrics": {
             "en": "11. Nanya spriha Raghu-pate hrdaye smadiye satyam vadami ca bhavan akhilantaratma; bhaktim prayaccha Raghupungava nirbharam me Kamadi dosa-rahitam kuru manasam ca.\n\nOm Sri-Sita-Lakshmana-Bharata-Satrughna-Hanumat-sameta Sri Ramachandra para-brahmane namah.\n\nSuddha-brahma-parat-para Ram Kalatmaka- paramesvara\nSesa-talpa-sukha-nidrita Brahma-dyamara-prarthita\n\nChanda-kirana-kula-mandana Srimad-Dasaratha-nandana Kausalya-sukha-vardhana Visvamitra-priya-dhana Ghora-tataka-ghataka Maricadi-nipataka\n\nKausika-makha-samrakshaka Srimad-Ahalyo-ddharaka Gautama-muni-sampujita Sura-muni-vara-gana-samstuta Navika-dhavita-mridupada Mithila-pura-jana-mohaka\n\nVideha-manasa-ranjaka Tryambaka-karmuka-bhanjaka Sitarpita-varamalika Krita-vaivahika-kautuka Bhargava-darpa-vinasaka Srima-dayodhya-palaka (Suddha)\n\nAganita-guna-gana-bhusita Avani-tanaya-kamita Raka-candra-samanana Pitri-vakyasrita-kanana Priya-Guha-vinivedita-pada Tatkshalita-nija-mridu-pada\n\nBharadvaja-mukha-nandaka Citrakutadri-niketana Dasaratha-santata-cintita Kaikeyi-tana-yarthita Viracita-nija-pitri-karmaka Bharatarpita-nija-paduka\n\nDandaka-vana jana-pavana Dusta-viradha-vinasana Sarabhanga-Sutikshnarcita Agastyanugraha-vardhita Gridhradhipa-samsevita Panca-vati-tata-susthita\n\nSuparna-kharti-vidhayaka Khara-dusana-mukha-sudaka Sita-priya-hari-nanuga Mari-carti-kridasuga Vinasta-Sita-nvesaka Gridra-dhipa-gati-dayaka\n\nSabari-datta-phalasana Kabandha-bahu-cchedana Hanumat-sevita-nija-pada Nata-Sugrivabhistada Garvita-Vali-samharaka Vanara-duta-preshaka\n\nHitakara-lakshmana-samyuta Kapi-vara-santata-samsmrita Tatgati-vighna-dhvamsaka Sita-prana-dharaka Dusta-Dasanana-dushita Sista-Hanumad bhushita\n\nSitavedita-kakavana Krita-cudamani-darsana Kapivara-vacana-svasita Ravana-nidhana-prasthita Vanara-sainya-samavrita Soshita-saridi-sarthita\n\nVibhisa-nabhaya-dayaka Parvata-setu-nibandhaka Kumbha-karna-siras-chedaka Rakshasa-sangha-vimardaka Ahi-Mahi-Ravana-carana Samhrita-dasa-mukha-Ravana\n\nVidhi-bhava-mukha-sura-samstuta Khasthita-Dasaratha-vikshita Sita-darsana-modita Abhisikta-vibhisana-nata Pushpaka-yana-rohana Bharadva-jabhi-nisevana\n\nBharata-prana-priyakara Saketa-puri-bhusana Sakala-sviya-samanata Ratna-lasat-pithasthita Pattabhi-sheka-lankrita Parthiva-kula-sammanita\n\nVibhisha-narpita-rangaka Kisa-kulanu-graha-kara Sakala-jiva-samrakshaka Samasta-loka-dharaka (Suddha)\n\nAgata-munigana-samstuta Visruta-Dasakan-todbhava Sita-lingana-nirvrta Niti-surakshita-janapada Vipina-tyajita-janakaja Karita-Lavana-sura-vadha\n\nSvargata-sambuka-samstuta Sva-tanaya-Kusa-Lava-nandita Asva-medha-kratu-dikshita Kala-vedita-sura-pada Ayodhyaka-jana-muktida Vidhi-mukha-vibudha-nandaka\n\nTejomaya-nija-rupaka Samsmriti-bandha-vimochaka Dharma-sthapana-tatpara Bhakti-parayana-muktida Sarva-caracara-palaka Sarva-bhavamaya-varaka\n\nVaikunthalaya-samsthita Nityananda-pada-sthita Ram Ram Ram jaya raja Ram Ram Ram Ram jaya Sita Ram\n\nSuddha-brahma-parat-para Kalatmaka-paramesvara Bhaya-hara mangala Dasaratha Jaya jaya mangala Sita Mangala-kara jaya mangala Samgata-subha-vibha-vodaya Anandamrita-varsaka Asrita-vatsala jaya jaya Raghu-pati-Raghava Raja Patita-pavana Sita",
             "hi": "১১. नान्य स्पृहा रघुपते हृदयें स्मादिये सत्यं वदामि च भवन अखिलान्तरत्म; भक्तिं प्रयच्छ रघुपुङ्गव निर्भरं मे कामादि दोष-रहितं कुरु मनसं च।\n\nॐ श्री-सिता-लक्ष्मण-भरत-सत्रुघ्न-हनुमत्समेत श्री रामचन्द्र पर-ब्रह्मणे नमः।\n\nशुद्ध-ब्रह्म-परात-पर राम कलात्मक- परमेश्वर सेसा-तल्प-सुख-निद्रित ब्रह्म-द्यमर-प्रार्थित\n\nचन्द-किरण-कुल-मन्दन श्रीमद-दशरथ-नन्दन कौसल्या-सुख-वर्धन विश्वामित्र-प्रिय-धन घोर-ताटक-घाटक मरीचादि-निपटक\n\nकौसिक-मख-संरक्षक श्रीमद-अहल्या-द्धारक गौतम-मुनि-संपूजित सुर-मुनि-वर-गण-संस्तुत नविका-धावित-मृदुपाद मिथिला-पुर-जन-मोहम्\n\nविदेह-मनस-रञ्जक त्रयम्बक-कर्मुक-भञ्जक सीतार्पित-वरमालिका कृत-वैवाहिक-कौतुक भार्गव-दर्प-विनाशक श्रीमद-योध्य-पालक (शुद्ध)\n\nअगणित-गुण-गण-भूषित अवनि-तनय-कमित राका-चन्द्र-समान पितृ-वाक्य-सृत-कानन प्रिय-गुहा-निवेदित-पाद तत्क्षलित-निज-मृदु-पाद\n\nभरद्वाज-मुख-नंदक चित्रकूटाद्रि-निकेतन दशरथ-सन्तत-चिन्तित कैकेयी-तन-यर्थित विरचित-निज-पितृ-कर्मक भरतर्पित-निज-पादुक\n\nदंडक-वन-जन-पवन दुष्ट-वीरध- विनाशन सारभंग-सुतिक्ष्ण-र्चित अगस्त्य-अनुग्रह-वर्धित गृध्राधिप-संसेवित पञ्च-वटी-तट-सुस्थित\n\nसुपर्ण-खर्ति-विधायक खरा-दूषण-मुख-सुदक सीता-प्रिय-हरि-नानुगा मरी-चर्ति-क्रिडासुगा विनष्ट-सीता-न्वेषक गृध्राधिप-गति-दायक\n\nसाबरी-दत्त-फलसना कबन्ध-बाहु-च्छेदन हनुमत्-सेवित-निज-पाद नाट-सुग्रीवाभिष्टदा गर्वित-वालि-संहारक वानर-दूत-प्रेषक\n\nहितकार-लक्ष्मण-सम्युत कपि-वर-संवत-संस्मृत तत्गति-विघ्न-ध्वंसक सीता-प्राण-धरक दुष्ट-दशन-दुषित सिस्त-हनुमद् भूषित\n\nसीतावेदित-काकावन कृत-चूडामणि-दर्शन कपिवर-वचन-स्वसित रावण-निधन-प्रस्थित वानर-सैन्य-समावृत सोषित-सरीडि-सार्थित\n\nविभीष-नाभय-दयाक पर्वत-सेतु-निबंधक कुम्भ-कर्ण-शीर्ष-छेदक राक्षस-संघ-विमर्दक अहि-मही-रावण-चरन संहित दास-मुख-रावण\n\nविधि-भाव-मुख-सुर-संस्तुत खस्थित-दशरथ-विक्षित सीता-दर्शन-मोदित अभिषिक्त-विभीषण-नत पुष्पक-यान-रोहण भरद्वाज-भि-निवेशन\n\nभरत-प्राण-प्रियकर सकेत-पुरी-भूषण सकल-स्वीय-समानत रत्न-लसत-पिठस्थित पत्ताभि-शेख-लंकृत पार्थिव-कुल-सम्मनित\n\nविभीष-नर्पित-रंगक किस-कुलानु-ग्रह-कर सकल-जीव-संरक्षक समस्त-लोक-धरक (शुद्ध)\n\nआगत-मुनिगण-संस्तुत विश्वृत-दशकान्तोद्भव सीता-लिङ्गन-निर्वृत नीति-सुरक्षित-जनपद विपिन-त्यजित-जनकजा कृत-लवण-सुर-वध\n\nस्वर्ग-गत-संभुका-संस्तुत स्व-तनय-कुस-लव-नन्दित अश्व-मेद-क्रतु-दीक्षित कल-वेदीत-सुर-पाद अयोध्याक-जन-मुक्तिद\n\nविधि-मुख-विबुध-नन्दक तेजोमय-निज-रूपक संस्मृति-बन्ध-विमोचक धर्म-स्थापन-तत्पर भक्तिपरायण-मुक्तिद सर्व-चराचर-पालक सर्व-भावमय-वरक\n\nवैकुंठालय-संस्थित नित्य-आनन्द-पाद-स्थित राम राम राम जय राज राम राम राम राम जय सीता राम\n\nशुद्ध-ब्रह्म-परात-पर कलात्मक-परमेश्वर भय-हार मंगल दशरथ जय जय मंगल सीता मंगल-कर जय मंगल संगत-शुभ-विभा-वोदय आनन्दमृता-वर्षक आश्रिता-वात्सल जय जय रघुपति-राघव राजा पातित-पावन सीता",
@@ -223,12 +226,12 @@
         }
     },
     {
-        "id": 555,
+        "id": 108,
         "slug": "guru-ashtakam",
-        "number": 555,
+        "number": 108,
         "title": "Guru Ashtakam",
         "firstLine": "Shariram surupam sada rogamuktam",
-        "category": "general",
+        "category": "guru",
         "lyrics": {
             "en": "1. Shariram surupam sada rogamuktam yashash charu chitram dhanam merutulyam\nGuror anghri padme manash chenna lagnam tatah kim tatah kim tatah kim tatah kim\n\n2. Kalatram dhanam putra pautradi sarvam griham bandhavah sarvam etaddhi jatam\nGuror anghri padme manash chenna lagnam tatah kim tatah kim tatah kim tatah kim\n\n3. Shadangadi vedo mukhe shastra vidya kavitvam cha gadyam cha padyam karoti\nGuror anghri padme manash chenna lagnam tatah kim tatah kim tatah kim tatah kim\n\n4. Videsheshu manyah svadesheshu dhanyah sadachara vrtteshu matto na chanyah\nGuror anghri padme manash chenna lagnam tatah kim tatah kim tatah kim tatah kim\n\n5. Kshama mandale bhupa bhupala vrindaih sada sevitam yasya padaravindam\nGuror anghri padme manash chenna lagnam tatah kim tatah kim tatah kim tatah kim\n\n6. Yasho me gatam dikshu dana pratapat jagad vastu sarvam kare yat prasadat\nGuror anghri padme manash chenna lagnam tatah kim tatah kim tatah kim tatah kim\n\n7. Na bhoge na yoge na va vajimedhe na kanta sukhe naiva vitteshu chittam\nGuror anghri padme manash chenna lagnam tatah kim tatah kim tatah kim tatah kim\n\n8. Aranye na va svasya gehe na karye na dehe mano vartate me tvanarghye\nGuror anghri padme manash chenna lagnam tatah kim tatah kim tatah kim tatah kim",
             "hi": "1. शरीरं सुरूपं सदा रोगमुक्तं यशश्चारु चित्रं धनं मेरुतुल्यम्\nगुरोरङ्घ्रि पद्मे मनश्चेन्न लग्नं ततः किम् ततः किम् ततः किम् ततः किम्\n\n2. कलत्रं धनं पुत्र पौत्रादि सर्वं गृहं बान्धवाः सर्वमेतद्धि जातम्\nगुरोरङ्घ्रि पद्मे मनश्चेन्न लग्नं ततः किम् ततः किम् ततः किम् ततः किम्\n\n3. षडङ्गादि वेदो मुखे शास्त्रविद्या कवित्वं च गद्यं च पद्यं करोति\nगुरोरङ्घ्रि पद्मे मनश्चेन्न लग्नं ततः किम् ततः किम् ततः किम् ततः किम्\n\n4. विदेशेषु मान्यः स्वदेशेषु धन्यः सदाचारवृत्तेषु मत्तो न चान्यः\nगुरोरङ्घ्रि पद्मे मनश्चेन्न लग्नं ततः किम् ततः किम् ततः किम् ततः किम्\n\n5. क्षमा मण्डले भूप भूपाल वृन्दैः सदा सेवितं यस्य पादारविन्दम्\nगुरोरङ्घ्रि पद्मे मनश्चेन्न लग्नं ततः किम् ततः किम् ततः किम् ततः किम्\n\n6. यशो मे गतं दिक्षु दानप्रतापात् जगद्वस्तु सर्वं करे यत्प्रसादात्\nगुरोरङ्घ्रि पद्मे मनश्चेन्न लग्नं ततः किम् ततः किम् ततः किम् ततः किम्\n\n7. न भोगे न योगे न वा वाजिमेधे न कान्ता सुखे नैव वित्तेषु चित्तम्\nगुरोरङ्घ्रि पद्मे मनश्चेन्न लग्नं ततः किम् ततः किम् ततः किम् ततः किम्\n\n8. अरण्ये न वा स्वस्य गेहे न कार्ये न देहे मनो वर्तते मे त्वनर्घ्ये\nगुरोरङ्घ्रि पद्मे मनश्चेन्न लग्नं ततः किम् ततः किम् ततः किम् ततः किम्",
@@ -246,7 +249,6 @@
         "title": "Sri Ramakrishna Suprabhatam",
         "firstLine": "Om dharmasya hanimabhitah paridrishya",
         "category": [
-            "general",
             "ramakrishna"
         ],
         "lyrics": {
@@ -266,7 +268,6 @@
         "title": "Sri Ramakrishna Mangala Sasanam",
         "firstLine": "Om mangalam desikendraya yaminam cakravartine",
         "category": [
-            "general",
             "ramakrishna"
         ],
         "lyrics": {
@@ -286,7 +287,6 @@
         "title": "Sri Sarada Suprabhatam",
         "firstLine": "Matah samasta jagatam paramasya pumsah",
         "category": [
-            "general",
             "sarada"
         ],
         "lyrics": {
@@ -300,12 +300,80 @@
         }
     },
     {
+        "id": 13,
+        "slug": "jaya-jaya-ram-krishna-hari",
+        "number": 13,
+        "title": "Jaya Jaya Ram Krishna Hari",
+        "firstLine": "Jaya jaya ram krishna hari!!",
+        "category": "general",
+        "lyrics": {
+            "en": "Jaya jaya ram krishna hari!!\n1. Dasaratha-nandana rama namo\nVasudeva-nandana krishna namo\n2. Kausalya-tanaya rama namo\nDevaki-nandana krishna namo\n3. Sitaramana Sri rama namo\nRadharamana Sri krishna namo\n4. Ravana-mardana rama namo\nKamsa-vimardana krishna namo",
+            "hi": "जय जय राम कृष्ण हरि!!\n1. दशरथ-नन्दन राम नमो\nवासुदेव-नन्दन कृष्ण नमो\n2. कौसल्या-तनय राम नमो\nदेवकी-नन्दन कृष्ण नमो\n3. सीतारमण श्री राम नमो\nराधारमण श्री कृष्ण नमो\n4. रावण-मर्दन राम नमो\nकंस-विमर्दन कृष्ण नमो",
+            "bn": "জয় জয় রাম কৃষ্ণ হরি!!\n1. দশরথ-নন্দন রাম নমো\nবাসুদেব-নন্দন কৃষ্ণ নমো\n2. কৌশল্যা-তনয় রাম নমো\nদেবকী-নন্দন কৃষ্ণ নমো\n3. সীতারমণ শ্রী রাম নমো\nরাধারমণ শ্রী কৃষ্ণ নমো\n4. রাবণ-মর্দন রাম নমো\nকংস-বিমর্দন কৃষ্ণ নমো",
+            "ka": "ಜಯ ಜಯ ರಾಮ ಕೃಷ್ಣ ಹರಿ!!\n1. ದಶರಥ-ನಂದನ ರಾಮ ನಮೋ\nವಾಸುದೇವ-ನಂದನ ಕೃಷ್ಣ ನಮೋ\n2. ಕೌಸಲ್ಯಾ-ತನಯ ರಾಮ ನಮೋ\nದೇವಕಿ-ನಂದನ ಕೃಷ್ಣ ನಮೋ\n3. ಸೀತಾರಮಣ ಶ್ರೀ ರಾಮ ನಮೋ\nರಾಧಾರಮಣ ಶ್ರೀ ಕೃಷ್ಣ ನಮೋ\n4. ರಾವಣ-ಮರ್ಧನ ರಾಮ ನಮೋ\nಕಂಸ-ವಿಮರ್ಧನ ಕೃಷ್ಣ ನಮೋ"
+        },
+        "translation": {
+            "en": "This devotional hymn joyfully glorifies Lord Rama and Lord Krishna, two divine incarnations of Lord Vishnu. The opening line proclaims victory and praise to the divine names of Rama and Krishna. Each verse reverently salutes them by recalling their sacred relationships and divine deeds. Rama is praised as the beloved son of King Dasaratha and Queen Kausalya, the devoted husband of Sita, and the heroic destroyer of the demon Ravana who symbolizes ego and unrighteousness. Krishna is praised as the son of Vasudeva and Devaki, the beloved of Radha, and the conqueror of the tyrant Kamsa who represents cruelty and oppression. By chanting their holy names and remembering their divine qualities, devotees express love, surrender, and gratitude to the Lord. The hymn encourages remembrance of God through His names and stories, which purifies the heart, strengthens devotion, and inspires righteousness and spiritual joy."
+        }
+    },
+    {
+        "id": 14,
+        "slug": "jaya-rama-hare",
+        "number": 14,
+        "title": "Jaya Rama Hare",
+        "firstLine": "Jaya rama hare jaya rama hare",
+        "category": "general",
+        "lyrics": {
+            "en": "1. Jaya rama hare jaya rama hare\nJaya sita rama hare\n2. Jaya krishna hare Jaya krishna hare\nJaya radha krishna hare\n3. Jaya vithala hare Jaya vithala hare\n4. Jaya panduranga vithala hare\nJaya purandara vithala hare",
+            "hi": "1. जय राम हरे जय राम हरे\nजय सीता राम हरे\n2. जय कृष्ण हरे जय कृष्ण हरे\nजय राधा कृष्ण हरे\n3. जय विठल हरे जय विठल हरे\n4. जय पांडुरंग विठल हरे\nजय पुरंदर विठल हरे",
+            "bn": "1. জয় রাম হরে জয় রাম হরে\nজয় সীতা রাম হরে\n2. জয় কৃষ্ণ হরে জয় কৃষ্ণ হরে\nজয় রাধা কৃষ্ণ হরে\n3. জয় বিঠল হরে জয় বিঠল হরে\n4. জয় পাণ্ডুরঙ্গ বিঠল হরে\nজয় পুরন্দর বিঠল হরে",
+            "ka": "1. ಜಯ ರಾಮ ಹರೇ ಜಯ ರಾಮ ಹರೇ\nಜಯ ಸೀತಾ ರಾಮ ಹರೇ\n2. ಜಯ ಕೃಷ್ಣ ಹರೇ ಜಯ ಕೃಷ್ಣ ಹರೇ\nಜಯ ರಾಧಾ ಕೃಷ್ಣ ಹರೇ\n3. ಜಯ ವಿಠಲ ಹರೇ ಜಯ ವಿಠಲ ಹರೇ\n4. ಜಯ ಪಾಂಡುರಂಗ ವಿಠಲ ಹರೇ\nಜಯ ಪುರಂದರ ವಿಠಲ ಹರೇ"
+        },
+        "translation": {
+            "en": "This joyful devotional hymn praises several beloved forms of the Divine through the repeated chanting of their sacred names. It first glorifies Lord Rama, the embodiment of righteousness and virtue, along with Sita, the ideal of purity and devotion. The hymn then celebrates Lord Krishna and Radha, symbolizing divine love and the blissful relationship between the soul and God. In the later verses, the hymn honors Lord Vithala (Vitthala or Panduranga), a cherished form of Lord Krishna worshipped especially in the bhakti tradition of Maharashtra and Karnataka. By remembering Panduranga Vithala and Purandara Vithala, the hymn reflects the devotional heritage of saints such as Purandara Dasa who spread loving devotion through music. The repeated chant of “Jaya” (victory and praise) expresses joy, surrender, and reverence, encouraging devotees to remember the Lord’s names with love and faith, which brings spiritual peace, devotion, and closeness to the Divine."
+        }
+    },
+    {
+        "id": 15,
+        "slug": "rama-nama-tarakam",
+        "number": 15,
+        "title": "Rama Nama Tarakam",
+        "firstLine": "Rama rama rama rama",
+        "category": "general",
+        "lyrics": {
+            "en": "Rama rama rama rama\nrama nama tarakam\nRamakrishna vasudeva\nbhukti muktidayakam\nJanaki manoharam\nsarvalokanayakam\nShankaradi sevyamana\npunyanama kirtanam.",
+            "hi": "राम राम राम राम\nराम नाम तारकम्\nरामकृष्ण वासुदेव\nभुक्ति मुक्तिदायकम्\nजानकी मनोहरम्\nसर्वलोकनायकम्\nशंकरादि सेव्यमान\nपुण्यनाम कीर्तनम्।",
+            "bn": "রাম রাম রাম রাম\nরাম নাম তারকম্\nরামকৃষ্ণ বাসুদেব\nভুক্তি মুক্তিদায়কম্\nজানকী মনোহরম্\nসর্বলোকনায়কম্\nশঙ্করাদি সেব্যমান\nপুণ্যনাম কীর্তনম্।",
+            "ka": "ರಾಮ ರಾಮ ರಾಮ ರಾಮ\nರಾಮ ನಾಮ ತಾರಕಮ್\nರಾಮಕೃಷ್ಣ ವಾಸುದೇವ\nಭುಕ್ತಿ ಮುಕ್ತಿದಾಯಕಮ್\nಜಾನಕಿ ಮನೋಹರಮ್\nಸರ್ವಲೋಕನಾಯಕಮ್\nಶಂಕರಾದಿ ಸೇವ್ಯಮಾನ\nಪುಣ್ಯನಾಮ ಕೀರ್ತನಮ್."
+        },
+        "translation": {
+            "en": "This hymn glorifies the sacred name of Lord Rama and celebrates the spiritual power contained in the divine names of Rama, Krishna, and Vasudeva. The repeated chanting of 'Rama' is described as a ‘taraka mantra’—a sacred name that has the power to carry the soul across the ocean of worldly existence and suffering. The hymn teaches that remembering the Lord’s name grants both worldly well-being (bhukti) and spiritual liberation (mukti). Lord Rama is praised as the beloved of Janaki (Sita), the enchanting and compassionate Lord, and the supreme leader and protector of all worlds. The hymn also acknowledges that even great deities such as Lord Shiva and other divine beings worship and serve the Lord by chanting His holy names. Thus, singing and remembering these sacred names is described as a holy and meritorious act that purifies the mind, fills the heart with devotion, and leads the devotee toward divine grace and liberation."
+        }
+    },
+    {
+        "id": 12,
+        "slug": "arati-rama-tumhari",
+        "number": 12,
+        "title": "Arati Rama Tumhari",
+        "firstLine": "arati rama tumhari jaya jaya prana natha raghu natha murari",
+        "category": "general",
+        "lyrics": {
+            "en": "1. arati rama tumhari jaya jaya prana natha raghu natha murari\n2. shuka narada muni sadara gave bharata shatrughna chavara dulave\n3. pitavasana vaijayantimala meghavarana tanu nayana bisala\n4. Chatra dharata hai lachumana bhrata arati karata hai kausalya mata\n5. sammukha sharana rahe hanu vira bara bara guna gave kabira",
+            "hi": "1. आरती राम तुम्हारी जय जय प्राणनाथ रघुनाथ मुरारी\n2. शुक नारद मुनि सदार gave भरत शत्रुघ्न चावरा दुलावे\n3. पितवसना वैजयंतिमाला मेघावरण तनु नयन विशाल\n4. छत्र धारता है लच्छुमाना भ्राता आरती करता है कौसल्या माता\n5. समक्ष शरण रहे हनु वीर बड़ा बड़ा गुण गावे कबीर",
+            "bn": "1. আরতি রাম তোমহারী জয় জয় প্রাণনাথ রঘুনাথ মুরারি\n2. শুক নারদ মুনি সদারা গাভে ভারত শত্রুঘ্ন চাওড়া দুলাবে\n3. পিতাভাসনা বৈজয়ন্তিমালা মেঘাবরণ তনু নয়ন বিশাল\n4. ছত্র ধরত হ্যায় লচ্ছুমানা ভ্রাতা আরতি করতা হ্যায় কৌশল্যা মাতা\n5. সমুখ শরণ রে হানু বীর বড় বড় গুণ গাবে কবির",
+            "ka": "1. ಆರತಿ ರಾಮ ತುಂಹಾರಿ ಜಯ ಜಯ ಪ್ರಾಣನಾಥ ರಘುನಾಥ ಮುರಾರಿ\n2. ಶುಕ ನಾರದ ಮುನಿ ಸದಾರ ಗಾಯ್ ಭರತ ಶತ್ರುಘ್ನ ಚಾವರ ದುಲಾವೆ\n3. ಪಿತಾವಸನ ವೈಜಯಂತಿಮಾಲಾ ಮೇಘಾವರಣ ತನು ನಯನ ವಿಶಾಲ\n4. ಛತ್ರ ಧಾರತಾ ಹೈ ಲಚ್ಚುಮಾನ ಭ್ರತಾ ಆರತಿ ಕರತಾ ಹೈ ಕೌಶಲ್ಯಾ ಮಾತಾ\n5. ಸಮ್ಮುಖ ಶರಣ ರಹೇ ಹನು ವೀರ ಬಡಾ ಬಡಾ ಗುಣ ಗಾವೇ ಕಬೀರ"
+        },
+        "translation": {
+            "en": "This hymn is a devotional praise of Lord Rama, recounting his divine attributes and the reverence he receives from various sages and deities. Each verse highlights the different qualities and glories of Rama, and the prayer is meant to invoke his blessings.\n\nVerse 1: The hymn begins with a call to glorify Lord Rama, praising him as the Lord of life (prana natha), the descendant of the Raghu dynasty (raghu natha), and the destroyer of evil (murari).\n\nVerse 2: The verse speaks about sages like Shuka and Narada, who are devoted to Lord Rama. It mentions the grandeur of Bharata and Shatrughna, and how they serve the Lord with dedication.\n\nVerse 3: Lord Rama is described as adorned with the Vaijayanti garland and having a magnificent appearance. His divine form is compared to a radiant cloud, with large eyes that reflect his grandeur and wisdom.\n\nVerse 4: The verse refers to Lord Rama’s brother, Lakshmana, who stands alongside him in devotion. His mother, Kausalya, is mentioned as a worshiper of Rama, leading the ritual of arati in honor of her son.\n\nVerse 5: The final verse praises Hanuman, the great devotee of Lord Rama, who remains ever devoted and sings the virtues of Rama. It also reflects on Kabir’s tribute to Lord Rama, reinforcing the idea of divine surrender and the eternal praise of Rama’s greatness."
+        }
+    },
+    {
         "id": 16,
         "slug": "itani-binati-raghunandana-se",
         "number": 16,
         "title": "Itani Binati Raghunandana Se",
         "firstLine": "Itani binati Raghunandana se Duhkha dvandva hamara mitao ji.",
-        "category": "general",
+        "category": "rama",
         "lyrics": {
             "en": "Itani binati Raghunandana se Duhkha dvandva hamara mitao ji.\n\nApne pada pankaja pinjara me Chitahamsa hamara baithao ji.\n\nTulasidasa kahe karajori Bhava sagara para utaro ji.",
             "hi": "इतनी बिनती रघुनंदन से दुःख द्वंद्व हमारा मिटाओ जी।\n\nअपने पद पंकज पिंजरा में चितहंस हमारा बैठाओ जी।\n\nतुलसीदास कहे करजोरि भव सागर पार उतारो जी।",
@@ -322,7 +390,7 @@
         "number": 17,
         "title": "Payo Ji Maine Rama Ratana Dhana Payo",
         "firstLine": "Payo ji maine Rama ratana dhana payo.",
-        "category": "general",
+        "category": "rama",
         "lyrics": {
             "en": "Payo ji maine Rama ratana dhana payo.\n\n1. Vastu amolika di mere Sataguru Kirapa kara apanayo.\n\n2. Janama janama ki punji pai Jaga me sabhi khovayo.\n\n3. Kharachai na khutai vako Chora na lutai\nDina dina badata savayo.\n\n4. Sata ki nava khevatiya Sataguru Bhavasagara tara ayo.\n\n5. Mira ke Prabhu Giridhara nagara Harakha harakha jasa gayo.",
             "hi": "पायो जी मैंने राम रतन धन पायो।\n\n1. वस्तु अमोलिक दी मेरे सतगुरु किरपा कर अपनायो।\n\n2. जनम जनम की पूंजी पाई जग में सभी खोवायो।\n\n3. खरचै न खुटै वाको चोर न लुटै\nदिन दिन बढ़त सवायो।\n\n4. सत की नाव खेवनिया सतगुरु भवसागर तर आयो।\n\n5. मीरा के प्रभु गिरिधर नागर हरख हरख जस गायो।",
@@ -339,7 +407,7 @@
         "number": 18,
         "title": "Bhajore Bhayya Rama Govinda Hari",
         "firstLine": "Bhajore bhayya Rama Govinda Hari.",
-        "category": "general",
+        "category": "rama",
         "lyrics": {
             "en": "Bhajore bhayya Rama Govinda Hari. Japa tapa sadhana kachhu nahi lagata Kharachata nahi gathari.\n\nSantata sampata sukha ke karana Jase bhula pari.\n\nKahata Kabira ja mukha Rama na O mukha dhula bhari.",
             "hi": "भजो रे भैया राम गोविंद हरि। जप तप साधन कछु नहीं लागत खरचत नहीं गठरी।\n\nसंतत संपत सुख के कारण जासे भूला परि।\n\nकहत कबीर जा मुख राम न ओ मुख धूल भरी।",
@@ -356,7 +424,7 @@
         "number": 19,
         "title": "Raghuvara Tumako Meri Laj",
         "firstLine": "Raghuvara tumako meri laj.",
-        "category": "general",
+        "category": "rama",
         "lyrics": {
             "en": "Raghuvara tumako meri laj. Sada sada mai sharana tiharo, tuma hi garibanivaja.\n\n1. Patita udharana virada tiharo, shravanana shuni avaja.\n\n2. Hao to patita puratana kahiye, para utar jahaja.\n\n3. Aghakhandana duhkha bhanjana janake\nYahi tiharo kaja.\n\n4. Tulasidasa par kripa kariye, bhaktidana dehu aja.",
             "hi": "रघुवर तुमको मेरी लाज। सदा सदा मैं शरण तिहारो, तुम ही गरीबनिवाज।\n\n1. पतित उद्धारण विरद तिहारो, श्रवणन शुनि आवाज।\n\n2. हौं तो पतित पुरातन कहिए, पार उतार जहाज।\n\n3. अघखंडन दुःख भंजन जनके\nयहि तिहारो काज।\n\n4. तुलसीदास पर कृपा करिए, भक्तिदान देहु आज।",
@@ -373,7 +441,7 @@
         "number": 20,
         "title": "Prema Mudita Manase Kaho Rama Rama",
         "firstLine": "Prema mudita manase kaho Rama Rama Ram Sri Rama Rama Ram Sri Rama Rama Ram",
-        "category": "general",
+        "category": "rama",
         "lyrics": {
             "en": "Prema mudita manase kaho Rama Rama Ram Sri Rama Rama Ram Sri Rama Rama Ram\n\n1. Papa kate dukha mite leke Rama nam Bhavasamudra sukhada nava eka Rama nam\n\n2. Parama bhakti sukha nidana nitya Rama nam Niradharako adhara eka Rama nam\n\n3. Santa hridaya sada basata eka Rama nam Paramagupta parama ishta mantra Rama nam\n\n4. Mahadeva satata japata divya Rama nam Kala shamata bhita satata kahata Rama nam\n\n5. Mata pita bandhu sakha sabahi Rama nam Bhakata janana jivana dhana eka Rama nam",
             "hi": "प्रेम मुदित मनसे कहो राम राम राम श्री राम राम राम श्री राम राम राम\n\n1. पाप कटे दुख मिटे लेके राम नाम भवसमुद्र सुखद नाव एक राम नाम\n\n2. परम भक्ति सुख निधान नित्य राम नाम निराधार को आधार एक राम नाम\n\n3. संत हृदय सदा बसत एक राम नाम परमगुप्त परम इष्ट मंत्र राम नाम\n\n4. महादेव सतत जपत दिव्य राम नाम काल शमित भीत सतत कहत राम नाम\n\n5. माता पिता बंधु सखा सबहि राम नाम भक्त जनन जीवन धन एक राम नाम",
@@ -390,7 +458,7 @@
         "number": 21,
         "title": "Govardhana Giridhara Govinda",
         "firstLine": "Govardhana giridhara govinda Gokula palaka paramananda",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "Govardhana giridhara govinda Gokula palaka paramananda Srivatsankita Srikaustubha dhara Bhavaka bhayahara pahi mukunda Anandamrta varidhi khela\n\nAlagu parakrama anupamasila Srinandatmaja sritajana pala Srlkara kisalaya lalanalola\n\nPatita suraripu padapa vrnda Pavana carita paramrta kanda\n\nNatya rasotkata nanabharana Narayana Tirtha vandita carana",
             "hi": "गोवर्धन गिरिधर गोविंद गोकुल पालक परमानंद श्रीवत्सांकित श्रीकौस्तुभ धर भावक भयहर पाहि मुकुंद आनंदामृत वारिधि खेल\n\nअलघु पराक्रम अनुपमशील श्रीनंदात्मज श्रितजन पाल श्रीकर किसलय लालनलोल\n\nपतित सुररिपु पादप वृंद पावन चरित परमृत कंद\n\nनाट्य रसोत्कट नानाभरण नारायण तीर्थ वंदित चरण",
@@ -407,7 +475,7 @@
         "number": 22,
         "title": "Chalo Mana Gariga Yamuna Tira",
         "firstLine": "Chalo mana Gariga Yamuna tira Ganga Yamuna nirmala pani, Sitala hota sarira.",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "Chalo mana Gariga Yamuna tira Ganga Yamuna nirmala pani, Sitala hota sarira.\n\nBarisi bajavata gavata kanha, Sariga liya Balabira.\n\nMora mukuta pitambara sohe, Kundala jhalakata hira\n\nMira ke prabhu Giridhara Nagara, Carana - kamala para sir.",
             "hi": "चलो मन गरिगा यमुना तीर गंगा यमुना निर्मल पानी, शीतल होत शरीर।\n\nबरिसि बजावत गावत कान्हा, संग लिया बलबीर।\n\nमोर मुकुट पीतांबर सोहे, कुंडल झलकत हीरा\n\nमीरा के प्रभु गिरिधर नागर, चरण-कमल पर सिर।",
@@ -424,7 +492,7 @@
         "number": 23,
         "title": "Shyama Nama Sankirtanam",
         "firstLine": "Vande vamsidharam Krishnam smayamana mukhambujam.",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "Vande vamsidharam Krishnam smayamana mukhambujam.\nPitambaradharam nilam malya-chandana-bhushitam. Radha-chitta-chakorendum saudarya sumahodadhim Paratparataram devam brahmananda-kripanidhim.\n\nOm Sri Naradoddhavadi-parshada-gopa-gopigana-Sri Radha sameta Sri Krishna paramatmane namah.\n\nSatya sanatana sundara Shyam Nityananda ghanesvara\n\nLakshmi-sevita padayuga Sura muni varagana yachita Bhu bharoddhara narthita Lokabandhu guru vachaka Dharma sthapana silana Svikrita naratanu suravara\n\nMayadhisvara chinmaya Yadavakula sambhushana Nanda Yashoda palita Srivatsankita balaka Marita maya putana Sakatasura khala bhanjana\n\nDamodaraguna mandira Shyam Yamalarjuna taru bhanjana Gopi janagana mohana Aganita guna ganabhushita Agha baka rakshasa ghataka Kaliya sarpa vimardana\n\nJaya Vrindavana charavara Gocharana rata godhara Barha susobhita chudaka Gala lambita vana malaka Agraja bala bhadranvita Gopavadhu hridaya sthita\n\nSarvatmaka sarvesvara Dhenuka khara vadha karaka Surendra pujana varaka Parvata pujana karaka\n\nSuragana prarthita sangada Nirupama kridana toshana\n\nPadaradhaka vidhi hara Gopi bhavita priyakara Nandita nanda sunandana Vaikunthesa narakriti Kalinditata charana Mohana murali vadana\n\nRasa mahotsava khelana Shyam Anandamrita varshana Bahu vidha sarira dharana Nana lila kautuka Dhvaja vajrankita mridupada Samasta loka radhaka\n\nVrishabharistha nipidaka Vidhigata darpa vinasaka Ruchira svarupa janardana Nila kalebara chidghana Sadhaka mati samsodhana Lila natana manohara\n\nGopi jana gana pujita Radha veni sobhaka Akrurarthita sleshada Krita ratha yana rohana Vrajanari kula varita Sakhigana dahada virahaka\n\nMathura purajana mohaka Sanakadika munichintita Matta rajaka gala ghataka Subha pitambara dharaka Mala kara supujita Brahma purna paramatpara\n\nKubja lepana nandita Shyam Vakrakrit riju karaka Ghatita gajamada lepana Kesika Kamsa nishudana Padma gadadhara kirtita Ugrasena vara rajyada\n\nRamakrishna Hari Giridhara Madhava Keshava Narahari Mrita Guru sunu sujivaka Bhimaka bala kamita Dwaravati samsthapaka Rukminyartha suharaka\n\nNarakasura vadha karaka Aditi samarpita kundala Svadharma tatpara mokshada Sishupala suvighataka Banasura bhuja bhedana Danava vara madhusudana\n\nChakra pratapa sudarshaka Paundraka darpa vimardaka Dagdha kama janidayaka Indra vidhisa susevita Sakha bhaktarjuna sarathi Pandava kula sanmanita\n\nGitamrita samdohaka Shyam Bhishma pratijna palaka Vishva rupa samdarsaka Atyantika sukha sadhaka Bhakta kriparnava bhargada\n\nSaranagata jana taraka\n\nBhakta kama sampuraka Mangalakara gati dayaka Aisvaryadika shadguna Visvasraya jana palaka Sarva charachara dharana Purna charachara khelana\n\nDwaravati pura plavana Kuru yadukula samharaka Badari samprahi toddhava Prabhasa gamana modita Yoga sthita Yadu nandana Suragana vandita modana\n\nDevakyatmaja daivata Mohana natana nandana Suchita nara tanu tyaga Jara lubhdhaka sara vedhita Satya sanatana sundara Nityananda ghanesvara",
             "hi": "वन्दे वंशीधरं कृष्णं स्मयमान मुखाम्बुजम्।\nपीताम्बरधरं नीलं माल्य-चन्दन-भूषितम्। राधा-चित्त-चकोरेन्दुं सौन्दर्य सुमहोदधिम् परात्परतरं देवं ब्रह्मानन्द-कृपानिधिम्।\n\nॐ श्री नारदोद्धवादि-पार्षद-गोप-गोपिगण-श्री राधा समेत श्री कृष्ण परमात्मने नमः।\n\nसत्य सनातन सुन्दर श्याम नित्यानन्द घनेश्वर\n\nलक्ष्मी-सेवित पदयुग सुर मुनि वरगण याचित भू भारोद्धार नार्थित लोकबन्धु गुरु वाचक धर्म स्थापना शीलन स्वीकृत नरतनु सुरवर\n\nमायाधीश्वर चिन्मय यादवकुल संभूषण नन्द यशोदा पालित श्रीवत्सांकित बालक मारित माया पूतना शकटासुर खल भंजन\n\nदामोदरगुण मन्दिर श्याम यमलार्जुन तरु भंजन गोपी जनगण मोहन अगणित गुण गणभूषित अघ बक राक्षस घातक कालिय सर्प विमर्दन\n\nजय वृन्दावन चारवर गोचरण रत गोधर बर्ह सुसोभित चूडक गल लम्बित वनमालक अग्रज बल भद्रान्वित गोपवधु हृदय स्थित\n\nसर्वात्मक सर्वेश्वर धेनुक खर वध कारक सुरेन्द्र पूजन वारक पर्वत पूजन कारक\n\nसुरगण प्रार्थित संगद निरुपम क्रीड़न तोषण\n\nपदाराधक विधि हर गोपी भावित प्रियकर नन्दित नन्द सुनन्दन वैकुण्ठेश नराकृति कालिन्दी तट चरण मोहन मुरली वदन\n\nरास महोत्सव खेलन श्याम आनन्दामृत वर्षण बहु विध शरीर धारण नाना लीला कौतुक ध्वज वज्रांकित मृदुपद समस्त लोक राधक\n\nवृषभारिष्ट निपीडक विधिगत दर्प विनाशक रुचिर स्वरूप जनार्दन नील कलेबर चिद्घन साधक मति संशोधन लीला नटन मनोहर\n\nगोपी जन गण पूजित राधा वेणी शोभक अक्रूरार्थित श्लेषद कृत रथ यान रोहन व्रजनारी कुल वारित सखिगण दहद विरहक\n\nमथुरा पुरजन मोहक सनकादिक मुनि चिन्तित मत्त रजक गल घातक शुभ पीताम्बर धारक माला कर सुपूजित ब्रह्म पूर्ण परमत्पर\n\nकुब्जा लेपन नन्दित श्याम वक्रकृत ऋजु कारक घटित गजमद लेपन केशिक कंस निषूदन पद्म गदाधर कीर्तित उग्रसेन वर राज्यद\n\nरामकृष्ण हरि गिरिधर माधव केशव नरहरि मृत गुरु सुनु सुजीवक भीमक बल कामित द्वारवती संस्थापक रुक्मिण्यार्थ सुहारक\n\nनरकासुर वध कारक अदिति समर्पित कुण्डल स्वधर्म तत्पर मोक्षद शिशुपाल सुविघातक बाणासुर भुज भेदन दानव वर मधुसूदन\n\nचक्र प्रताप सुदर्शक पौण्ड्रक दर्प विमर्दक दग्ध काम जनिदायक इन्द्र विधिश सुसेवित सखा भक्तार्जुन सारथि पाण्डव कुल सम्मानित\n\nगीतमृत संदोहम् श्याम भीष्म प्रतिज्ञा पालक विश्व रूप संदर्शक अत्यन्तिक सुख साधक भक्त कृपार्णव भार्गद\n\nशरणागत जन तारक\n\nभक्त काम सम्पूरक मंगलकार गति दायक ऐश्वर्यादिक षड्गुण विश्वाश्रय जन पालक सर्व चराचर धारण पूर्ण चराचर खेलन\n\nद्वारवती पुर प्लवन कुरु यदुकुल संहारक बदरी संप्रहि तोद्धव प्रभास गमन मोदित योग स्थित यदु नन्दन सुरगण वन्दित मोदन\n\nदेवक्यात्मज दैवत मोहन नटन नन्दन सूचित नर तनु त्याग जर लुब्धक शर वेधित सत्य सनातन सुन्दर नित्यानन्द घनेश्वर",
@@ -441,7 +509,7 @@
         "number": 24,
         "title": "Trigunatita Radhamadhava",
         "firstLine": "Trigunatita gunesvara Radhamadhava Radha Shyam",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "Trigunatita gunesvara Radhamadhava Radha Shyam\nSrististhitilayakarana Radhamadhava Radha Shyam\nGovindachyuta yadava Radhamadhava Radha Shyam\nNarayana hari kesava Radhamadhava Radha Shyam\nMukunda murahara vamana Radhamadhava Radha Shyam\nJaya jaya gopi vallabha Radhamadhava Radha Shyam\nAnupama sundara mohana Radhamadhava Radha Shyam\nAkhila rasamrita sagara Radhamadhava Radha Shyam",
             "hi": "त्रिगुणातित गुणेश्वर राधामाधव राधा श्याम\nसृष्टिस्थितिलय कारण राधामाधव राधा श्याम\nगोविंदअच्युत यादव राधामाधव राधा श्याम\nनारायण हरी केशव राधामाधव राधा श्याम\nमुकुंद मुराहर वामन राधामाधव राधा श्याम\nजय जय गोपीवल्लभ राधामाधव राधा श्याम\nअनुपम सुन्दर मोहना राधामाधव राधा श्याम\nअखिल रसामृत सागर राधामाधव राधा श्याम",
@@ -458,7 +526,7 @@
         "number": 25,
         "title": "Gayati Vanamali Madhuram",
         "firstLine": "Gayati vanamali madhuram.",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "Gayati vanamali madhuram.\nPushpa sugandhi sumalaya samire Munijana darshita yamuna tire.\nKujita shuka pika mukha khaga kunje kutilalaka bahu nirada punje.\nTulasidama vibhushana hari Jalaja bhavastuta sadguna shauri.\nParamahamsa hridayotsavakari Paripurita muraliravakari.",
             "hi": "गायति वनमालि मधुरम्।\nपुष्प सुगंधि सुमलय समिरे मुनिजन दर्शित यमुना तिरे।\nकुजित शुक पिक मुख काग कुंजे कुटिलालक बहु निरदा पुंजे।\nतुलसीदाम विभूषण हरि जलज भवस्तुता सद्गुण शौरी।\nपरमहंस हृदयोत्सवकारी परिपूरित मुरलीरवकारी।",
@@ -475,7 +543,10 @@
         "number": 26,
         "title": "Atmarama Avanija Ramana",
         "firstLine": "Atmarama avanija ramana",
-        "category": "general",
+        "category": [
+            "rama",
+            "namavali"
+        ],
         "lyrics": {
             "en": "Atmarama avanija ramana\nVeda vibhushana varada vibhishana Bhavabhaya saman bhadradribhavana Raghukula bhushana rajivalochana Anujaprana saranatrana Sacchidananda Sri ramanarayana.",
             "hi": "आत्माराम अवनिज रमण\nवेद विभूषण वरद विभीषण भवभय समन भद्रद्रिभवन रघुकुल भूषण राजिवलोचन अनुजप्राण शरणत्राण सच्चिदानंद श्री रमनारायण।",
@@ -492,7 +563,11 @@
         "number": 27,
         "title": "Dinoddharana Rama Hare",
         "firstLine": "Dinoddharana rama hare",
-        "category": "general",
+        "category": [
+            "rama",
+            "krishna",
+            "namavali"
+        ],
         "lyrics": {
             "en": "Dinoddharana rama hare Dinadayalo krishna hare Raghukula tilaka rama hare Yadukulanandana krishna hare.",
             "hi": "दिनोद्धारन राम हरे दिनदयालो कृष्ण हरे रघुकुल तिलक राम हरे यदुकुलनंदन कृष्ण हरे।",
@@ -509,7 +584,11 @@
         "number": 28,
         "title": "Sakala Bhuvana Hai Ramamaya",
         "firstLine": "Sakala bhuvana hai ramamaya Raghuvara mere pranapriya",
-        "category": "general",
+        "category": [
+            "rama",
+            "krishna",
+            "namavali"
+        ],
         "lyrics": {
             "en": "Sakala bhuvana hai ramamaya Raghuvara mere pranapriya Sakalabhuvana hai shyamamaya Giridhara mere pranapriya.",
             "hi": "सकल भुवन है राममय रघुवर मेरे प्राणप्रिय सकलभुवन है श्याममय गिरिधर मेरे प्राणप्रिय।",
@@ -526,7 +605,10 @@
         "number": 29,
         "title": "Yamuna Tiravihari",
         "firstLine": "Yamuna tiravihari",
-        "category": "general",
+        "category": [
+            "krishna",
+            "namavali"
+        ],
         "lyrics": {
             "en": "Yamuna tiravihari\nBrindavana samchari\nGovardhanoddhari Gopala krishna murari.",
             "hi": "यमुना तीरविहारी\nवृन्दावन संचारी\nगोवर्धनोद्धारी गोपाल कृष्ण मुरारी।",
@@ -543,7 +625,10 @@
         "number": 30,
         "title": "Hare Murare Madhukaitabhare",
         "firstLine": "Hare murare madhukaitabhare",
-        "category": "general",
+        "category": [
+            "krishna",
+            "namavali"
+        ],
         "lyrics": {
             "en": "Hare murare madhukaitabhare Gopala govinda mukunda saure Hymn",
             "hi": "हरे मुुरारे मधुकैतभरे गोपाल गोविंद मुकुंद सौर हाइम्न",
@@ -560,7 +645,10 @@
         "number": 31,
         "title": "Jaya Govinda Jaya Gopala",
         "firstLine": "Jaya govinda jaya gopala",
-        "category": "general",
+        "category": [
+            "krishna",
+            "namavali"
+        ],
         "lyrics": {
             "en": "Jaya govinda jaya gopala Kesava madhava dinadayala Dinadayala prabhu Dinadayala Dinadayala prabhu Dinadayala.",
             "hi": "जय गोविंदा जय गोपाला केशव माधव दिनदयाल दिनदयाल प्रभु दिनदयाल दिनदयाल प्रभु दिनदयाल।",
@@ -577,7 +665,10 @@
         "number": 32,
         "title": "Hey Jagatraataa Viswa Vidhaataa",
         "firstLine": "hey jagatraataa viswa vidhaataa hey sukha shaanti niketana hey",
-        "category": "general",
+        "category": [
+            "others",
+            "namavali"
+        ],
         "lyrics": {
             "en": "hey jagatraataa viswa vidhaataa hey sukha shaanti niketana hey\n\n1. prema ke sindho dina ke bandho dukha daridra vinashana hey\n\n2. nitya akhanda ananta anaadi purana brahma sanaatan hey\n\n3. jaga aashray jagapati jagavandana anupama alakha niranjana hey\n\n4. prana sakha tribhuvan pratipalaka jeevan ke avalambana hey",
             "hi": "हे जगत्राता विश्व विधाता हे सुख शांति निकेतन हे\n\n1. प्रेम के सिंधो दीन के बंधो दुख दरिद्र विनाशन हे\n\n2. नित्य अखंड अनंत अनादि पुराण ब्रह्म सनातन हे\n\n3. जग आश्रय जगपति जगवंदन अनुपम अलख निरंजन हे\n\n4. प्राण सखा त्रिभुवन प्रतिपालक जीवन के अवलंबन हे",
@@ -594,7 +685,7 @@
         "number": 33,
         "title": "Deva Deva Krishna Dinabandhu",
         "firstLine": "Deva deva deva krishna dinabandhu pahimam",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "1. Deva deva deva krishna dinabandhu pahimam Nilamegha shyama krishna nitya mukta rakshamam Putana samhara krishna bhuvananatha pahimam Pundarika nayana krishna punuarupa rakshamam\n\nVenuganalola krishna vimalanatha pahimam Vishwarupa vasudeva vira rama rakshamam\n\nNandanandana mukundanatha radha krishna pahimam Induvadana mandahasa isa krishna rakshamam.",
             "hi": "1. देव देव देव कृष्ण दिनबंधु पाहिमम् नीलमेघ श्याम कृष्ण नित्य मुक्त रक्षमम् पुत्रणा संहार कृष्ण भुवननाथ पाहिमम् पुण्डरीक नयन कृष्ण पुनारूप रक्षमम्\n\nवेंगुनालोल कृष्ण विमलनाथ पाहिमम् विश्वरूप वासुदेव वीर राम रक्षमम्\n\nनंदनंदन मुकुंदनाथ राधा कृष्ण पाहिमम् इन्दुवदन मन्दहास ईसा कृष्ण रक्षमम्।",
@@ -611,7 +702,7 @@
         "number": 34,
         "title": "Sundaralala Nandadulala",
         "firstLine": "Sundaralala nandadulala",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "1. Sundaralala nandadulala\n\n2. Nacata Shribrundavaname Bhale-chandana tilaka manohara,\nAlaka shobhe kapolaname!!sundara!!\n\n2. Shire chuda nayanabishala,\n\n3. Kundamala hiya para dole, Pahirana pita patambara bole, Runu jhuna nupura carananame!sundara!\n\n3. Koyi gavata pamcamatan,\n\n4. Bamshipukare radha nam, Mangalatala mridamga rasala, Bajavata koyi rangana me!!sundara!!\n\n4. Radha krishna ekatanu hoye,\n\n5. Nidhuvaname jo ranga macaye, Vishwarupa jo bhagavana sohi,\nLila karata vrundavana me!!sundara!!",
             "hi": "1. सुन्दर लाल नन्द दुलाला\n\n2. नाचत श्रीवृन्दावन में भाल चन्दन तिलक मनोहर,\nअलक शोभे कपोलों में!!सुन्दर!!\n\n2. शिर चूड़ा नयन विशाल,\n\n3. कुंदमाला हिया पर डोले, पहिरन पीत पटाम्बर बोले, रुनु झुनु नूपुर चरणों में!सुन्दर!\n\n3. कोई गावता पंचमतान,\n\n4. बंशी पुकारे राधा नाम, मंगल ताल मृदंग रसाल, बजावत कोई रंगन में!!सुन्दर!!\n\n4. राधा कृष्ण एकतनु होये,\n\n5. निधुवन में जो रंग मचाये, विश्वरूप जो भगवान सोहि,\nलीला करत वृन्दावन में!!सुन्दर!!",
@@ -628,7 +719,7 @@
         "number": 35,
         "title": "Govinda Gopala He Nandalala",
         "firstLine": "Govinda gopala he nandalala Radhe gopala gopi gopala!",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "Govinda gopala he nandalala Radhe gopala gopi gopala!\n\n1 Mirake natha prabhu murali gopala, Govardha-noddhara gopalabala.\n\n2 Nanda yashodaki dulal venu-gopala, Kaliya-mardana Sri vraja bala.",
             "hi": "गोविन्द गोपाला हे नन्दलाला राधे गोपाला गोपी गोपाला!\n\n1 मीराके नाथ प्रभु मुरली गोपाला, गोवर्धन-उद्धार गोपालबाला।\n\n2 नन्द यशोदा की दुलाल वेणु-गोपाल, कालिय-मर्दन श्री व्रज बाला।",
@@ -645,7 +736,7 @@
         "number": 36,
         "title": "Bita Gaye Dina Bhajana Bina Re",
         "firstLine": "Bita gaye dina bhajana bina re.",
-        "category": "general",
+        "category": "others",
         "lyrics": {
             "en": "Bita gaye dina bhajana bina re. Bala avastha khela gavayo,\nJaba jaubana taba mana dhana re.\n\nLahe karana mula gavayo, Ajahu na gayi mana ki trishna re.\n\nKahata Kabira suno bhai sadho, Para utara gaye santa jana re.",
             "hi": "बीता गये दिन भजन बिना रे. बाला अवस्था खेला गवायो,\nजब जौबन तब मन धन रे.\n\nलाहे कारण मूल गवायो, अजहु न गई मन की तृष्णा रे.\n\nकहत कबीर सुनो भाई साधो, पार उतरा गये संत जना रे.",
@@ -662,7 +753,7 @@
         "number": 37,
         "title": "Janma Janma Ko Mai Dasa Tumharo",
         "firstLine": "Janma janma ko mai dasa tumharo Karuna kar aba para murare.",
-        "category": "general",
+        "category": "others",
         "lyrics": {
             "en": "Janma janma ko mai dasa tumharo Karuna kar aba para murare.\n\n1 Bhavasagara jala tarana kathina hai Kisa vidha jau para Murare.\n\n2 Tuma bina aur na palaka mero Vanchka saba parivara Murare.\n\n3 Mai gunahina dosha paripurana Apani or nihar Murare.\n\n4 Brahmananda vilamba na kije Suniye meri pukara Murare.",
             "hi": "जन्म जन्म को मैं दास तुम्हारो करुणा कर अब पार मुरारे।\n\n1 भवसागर जल तरण कठिन है किस विध जाऊँ पार मुरारे।\n\n2 तुम बिना और न पालक मेरो वंचक सब परिवार मुरारे।\n\n3 मैं गुणहीन दोष परिपूर्ण अपनी ओर निहार मुरारे।\n\n4 ब्रह्मानंद विलंब न कीजे सुनिये मेरी पुकार मुरारे।",
@@ -679,7 +770,7 @@
         "number": 38,
         "title": "Bhaja Govindam",
         "firstLine": "Bhaja Govindam, bhaja Govindam, Govindam bhaja mudhamate",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "Bhaja Govindam, bhaja Govindam, Govindam bhaja mudhamate\n\nSamprapte sannihite kale,\nNahi nahi rakshati dukrinkarane.\n\nDinayaminyau sayam pratah Shishiravasantau punarayatah Kalah kridati gachhatyayus Tadapi na munchatyashavayuh.\n\nPunarapi jananam punarapi maranam Punarapi janani jathare shayanam Iha samsare bahu dustare\nKripaya pare pahi Murare.\n\nShatrau mitre putre bandhau\nMa kuru yatnam vigrahasandhau Bhava samachittah sarvatra tvam Vanchhsyachira yadi Vishnutvam.\n\nGeyam Gita Namasahasram Dhyeyam Shripati rupamajasram Neyam sajjana sange chittam Deyam dinajanaya cha vittam.\n\nGuru charanambuja nirbhara bhaktah Samsarad achirad bhava muktah Shendriya manasa niyamadevam Drakshyasi nija hridayastham devam.",
             "hi": "भज गोविन्दम्, भज गोविन्दम्, गोविन्दम् भज मूढमते\n\nसम्प्राप्ते सन्निहिते काले,\nनहि नहि रक्षति डुक्रिङ्करणे।\n\nदिनयामिन्यौ सायं प्रातः शिशिरवसन्तौ पुनरायतः कालः क्रीडति गच्छत्यायुः तदपि न मुञ्चत्याशावायुः।\n\nपुनरपि जननं पुनरपि मरणं पुनरपि जननी जठरे शयनम् इह संसारे बहु दुस्तारे\nकृपया पारे पाहि मुरारे।\n\nशत्रौ मित्रे पुत्रे बन्धौ\nमा कुरु यत्नं विग्रहसन्धौ भव समचित्तः सर्वत्र त्वं वाञ्छस्यचिर यदि विष्णुत्वम्।\n\nगेयं गीता नामसहस्रं ध्येयं श्रीपति रूपमजस्रम् नेयं सज्जनसंगे चित्तं देयं दीनजनाय च वित्तम्।\n\nगुरु चरणाम्बुज निर्भर भक्तः संसारादचिराद्भव मुक्तः शेंद्रिय मानस नियमादेवं द्रक्ष्यसि निज हृदयस्थं देवम्।",
@@ -692,11 +783,11 @@
     },
     {
         "id": 39,
-        "slug": "kesava-dhrita-dasavidha-rupa",
+        "slug": "Dashavatara-Stotram",
         "number": 39,
-        "title": "Kesava Dhrita Dasavidha Rupa",
+        "title": "Dashavatara-Stotram",
         "firstLine": "pralaya-payodhi-jale dhrita vanasi vedam vihita-vahitra-cahritra makhedam",
-        "category": "general",
+        "category": "krishna",
         "lyrics": {
             "en": "1. pralaya-payodhi-jale dhrita vanasi vedam vihita-vahitra-cahritra makhedam\nkesava dhrita-mina-sarira jaya jagadisa hare\n\n2. kshitirati vipulatare tishthati tava prishthe dharani-dharana-kina-cakra-garishthe\nkesava dhrita-kurma-sarira jaya jagadisa hare\n\n3. vasati dasana-sikhare dharani tava lagna sasini kalanka-kaleva nimagna\nkesava dhrita-sukara-rupa jaya jagadisa hare\n\n4. Tava kara kamala vare nakha madbhuta-sringam Dalita hiranya kasipu tanu bhringam\nKesava dhrita nara hari rupa Jaya jagadisa hare\n\n5. Chalayasi vikramane bali madbhuta vamana Pada nakha niraja nita jana pavana\nKesava dhrita vamana rupa Jaya jagadisa hare\n\n6. Kshatriya rudhira maye jaga dapa gata papam Snapayasi payasi shamita bhava tapam\nKesava dhrita bhrigu pati rupa Jaya jagadisa hare\n\n7. Vitarasi dikshu rane dikpati kamaniyam Dasa mukha mauli balim ramaniyam\nKesava dhrita raghupati rupa Jaya jagadisa hare\n\n8. Vahasi vapushi visa de vasanam jaladabham Halahati bhiti milita yamunabham\nKesava dhrita haladhara rupa Jaya jagadisa hare\n\n9 Nindasi yajna vidhe rahaha sruti jatam Sadaya hridaya darsita pasu ghatam\nKesava dhrita buddha sarira Jaya jagadisa hare\n\n10. Mlechha nivaha nidhane kalayasi karavalam Dhuma ketu miva kimapi karalam\nKesava dhrita kalki sarira Jaya jagadisa hare\n\n11. Sri jaya deva kaverida mudita mudaram Srunu sukhadam subhadam bhava saram Kesava dhrita dasavidha rupa Jaya jagadisa hare",
             "hi": "1. प्रलय-पयोधि-जले धृत वनसि वेदं विहित-वहित्र-चरित्रमखेदम्\nकेशव धृत मीन-शरीर जय जगदीश हरे\n\n2. क्षितिरति विपुलतरे तिष्ठति तव पृष्ठे धरनि-धरण-किण-चक्र-गरिष्ठे\nकेशव धृत कूर्म-शरीर जय जगदीश हरे\n\n3. वसति दशन-शिखरे धरनि तव लग्ना शशिनि कलंक-कलेव निमग्ना\nकेशव धृत सूकर-रूप जय जगदीश हरे\n\n4. तव कर कमल वरे नख मद्भुत-शृंगं दलित हिरण्य कशिपु तनु भृंगम्\nकेशव धृत नरहरि रूप जय जगदीश हरे\n\n5. चलयसि विक्रमणे बलि मद्भुत वामन पद नख नीरजनित जन पावन\nकेशव धृत वामन रूप जय जगदीश हरे\n\n6. क्षत्रिय रुधिर मये जगदपगत पापं स्नपयसि पयसि शमित भव तापम्\nकेशव धृत भृगुपति रूप जय जगदीश हरे\n\n7. वितरसि दिक्षु रणे दिक्पति कमनीयम् दशमुख मौलि बलिं रमणीयम्\nकेशव धृत रघुपति रूप जय जगदीश हरे\n\n8. वहसि वपुषि विशदे वसनं जलदाभं हलहति भीति मिलित यमुनाभम्\nकेशव धृत हलधर रूप जय जगदीश हरे\n\n9 निन्दसि यज्ञ विधे रहह श्रुति जातं सदय हृदय दर्शित पशुघातम्\nकेशव धृत बुद्ध शरीर जय जगदीश हरे\n\n10. म्लेच्छ निवह निधनें कलयसि करवालं धूमकेतु इव किमपि करालम्\nकेशव धृत कल्कि शरीर जय जगदीश हरे\n\n11. श्री जयदेव कवेरिद मुदित मुदारं शृणु सुखदं शुभदं भव सारम् केशव धृत दशविध रूप जय जगदीश हरे",
@@ -713,7 +804,7 @@
         "number": 40,
         "title": "Jaya Vireshvara Viveka Bhaskara",
         "firstLine": "Jaya Vireshvara viveka bhaskara Jaya jaya Sri Vivekananda.",
-        "category": "general",
+        "category": "vivekananda",
         "lyrics": {
             "en": "Jaya Vireshvara viveka bhaskara Jaya jaya Sri Vivekananda.\n\nIndu nibhanana sundara lochana Vishva manava chira vandya.\n\nPrema talatala kanti suvimala Adhigata Veda Vedanta, Tyaga titiksha tapasya ujjvala Chitta nirmala shanta.\n\nKarma bhakti jnana trishula dharana Chedana jiva moha bandha\nBrahma parayana namo Narayana Dehi dehi charanara vinda.",
             "hi": "जय वीरेश्वर विवेक भास्कर जय जय श्री विवेकानन्द।\n\nइन्दु निभानन सुन्दर लोचन विश्व मानव चिर वन्द्य।\n\nप्रेम तलतल कान्ति सुविमल अधिगत वेद वेदान्त, त्याग तितिक्षा तपस्या उज्ज्वल चित्त निर्मल शान्त।\n\nकर्म भक्ति ज्ञान त्रिशूल धारण छेदन जीव मोह बन्ध\nब्रह्म परायण नमो नारायण देहि देहि चरणारविन्द।",
@@ -730,7 +821,7 @@
         "number": 41,
         "title": "Khelati Brahmande Bhagavan",
         "firstLine": "khelati brahmamde bhagavan!",
-        "category": "general",
+        "category": "others",
         "lyrics": {
             "en": "khelati brahmamde bhagavan!\n\n1. hamsasso’ham hamsasso’ham hamsasso’ham so’hamiti! !! khelati!\n\n2. paramatma’ham paripurno’ham brahmaivaha maham brahmeti! !! khelati!\n\n3. tvak cakshu sruti jihvaghrane pamcavidha pranopasthane !! khelati!\n\n4. sabdasparsa rasadika matre\nsatvika rajasa tamasa misre !! khelati!\n\n5. buddhi manascittahamkare bhujala tejogagana samire !! khelati!\n\n6. paramahamsa rupena viharta! brahma vishnu rudradika karta !!khelati!",
             "hi": "खेलति ब्रह्माण्डे भगवान!\n\n1. हंससोऽहम् हंससोऽहम् हंससोऽहम् सोऽहमिति! !! खेलति!\n\n2. परमात्माहम् परिपूर्णोऽहम् ब्रह्मैवाह महं ब्रह्मेति! !! खेलति!\n\n3. त्वक् चक्षु श्रुति जिह्वा घ्राणे पंचविध प्राणोपस्थाने !! खेलति!\n\n4. शब्दस्पर्श रसादिक मात्रे\nसात्त्विक राजस तामस मिश्रे !! खेलति!\n\n5. बुद्धि मनश्चित्त अहंकारे भूजल तेजो गगन समीरे !! खेलति!\n\n6. परमहंस रूपेन विहर्ता! ब्रह्म विष्णु रुद्रादिक कर्ता !! खेलति!",
@@ -747,7 +838,7 @@
         "number": 42,
         "title": "Ke Tumi Bajale Navina Ragete",
         "firstLine": "Ke tumi bajale navina ragete bharater pran vina,",
-        "category": "general",
+        "category": "vivekananda",
         "lyrics": {
             "en": "1 Ke tumi bajale navina ragete bharater pran vina,\nMathura jhankare mugdha jagata Chakite gahe vandana!!\n\n2 Lalita chande gabhira mandre Posilo she tan randhre randhre, Jagilo supta lupta gaurava Bharata varsha dina!!\n\n3 Himadri shikhare jalanidhi tire Prachye pratichye dig digantare, Vedanta mahima kevala prachare Varnite nari simaa!!\n\n4 Gurupade man prana samarpan Maha yogi vesh korile dharan, Jnana bhakti yoga Jiva sevavrata Korile uddipana!!",
             "hi": "1 के तुमि बाजाले नवीन रागेते भारतर प्राण वीणा,\nमथुर झंकारे मुग्ध जगत चकिते गाहे वन्दना!!\n\n2 ललित छन्दे गभीर मन्द्रे पोसिलो शे तान रन्ध्रे रन्ध्रे, जागिलो सुप्त लुप्त गौरव भारत वर्ष दीना!!\n\n3 हिमाद्रि शिखरे जलनिधि तीरे प्राच्ये प्रतीच्ये दिग दिगन्तरे, वेदान्त महिमा केवल प्रचारें वर्णिते नारी सीमा!!\n\n4 गुरुपदे मन प्राण समर्पण महा योगी वेश करिले धारण, ज्ञान भक्ति योग जीव सेवाव्रत करिले उद्दीपन!!",
@@ -764,7 +855,7 @@
         "number": 43,
         "title": "Dharmabheda Bhanjana",
         "firstLine": "Dharmabheda bhanjana vandi jagata vandana.",
-        "category": "general",
+        "category": "vivekananda",
         "lyrics": {
             "en": "1 Dharmabheda bhanjana vandi jagata vandana.\nJnana bhakti vitarane nara-sharira dharana.\n\n2 Vigata geha vandhana, vijita mina-ketana\nrupe kama ganjana, vani vina nindana.\n\n3 Premamatta nartana, abhirabhih garjana bhudhara sagara langhana, jiva tarana karana.\n\n4 Kuta kapati mardana, sajjana manomohana vishvamanava vande tomay Ramakrishna nandana.",
             "hi": "1 धर्मभेद भंजन वंदि जगत वंदन।\nज्ञान भक्ति वितरणे नर-शरीर धारण।\n\n2 विगत गेह बंधन, विजित मीन-केतन\nरूपे काम गंजन, वाणी वीणा निंदन।\n\n3 प्रेममत्त नर्तन, अभिरभि गर्जन भूधर सागर लंघन, जीव तारण कारण।\n\n4 कुट कपटी मर्दन, सज्जन मनोमोहन विश्वमानव वंदे तोमाय रामकृष्ण नंदन।",
@@ -781,7 +872,7 @@
         "number": 44,
         "title": "Murta Maheshvara Mujjvala Bhaskara",
         "firstLine": "Murta Maheshvara mujjvala bhaskara Mishtamamara nara vandyam.",
-        "category": "general",
+        "category": "vivekananda",
         "lyrics": {
             "en": "1 Murta Maheshvara mujjvala bhaskara Mishtamamara nara vandyam.\nVande vedatanu mujjhita garhita Kama kanchana bandham.\n\n2 Kotibhanukara diptasimhamaho Katitata kaupinavantam,\nAbhirabhih hunkara nadita dinmukha Prachanda tandava nrityam.\n\n3 Bhukti mukti kripa kataksha prekshana\nMaghadala vidalana daksham Balachandra-dharamindu vandyamiha Naumi Guru Vivekanandam.",
             "hi": "1 मूर्त महेश्वर मुज्ज्वल भास्कर मिष्टममर नर वन्द्यम्।\nवन्दे वेदतनु मुज्ज्हित गर्हित काम काञ्चन बन्धम्।\n\n2 कोटिभानुकर दीप्तसिंहमहो कटितट कौपीनवन्तम्,\nअभिरभिह हुंकार नादित दिङ्मुख प्रचण्ड ताण्डव नृत्यम्।\n\n3 भुक्ति मुक्ति कृपा कटाक्ष प्रेक्षण\nमघदल विदलन दक्षं बालचन्द्रधरमिन्दु वन्द्यामिह नौमि गुरु विवेकानन्दम्।",
@@ -798,7 +889,7 @@
         "number": 45,
         "title": "Sri Sarada Nama Samkirtanam",
         "firstLine": "dhyayet hridambuje devim tarunaruna vigraham",
-        "category": "general",
+        "category": "sharada",
         "lyrics": {
             "en": "dhyayet hridambuje devim tarunaruna vigraham,\nvarabhayakaram shantam smitot-phulla-mukhambujam! Sthala-padma pratikasha padambhoja sushobhanam, Shuklambara-dharam dhiram lajja pata vibhushitam! prasannam dharma kamartha mokshadam vishva mamgalam, Svanatha-vama bhagastham bhaktanugraha karinim\n\n*1. tvam me brahma sanatani\n2. sharada ishvari subhage\n3. brahmananda svarupini\n4. brahma shakti sukha dayini\n5. sacchit sukhamaya rupini\n6. srishti sthiti laya karini\n7. brahma sudhambudhi kelini\n8. brahmat-maikya shubhamkari\n\n*1. jiveshvara bhitkautuki\n2. agadha lila rupini\n3. chinmaya rupa vilasini\n4. bahirantara sukha vardhini\n5. jnanananda pravarshini\n6. divya rasamrita varshini\n7. muladhara nivasini\n8. sahasrara shiva samgini\n\n*1. adye shakti svarupini\n2. chitsukha dayini tarini\n3. shubhamati dayini shankari\n4. durgati durmati nashini\n5. mahakala hridi nartini\n6. jiva shivantara vartini\n7. jagajjanani jaya dayini\n8. tadillasita saudamini\n\n*1. sita rama karini\n2. krishna radhika rupini\n3. kamaniyakriti dharini\n4. bhavasagara bhaya harini\n5. shanti saukhya chira dayini\n6. girishankopari vasini\n7. harardha nari rupini\n8. natana maheshvara samgini\n\n*1. hara harshotkari nartini\n2. sharadeshvari shodashi\n3. sadhaka manasa shodhini\n4. sarva subhagya prasadini\n5. guha gaja mukha jani dayini\n6. ekaneka vibhagini\n7. himagiri nandini lasini\n8. sarva charachara sarjini\n\n*1. sarva bhavamaya varini\n2. sarva jagatraya sakshini\n3. nikhiladhishvari yogini\n4. elagandha sukeshini\n5. chinmaya sundara rupini\n6. paramananda taramgini\n7. kshanti mahaguna varshini\n8. kantivarabhaya dayini\n\n*1. sadgati sanmati dayini\n2. bhavatarini karuneshvari\n3. tripure sundari mohini\n4. brahmamdodara dharini\n5. premananda pravarshini\n6. sarva charachara palini\n7. bhuvana chaturdasha prasavini\n8. nana lila karini\n\n*1. vividha vibhuti vidharini\n2. jnana loka pradayini\n3. vishva krida kautuki\n4. vishvadhishthita chinmayi\n5. mandasmita smara harini\n6. bhaktanugraha karini\n7. yoga bhoga varadayini\n8. shanti sudha nisyandini\n\n*1. ramya kanti chira dharini\n2. samasta suguna bhushani\n3. samadhi chira chiti dayini\n4. virya bala bhaya karini\n5. tapatraya bhaya harini\n6. sarvottumga suvasini\n7. prasanna varade bhairavi\n8. havana japarchana sadhini\n\n*1. chamdasura khala ghatini\n2. sakala deva jaya sadhini\n3. dushta mumda vadha karini\n4. chamumdeshvari darpini\n5. mahishadarpa vinashini\n6. maheshvara sukha vardhini\n7. mahishasura khala mardini\n8. triguna triloka trirupini\n\n*1. nirguna saguna vichitrini\n2. karita dhyananandini\n3. bhranti roga vishaharini\n4. kanti yoga sukha dayini\n5. vira narendra praharshini\n6. samasta lokoddharini\n7. ramakrishna nava rupini\n8. dharma glani vinashini\n\n*1. dharma sthapana karini\n2. ramya sahaja patha darshini\n3. matri bhava mukha shodhini\n4. nirmala bhaktotkarshini\n5. divyadbhuta charitarthini\n6. ramakrishna saha dharmini\n7. jayaramakhya suvatini\n8. mrigakesari vara vahini\n\n*1. durga himachala nandini\n2. narendra hridaya nivasini\n3. darpana chitta vibhasini\n4. cheto darpana kashini\n5. nava nava rupa sudarshani\n6. lokottara kriti darshini\n7. sundara rupa vikashini\n8. divya gunakara dharini\n\n*1. durbala sabala sukarini\n2. dukha dainya bhaya nashini\n3. sarva bhuta hita sadhini\n4. samasta lokabhayakari\n5. durgati nashini durge\n6. narayani jaga dadye\n7. jaya jaya jaya jaga dadye\n8. narayani jaya durge tvam me brahma sanatani sharada ishvari subhage",
             "hi": "ध्यायेत् हृदम्बुजे देवीं तरुणारुण विग्रहम्,\nवराभयकरं शान्तं स्मितोत्फुल्ल मुखाम्बुजम्। स्थल पद्म प्रतिकाश पादाम्भोज सুশोभनम्, शुक्लाम्बरधरं धीरं लज्जा पट विभूषितम्। प्रसन्नं धर्म कामार्थ मोक्षदं विश्व मंगलम्, स्वनाथ वाम भागस्थं भक्तानुग्रह कारिणीम्\n\n*1. त्वं मे ब्रह्म सनातनि\n2. शारदा ईश्वरी सुभगे\n3. ब्रह्मानन्द स्वरूपिणि\n4. ब्रह्म शक्ति सुख दायिनि\n5. सच्चित् सुखमय रूपिणि\n6. सृष्टि स्थिति लय कारिणि\n7. ब्रह्म सुधाम्बुधि केलिनि\n8. ब्रह्मात्मैक्य शुभंकरि\n\n*1. जीवेश्वर भित्त कौतुकी\n2. अगाध लीला रूपिणि\n3. चिन्मय रूप विलासिनि\n4. बहिरंतर सुख वर्धिनि\n5. ज्ञानानन्द प्रवर्षिणि\n6. दिव्य रसमृत वर्षिणि\n7. मूलाधार निवासिनि\n8. सहस्रार शिव संगिनि\n\n*1. आद्ये शक्ति स्वरूपिणि\n2. चित्सुख दायिनि तारिणि\n3. शुभमति दायिनि शंकरि\n4. दुर्गति दुर्मति नाशिनि\n5. महाकाल हृदि नर्तिनि\n6. जीव शिवांतर वर्तिनि\n7. जगज्जननि जय दायिनि\n8. तडिल्लसित सौदामिनि\n\n*1. सीता राम कारिणि\n2. कृष्ण राधिक रूपिणि\n3. कमनीयाकृति धारिणि\n4. भवसागर भय हारिणि\n5. शान्ति सौख्य चिर दायिनि\n6. गिरिशाङ्कोपरि वासिनि\n7. हरार्ध नारी रूपिणि\n8. नटन महेश्वर संगिनि\n\n*1. हर हर्षोत्करी नर्तिनि\n2. शारदेश्वरी षोडशी\n3. साधक मानस शोधिनि\n4. सर्व सौभाग्य प्रसादिनि\n5. गुह गजमुख जननि दायिनि\n6. एकानेक विभागिनि\n7. हिमगिरि नन्दिनि लासिनि\n8. सर्व चराचर सर्जिनि\n\n*1. सर्व भावमय वारिणि\n2. सर्व जगत्रय साक्षिणि\n3. निखिलाधीश्वरी योगिनि\n4. एलागन्ध सुकेशिनि\n5. चिन्मय सुन्दर रूपिणि\n6. परमानन्द तरंगिनि\n7. क्षान्ति महागुण वर्षिणि\n8. कान्ति वराभय दायिनि\n\n*1. सद्गति सन्मति दायिनि\n2. भवतारिणि करुणेश्वरी\n3. त्रिपुरे सुन्दरी मोहिनि\n4. ब्रह्माण्डोदर धारिणि\n5. प्रेमानन्द प्रवर्षिणि\n6. सर्व चराचर पालिनि\n7. भुवन चतुर्दश प्रसविनि\n8. नाना लीला कारिणि\n\n*1. विविध विभूति विधारिणि\n2. ज्ञान लोक प्रदायिनि\n3. विश्व क्रीड़ा कौतुकी\n4. विश्वाधिष्ठित चिन्मयि\n5. मन्दस्मित स्मर हरिणि\n6. भक्तानुग्रह कारिणि\n7. योग भोग वरदायिनि\n8. शान्ति सुधा निस्यन्दिनि\n\n*1. रम्य कान्ति चिर धारिणि\n2. समस्त सुगुण भूषणि\n3. समाधि चिर चिति दायिनि\n4. वीर्य बल भय कारिणि\n5. तापत्रय भय हारिणि\n6. सर्वोत्तुङ्ग सुवासिनि\n7. प्रसन्न वरदे भैरवि\n8. हवन जप अर्चन साधिनि\n\n*1. चण्डासुर खल घातिनि\n2. सकल देव जय साधिनि\n3. दुष्ट मुण्ड वध कारिणि\n4. चामुण्डेश्वरी दर्पिणि\n5. महिषदर्प विनाशिनि\n6. महेश्वर सुख वर्धिनि\n7. महिषासुर खल मर्दिनि\n8. त्रिगुण त्रिलोक त्रिरूपिणि\n\n*1. निर्गुण सगुण विचित्रिणि\n2. करित ध्यानानन्दिनि\n3. भ्रान्ति रोग विषहारिणि\n4. कान्ति योग सुख दायिनि\n5. वीर नरेन्द्र प्रहर्षिणि\n6. समस्त लोकोद्धारिणि\n7. रामकृष्ण नव रूपिणि\n8. धर्म ग्लानि विनाशिनि\n\n*1. धर्म स्थापना कारिणि\n2. रम्य सहज पथ दर्शिनि\n3. मातृ भाव मुख शोधिनि\n4. निर्मल भक्तोत्कर्षिणि\n5. दिव्य अद्भुत चरितार्थिनि\n6. रामकृष्ण सह धर्मिणि\n7. जयरामाख्य सुवातिनि\n8. मृगकेसरी वर वाहिनि\n\n*1. दुर्गा हिमाचल नन्दिनि\n2. नरेन्द्र हृदय निवासिनि\n3. दर्पण चित्त विभासिनि\n4. चेतो दर्पण काशिनि\n5. नव नव रूप सुदर्शिनि\n6. लोकोत्तर कृति दर्शिनि\n7. सुन्दर रूप विकासिनि\n8. दिव्य गुणाकर धारिणि\n\n*1. दुर्बल सबल सुकारिणि\n2. दुःख दैन्य भय नाशिनि\n3. सर्व भूत हित साधिनि\n4. समस्त लोक अभय कारिणि\n5. दुर्गति नाशिनि दुर्गे\n6. नारायणि जग दध्ये\n7. जय जय जय जग दध्ये\n8. नारायणि जय दुर्गे त्वं मे ब्रह्म सनातनि शारदा ईश्वरी सुभगे",
@@ -815,7 +906,7 @@
         "number": 46,
         "title": "Ananta Rupini Ananta Gunavati",
         "firstLine": "ananta rupini ananta gunavati ananta namni girije ma",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "1. ananta rupini ananta gunavati ananta namni girije ma\nshiva hrinmohini vishva vilasini ramakrishna jaya dayini ma\n\n2. jagajjanani triloka palini vishva suvasini shubhade ma durgati nashini sanmati dayini bhoga moksha sukha karini ma\n\n3. parame parvati sundari bhagavati\ndurge bhamati tvam me ma prasida matar nagendra nandini chira sukha dayini jaya de ma",
             "hi": "1. अनन्त रूपिणी अनन्त गुणवती अनन्त नाम्नि गिरिजे मा\nशिव हृन्मोहिनी विश्व विलासिनी रामकृष्ण जय दायिनी मा\n\n2. जगज्जननी त्रिलोक पालिनी विश्व सुवासिनी शुभदे मा दुर्गति नाशिनी सन्मति दायिनी भोग मोक्ष सुख कारिणी मा\n\n3. परमे पार्वती सुन्दरी भगवती\nदुर्गे भामति त्वं मे मा प्रसिद मातर नागेन्द्र नन्दिनी चिर सुख दायिनी जय दे मा",
@@ -832,7 +923,7 @@
         "number": 47,
         "title": "Ambaa Bhavaani Shaarade",
         "firstLine": "Ambaa bhavaani shaarade Jagadambaa bhavaani shaarade",
-        "category": "general",
+        "category": "sharada",
         "lyrics": {
             "en": "Ambaa bhavaani shaarade, Jagadambaa bhavaani shaarade\nBhaktajana kalpavalli, Mukti pradaayini\nSaccidaanandinii, satyaswarupini\nAjnaana naashini, vijnaanadaayini\nAkhilaamda janani, aanandarupini",
             "hi": "अम्बा भवानी शारदे, जगदम्बा भवानी शारदे\nभक्तजन कल्पवल्ली, मुक्ति प्रदायिनी\nसच्चिदानन्दिनी, सत्यस्वरूपिणी\nअज्ञान नाशिनी, विज्ञानदायिनी\nअखिलांद जननी, आनंदरूपिणी",
@@ -849,7 +940,7 @@
         "number": 48,
         "title": "Durga Bhavaani Maa Jaya Jaya Shaarada Maa",
         "firstLine": "Durga bhavaani maa Jaya jaya shaarada maa Kaali kapaalni maa,",
-        "category": "general",
+        "category": "sharada",
         "lyrics": {
             "en": "Durga bhavaani maa Jaya jaya shaarada maa Kaali kapaalni maa,\nJaya jaya shaarada maa Parama shivaani maa, Jaya jaya shaarada maa Jagadoddhaarini maa, Jaya jaya shaarada maa Vishwa janani maa,\nJaya jaya shaarada maa Patita paavani maa, Jaya jaya shaarada maa",
             "hi": "दुर्गा भवानी मा जय जय शारदा मा काली कपालनी मा,\nजय जय शारदा मा परम शिवानी मा, जय जय शारदा मा जगदोद्धारिणी मा, जय जय शारदा मा विश्व जननी मा,\nजय जय शारदा मा पतित पावनी मा, जय जय शारदा मा",
@@ -866,7 +957,7 @@
         "number": 49,
         "title": "Sadanondomoyi Kali Mahakaler Mon Mohini",
         "firstLine": "Sadanondomoyi Kali Mahakaler mon mohini",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Sadanondomoyi Kali Mahakaler mon mohini\nApni nachho apni gao Ma Apni dao Ma karatali.\n\nAdibhuta sonatoni Shunyo rupa shashi bhali\nBrahmando chhilo na jokhon Mundo mala kothay peli.\n\nSobe matro tumi jontri Amra tomar tontre choli\nJemni nachao temni nachi Ma, Jemni bolao temni boli.\n\nAshanto Kamalakanto Diye bole Ma galagali Sarvo nashi dhore ashi, Dharmadharma duto kheli.",
             "hi": "सदनन्दोमयी काली महाकालेर मन मोहिनी\nअपनी नाचो अपनी गाओ माँ अपनी दाओ माँ करतालि।\n\nअदिभूत सोनातोनी शून्य रूप शशि भली\nब्रह्मांडो छिलो ना जब मुण्डो माला कहाँ पेली।\n\nसबे मात्रो तुमि जन्त्री अम्रा तुम्हार तंत्रे चली\nजेमनी नचाओ तेमनी नाची माँ, जेमनी बोलाओ तेमनी बोलि।\n\nअशान्त कमलकान्तो दीये बोले माँ गलागली सर्वो नाशी धरे आशी, धर्मधर्म दुतो खेली।",
@@ -883,7 +974,7 @@
         "number": 50,
         "title": "Sakali Tomar Ichha",
         "firstLine": "Sakali tomar ichha, ichhamayi Tara tumi",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Sakali tomar ichha, ichhamayi Tara tumi\nTomar karma tumi koro Ma, loke bole kori ami.\n\nPanke baddha koro kori, pangure longhao giri\nKare dao Ma Brahmapada, kare koro adhogami.\n\nAmi jantra tumi jantri, ami ghor tumi ghorani Ami ratha tumi rathi, jemon chalao temni choli.",
             "hi": "सकली तोमार इच्छा, इच्छामयी तारा तुमि\nतोमार कर्म तुमि करो मा, लोके बोले करी आमी।\n\nपांके बद्ध करो करि, पांगुरे लंघाओ गिरि\nकारे दाओ मा ब्रह्मपद, कारे करो अधोगामी।\n\nआमि यंत्र तुमि यंत्री, आमि घर तुमि घरानी आमि रथ तुमि रथि, जेमन चलाओ तेमनि चलि।",
@@ -900,7 +991,7 @@
         "number": 51,
         "title": "Shiba Samge Sada Ramge",
         "firstLine": "Shiba samge sada ramge Ananda magana",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Shiba samge sada ramge Ananda magana,\nSudha pane dhala dhala Dhale kintu pode na!!\nBiparita ratatura Padabhare kampe dhara, Ubhaye pagaler para Lajja bhaya ar manena!",
             "hi": "शिव संग सदा रामगे आनंद मगना,\nसुधा पाने ढला ढला ढले किन्तु पोदे ना!!\nविपरीत रातातुर पादभारें कम्पे धरा, उभये पागलरे पार लज्जा भय अर मनें!",
@@ -917,7 +1008,7 @@
         "number": 52,
         "title": "Sujnanadayike Suvimala Charite",
         "firstLine": "Sujnanadayike suvimala charite Maa saradamani pritidate",
-        "category": "general",
+        "category": "sharada",
         "lyrics": {
             "en": "Sujnanadayike suvimala charite Maa saradamani pritidate Jnanadate, shantidate, shaktidate Bhaktidate, muktidate, vatsalyadate.",
             "hi": "सुज्ञानदायिके सुविमल चरिते माँ सारदामणि प्रीतिदाते ज्ञानदाते, शान्तिदाते, शक्तिदाते भक्तिदाते, मुक्तिदाते, वात्सल्यदाते।",
@@ -934,7 +1025,7 @@
         "number": 53,
         "title": "Jaya Jaya Shakti Sarada Maa",
         "firstLine": "Jaya jaya Om shakti sarada maa",
-        "category": "general",
+        "category": "sharada",
         "lyrics": {
             "en": "Jaya jaya Om shakti sarada maa\nJaya jaya shiva shakti sarada maa\nJaya narayani sarada maa\nShankari parvati sarada maa",
             "hi": "जय जय ओम शक्ति शारदा माँ\nजय जय शिव शक्ति शारदा माँ\nजय नारायणी शारदा माँ\nशंकरि पार्वती शारदा माँ",
@@ -951,7 +1042,7 @@
         "number": 54,
         "title": "Om Shakti Om Shakti Om Shakti Om",
         "firstLine": "Om shakti om shakti om shakti om Adishakti mahashakti parashakti om",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Om shakti om shakti om shakti om Adishakti mahashakti parashakti om",
             "hi": "ॐ शक्ति ॐ शक्ति ॐ शक्ति ॐ आदि शक्ति महाशक्ति पराशक्ति ॐ",
@@ -968,7 +1059,7 @@
         "number": 55,
         "title": "Devi Dukha Harini Tarini",
         "firstLine": "Devi dukha harini tarini Mahesha hridaya vasini",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Devi dukha harini tarini Mahesha hridaya vasini Jay jay jagavandini Ma.\n\nSurasuranara sobar pujita Agama nigame shrijanakarini Jnanada varada sukhada mokshada\nTumi Ma annada jaya parayani.\n\nBhairavi bhavani nagendranandini Naganagapasha ghoraninadini Jnanendra upendra yogendradi koto\nCharane poriya divasa rajani.\n\nGurumukhe shuni tumi Ma Bhavani\nAdyashakti Shive sobar janani Ma Ma bole dake Ma tomare Tai Ma tomare Ma boliye jani.",
             "hi": "देवी दुःख हारिणी तारिणी महेश हृदय वासिनी जय जय जगवंदिनी माँ।\n\nसुरसुरनारा सबार पूजिता आगम निगमे सृजनाकारिणी ज्ञानदा वरदा सुखदा मोक्षदा\nतुमि माँ अन्नदा जय परायणी।\n\nभैरवी भवानी नागेन्द्रनंदिनी नागनागपाश घोरनिनादिनी ज्ञानेंद्र उपेंद्र योगेंद्रदि कोतो\nचरने पोड़िया दिवस रजनी।\n\nगुरुमुखे सुनी तुमि माँ भवानी\nआद्यशक्ति शिवे सबार जननी माँ माँ बोले दाके माँ तुम्हारे, ताई माँ तुम्हारे माँ बोलिये जानी।",
@@ -985,7 +1076,7 @@
         "number": 56,
         "title": "Anandam Shudhu Anandam",
         "firstLine": "Anandam shudhu anandam Anandam shudhu anandam",
-        "category": "general",
+        "category": "sharada",
         "lyrics": {
             "en": "Anandam shudhu anandam Anandam shudhu anandam\n\n1. Jekhane mayer nam\n2. shekhane ananda-dham Anandam shudhu anandam\n\n2. Jekhane mayer giti shekhane prem o priti Anandam shudhu anandam anandam shudhu anandam\n\n3. Jekhane mayer kotha\n4. shekhane nei ko byatha Anandam shudhu anandam\n\n4. Jekhane mayer bodh\n5. shekhane nei ko krodh Anandam shudhu anandam\n\n5. Jekhane matrilok\n6. shekhane nei ko sok Anandam shudhu anandam\n\n6. Jekhane mayer bhav\n7. shekhane amrita labh Anandam shudhu anandam\n\n7. Jekhane sharada rupa\n8. ma biraje aparupa Anandam shudhu anandam\n\n8. Boshiya mayera kole\n9. daki ma ke ma ma bole Anandam shudhu anandam\n\n9. Jaya ma sharada bole\n10. jetha dake sabe mile Anandam shudhu anandam\n\n10. Bhajo re mayer nam japo re mayer nam Anandam shudhu anandam Jekhane mayer nam shekhane anando dham Anandam shudhu anandam\nanandam shudhu anandam",
             "hi": "आनन्दम् शुद्धु आनन्दम् आनन्दम् शुद्धु आनन्दम्\n\n1. जहाँ माँ का नाम है\n2. वहाँ आनंद-धाम आनन्दम् शुद्धु आनन्दम्\n\n2. जहाँ माँ की गीति है वहाँ प्रेम और प्रीति आनन्दम् शुद्धु आनन्दम् आनन्दम् शुद्धु आनन्दम्\n\n3. जहाँ माँ की कथा है\n4. वहाँ कोई व्यथा नहीं आनन्दम् शुद्धु आनन्दम्\n\n4. जहाँ माँ का बोध है\n5. वहाँ कोई क्रोध नहीं आनन्दम् शुद्धु आनन्दम्\n\n5. जहाँ मातृलोक है\n6. वहाँ कोई शोक नहीं आनन्दम् शुद्धु आनन्दम्\n\n6. जहाँ माँ का भाव है\n7. वहाँ अमृत लाभ आनन्दम् शुद्धु आनन्दम्\n\n7. जहाँ शारदा रूप है\n8. माँ विराजे अपूरूपा आनन्दम् शुद्धु आनन्दम्\n\n8. माँ को गोद में बैठा\n9. बुलाओ माँ को माँ माँ बोलो आनन्दम् शुद्धु आनन्दम्\n\n9. जय माँ शारदा बोलो\n10. जहाँ सब मिलकर पुकारते हैं आनन्दम् शुद्धु आनन्दम्\n\n10. भजो रे माँ का नाम जपो रे माँ का नाम आनन्दम् शुद्धु आनन्दम् जहाँ माँ का नाम वहाँ आनंद-धाम आनन्दम् शुद्धु आनन्दम्\nआनन्दम् शुद्धु आनन्दम्",
@@ -1002,7 +1093,7 @@
         "number": 57,
         "title": "Tava Krupa Barase",
         "firstLine": "Tava krupa barase, bhava bhrama vinase",
-        "category": "general",
+        "category": "sharada",
         "lyrics": {
             "en": "1\tTava krupa barase, bhava bhrama vinase\nSive -Sri sarade binati ye mori!!\n2. Indu -suvimale, vandita padatale Santata prema-ki mandakini-he!!\n3. Tyaga -vibhushite, tyagi-kulambike Yogindrarcite , yoga-pradate!!\n4. Tava Sri carana hi, hamare sarana, Tribhuvana -pavani, laho pranam!!",
             "hi": "1\tतव कृपा बरसे, भवा भ्रम विनसे\nशिवे - श्री शारदे बिनति ये मोरी!!\n2. इंदु -सुविमले, वन्दित पदतले सतत प्रेम-की मन्दाकिनी-हे!!\n3. त्याग -विभूषिते, त्यागी-कुलाम्बिके योगिंद्रार्चिते , योग-प्रदाते!!\n4. तव श्री चरणहि, हमारे शरण, त्रिभुवन-पावनी, लहो प्रणाम!!",
@@ -1019,7 +1110,7 @@
         "number": 58,
         "title": "Eki Shuni Taba Sharater Mukhe",
         "firstLine": "Eki shuni taba sharater mukhe Tumi naki dasha bhuja",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "1. Eki shuni taba sharater mukhe Tumi naki dasha bhuja\nDurga pratima gadiya amara kori ma tomari puja!\n\n2. Tarak to dekhi bole dilo soja Dashabhuja rupe mathe taba puja Mahashtami te shatadala sathe Pujilo rakhala raja!!\n\n3. Amarato dekhi tumi kamgalini Aphurana dina kutirabasini Asharana dina janera janani Sharada mani di puja!!\n\n4. Jayanta durga bole ghoshe bireshwar Maha humkare kampaye ambara\nKi dekhiya Shri Ramakrishna jogeshwar Korilo tomari puja!!",
             "hi": "1. एकी शुनि तब शरतेर मुखे तुमि नकी दश भुजा\nदुर्गा प्रतिमा गढ़िया अमरा करो मा तुम्हारी पूजा!\n\n2. तारक तो देखि बोले दिलो सोजा दशभुजा रूपे माथे तब पूजा महाष्टमी ते शतदल साथे पूजिलो रखाला राजा!!\n\n3. अमरतो देखि तुमि कामगालिनी अफुराना दिन कुटिरवासिनी आशरणा दिन जनेरा जननी शारदा मणि दी पूजा!!\n\n4. जयन्त दुर्गा बोले घोषे वीरश्वर महा हुंकारे कंपाये अंबरा\nकि देखिय श्री रामकृष्ण योगेश्वर करिलो तुम्हारी पूजा!!",
@@ -1036,7 +1127,7 @@
         "number": 59,
         "title": "Jaya Durge Durgati Pariharini",
         "firstLine": "jaya durge durgati pariharini shumbha vidarini mata bhavani",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "jaya durge durgati pariharini shumbha vidarini mata bhavani\n\n1. adishakti para brahma svarupini jaga janani chaturveda bakhani\n2. brahma shiva hari archana kinho dhyana dharata suranara muni jnani\n3. ashtabhuja kara khadga viraje simhasavara sakalavaradani\n4. brahmananda charana me aye bhavabhaya nasha karo maharani",
             "hi": "जय दुर्गे दुर्गति परिहारिणी शुम्भ विदारिणी माता भवानी\n\n1. आदिशक्ति परा ब्रह्म स्वरूपिणी जग जननी चतुर्वेदा बखानी\n2. ब्रह्मा शिव हरि अर्चना किन्हो ध्यान धरता सुरनार मुनि ज्ञानी\n3. अष्टभुजा करा खड्ग विराजे सिंहसवरा सकल वरदानी\n4. ब्रह्मानंद चरण मे आए भवभय नाश करो महाराणी",
@@ -1053,7 +1144,7 @@
         "number": 60,
         "title": "Bhajore Shyaamaapada Pamkaja Raaja",
         "firstLine": "bhajore shyaamaapada pamkaja raaja, pio pio pio madhu haye matovaaraa!!",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "bhajore shyaamaapada pamkaja raaja, pio pio pio madhu haye matovaaraa!! maa maa maa jhamkaare\nmana madhukara, jharuk avirala akhamda amritadhaara; aharnishi animeshe maara mukha nehaaro,\ntaaraa taaraa taaraa bole hoye jaao haaraa!!",
             "hi": "भजोरे श्यामापद पंकज राजा, पियो पियो पियो मधु हये मतोवारा!! माँ माँ माँ झंकारे\nमन मधुकर, झरुक अविरल अखण्ड अमृतधारा; अहर्निशि अनिमेषे मार मुख नेहारो,\nतारा तारा तारा बोले होये जाओ हारा!!",
@@ -1070,7 +1161,7 @@
         "number": 61,
         "title": "Lambita Gale Mundamaalaa",
         "firstLine": "lambita gale mundamaalaa dambhitaa dhani mukhakaraala, stambhitapade mahaakaala kampita bhaye medini!!",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "lambita gale mundamaalaa dambhitaa dhani mukhakaraala, stambhitapade mahaakaala kampita bhaye medini!!\n2\tdigbasanaa candrabhaala elaaye padeche keshajaala, shobhita asi kare kapaala, prakharaa shikhari nandini!!\n3\tcaaridike koto dikapaala, bhairavi shivaa taala betaala, ati aparupa rupa vishaala, kaali kalushanaashini!!",
             "hi": "लम्बित गले मुण्डमाला दम्भिता धनि मुखकराल, स्तम्भितपदे महाकाल कम्पित भये मेदिनी!!\n2\tदिग्बसना चन्द्रभाल एलाये पड़ेचे केशजाल, शोभित असि करे कपाल, प्रखरा शिखरी नन्दिनी!!\n3\tचारिदिके कोतो दिकपाल, भैरवि शिवा ताल बेताल, अति अपुरूप रूप विशाल, काली कलुषनाशिनी!!",
@@ -1087,7 +1178,7 @@
         "number": 62,
         "title": "Kaali Maheshwari Shamkari Paarvati",
         "firstLine": "kaali maheshwari shamkari paarvati sharanam me tava caranayugam",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "1. kaali maheshwari shamkari paarvati sharanam me tava caranayugam!! jaya jaya durgaa jaya jaya maataa jaya jaya jaya janani jagadambaa!!\n\n2. durgati naashini durge jaya jaya, kaalavinaashini kaali jaya jaya, umaa ramaa brahmaani jaya jaya, raadhaa sitaarupini jaya jaya!!\n\n3. vaani vinaapaani jaya jaya, vaagishwari jagadishwari jaya jaya, vidyaarupini ambe jaya jaya, vishwavimohini varade jaya jaya!!",
             "hi": "1. काली महेश्वरी शमकरी पार्वती शरणं मे तव चरणयुगम्!! जय जय दुर्गा जय जय माता जय जय जय जननी जगदम्बा!!\n\n2. दुर्गतिनाशिनी दुर्गे जय जय, कालविनाशिनी काली जय जय, उमा रमा ब्रह्माणी जय जय, राधा सीतारूपिणी जय जय!!\n\n3. वाणी वीणापाणि जय जय, वागीश्वरी जगदीश्वरी जय जय, विद्यारूपिणी अम्बे जय जय, विश्वविमोहिनी वरदे जय जय!!",
@@ -1104,7 +1195,7 @@
         "number": 63,
         "title": "Jaya Jaya Janani Jaya Sri Sharadamani",
         "firstLine": "Jaya jaya janani jaya Sri Sharadamani karuna-rupini jaya ma (Jaya jaya)",
-        "category": "general",
+        "category": "sharada",
         "lyrics": {
             "en": "Jaya jaya janani jaya Sri Sharadamani karuna-rupini jaya ma (Jaya jaya)\nAdya Shakti parama prakriti, asharana gati tumi ma Adya Shakti parama prakriti asharana gati tumi ma\n\nJaya jaga-tarini bhava-bhaya-harini durgati nivarini ma Siddhi-pradayini mukti vidhayini, jiva-gati dayini ma Siddhi-pradayini mukti vidhayini jiva-gati dayini ma\n\nNikhila jagata-mata jiva-kalyana-rata lajja-patavrita ma Durjan sajjan santan aganan, palana-karini ma\nDurjan sajjan santan aganan palana-karini ma\n\nJaya Sharadeshwari Sita Radha, mata Meri ,Yashodhara, Vishnupriya ma Yuga-deva-vandita sura-nara-sevita, namo narayani ma\nYuga-deva-vandita sura-nara-sevita namo narayani ma (Jaya jaya)",
             "hi": "जय जय जननी जय श्री शारदामणि करुणा-रूपिणी जय मा (जय जय)\nआद्य शक्ति परम प्रकृति, अशरण गति तुमि मा आद्य शक्ति परम प्रकृति अशरण गति तुमि मा\n\nजय जगत-तारिणी भव-भय-हरिणी दुर्गति निवारिणी मा सिद्धि-प्रदायिनी मुक्ति विधायिनी, जीव-गति दायिनी मा सिद्धि-प्रदायिनी मुक्ति विधायिनी जीव-गति दायिनी मा\n\nनिखिल जगत-माता जीव-कल्याण-रता लज्जा-पटावृता मा दुर्जन सज्जन सन्तान अगणन, पालन-कारिणी मा\nदुर्जन सज्जन सन्तान अगणन पालन-कारिणी मा\n\nजय शारदेश्वरी सीता राधा, माता मेरी, यशोधरा, विष्णुप्रिया मा युग-देव-वन्दिता सुर-नर-सेविता, नमो नारायणी मा\nयुग-देव-वन्दिता सुर-नर-सेविता नमो नारायणी मा (जय जय)",
@@ -1121,7 +1212,7 @@
         "number": 64,
         "title": "Ambika Jagadambika Sarada Jagadambika",
         "firstLine": "Ambika jagadambika Sarada jagadambika",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Ambika jagadambika Sarada jagadambika\n\n1. Mahishasura mardini Ambika jagadambika Chanda munda mardini Ambika jagadambika Shumbhasura mardini Ambika jagadambika Nishumbha samharini Ambika jagadambika\n\n2. Ishwari jagadishwari Ambika jagadambika Ishwari maheshwari Ambika jagadambika Ishwari parameshwari Ambika jagadambika Ishwari vishweshwari Ambika jagadambika\n\n3. Mahadevi parvati Ambika jagadambika Mahamaya mohini Ambika jagadambika Mahakali savitri Ambika jagadambika Mahadurga gayatri Ambika jagadambika\n\n4. Jayarambati vasini Ambika jagadambika Ramakrishna sangini Ambika jagadambika Narendra praharshini Ambika jagadambika Jaganmatri-rupini Ambika jagadambika",
             "hi": "अम्बिका जगदम्बिका सारदा जगदम्बिका\n\n1. महिषासुर मर्दिनी अम्बिका जगदम्बिका चण्ड मुण्ड मर्दिनी अम्बिका जगदम्बिका शुम्भासुर मर्दिनी अम्बिका जगदम्बिका निशुम्भ संहारिणी अम्बिका जगदम्बिका\n\n2. ईश्वरी जगदीश्वरी अम्बिका जगदम्बिका ईश्वरी महेश्वरी अम्बिका जगदम्बिका ईश्वरी परमेश्वरी अम्बिका जगदम्बिका ईश्वरी विश्वेश्वरी अम्बिका जगदम्बिका\n\n3. महादेवी पार्वती अम्बिका जगदम्बिका महामाया मोहिनी अम्बिका जगदम्बिका महाकाली सावित्री अम्बिका जगदम्बिका महादुर्गा गायत्री अम्बिका जगदम्बिका\n\n4. जयरामबाटी वासिनी अम्बिका जगदम्बिका रामकृष्ण संगिनी अम्बिका जगदम्बिका नरेन्द्र प्रहर्षिणी अम्बिका जगदम्बिका जगन्मातृ रूपिणी अम्बिका जगदम्बिका",
@@ -1138,7 +1229,7 @@
         "number": 65,
         "title": "Ayi Giri Nandini (Mahishasura Mardini Stotram)",
         "firstLine": "Ayi giri nandini nandita medini visva vinodini nandasute",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Ayi giri nandini nandita medini visva vinodini nandasute Giri vara vindhya sirodhi nivasini vishnu vilasini jishnunute;\nBhagavati he sitikantha kutumbini bhuri kutumbini bhurikrite Jaya jaya he mahishasura mardini ramyaka pardini sailasute.\n\nSuravara varshini durdhara dharsini durmukha marshini harsharate\nTribhuvana Poshini sankara toshini kilbisha moshini ghosharate; Danuja nirosini ditisuta roshini durmada soshini sindhusute\nJaya jaya he mahishasura mardini ramyaka pardini sailasute.\n\nAyi jagadamba madamba kadamba vana priya vasini hasarate Sikhara siromani tunga Himalaya sringa nijalaya madhyagate; Madhu-madhure madhu-kaitabha ganjini kaitabha bhanjini rasarate\nJaya jaya he mahishasura mardini ramyaka pardini sailasute.\n\nAyi saranagata vairi vadhuvara viravarabhaya dayakare Tribhuvana mastaka sula virodhi sirodhi kritamala sulakare Dumidumi tamara dundubhi nada maha mukharikrita tigmakare Jaya jaya he mahishasura mardini ramyaka pardini sailasute.\n\nTavavimalendu kulam vadanendu malam sakalam nanu kulayate Kimu puruhuta pulindumukhi sumukhi bhirasau vimukhikriyate; Mama tu matam siva namadhane bhavati kripaya kimuta kriyate Jaya jaya he mahishasura mardini ramyaka pardini sailasute.\n\nAyi mayi dina dayalu taya kripayaiva tvaya bhavita vyamume Ayi jagato janani kripayasi yathasi tatha numita sirate;\nYadu chita matra bhava tyurari kuru ta-duru tapa mapa kurute Jaya jaya he mahishasura mardini ramyaka pardini sailasute.",
             "hi": "अयि गिरि नन्दिनि नन्दित मेदिनी विश्व विनोदिनी नन्दसुते गिरिवर विन्ध्य शिरोधि निवासिनि विष्णु विलासिनि जिष्णुनुते;\nभगवति हे शितिकण्ठ कुटुम्बिनि भूरि कुटुम्बिनि भूरिकृते जय जय हे महिषासुर मर्दिनि रम्यकपर्दिनि शैलसुते।\n\nसुरवर वर्षिणि दुर्धर धर्षिणि दुर्मुख मर्षिणि हर्षरते\nत्रिभुवन पोषिणि शङ्कर तोषिणि किल्बिष मोषिणि घोषरते; दनुज निरोषिणि दितिसुत रोषिणि दुर्मद शोषिणि सिन्धुसुते\nजय जय हे महिषासुर मर्दिनि रम्यकपर्दिनि शैलसुते।\n\nअयि जगदम्ब मदम्ब कदम्ब वनप्रिय वासिनि हासरते शिखर शिरोमणि तुङ्ग हिमालय शृङ्ग निजालय मध्यगते; मधु-मधुरे मधु-कैटभ गञ्जिनि कैटभ भञ्जिनि रासरते\nजय जय हे महिषासुर मर्दिनि रम्यकपर्दिनि शैलसुते।\n\nअयि शरणागत वैरि वधूवर वीरवराभय दायकरे त्रिभुवन मस्तक शूल विरोधि शिरोधि कृतामल शूलकरे डुमिडुमि तामर दुन्दुभि नाद महा मुखरीकृत तिग्मकरे जय जय हे महिषासुर मर्दिनि रम्यकपर्दिनि शैलसुते।\n\nतव विमलेन्दु कुलं वदनेन्दु मलम् सकलं ननु कुलयते किमु पुरुहूत पुलिन्दुमुखि सुमुखि भिरसौ विमुखिक्रियते; मम तु मतं शिव नामधने भवति कृपया किमुत क्रियते जय जय हे महिषासुर मर्दिनि रम्यकपर्दिनि शैलसुते।\n\nअयि मयि दीन दयालु तया कृपयैव त्वया भवित व्यमुमे अयि जगतो जननि कृपयासि यथासि तथा नमित शिरते;\nयदुचित मात्र भवत्युररि कुरु तदुरु तापमपाकुरुते जय जय हे महिषासुर मर्दिनि रम्यकपर्दिनि शैलसुते।",
@@ -1155,7 +1246,7 @@
         "number": 66,
         "title": "Ya Devi Sarva-bhuteshu",
         "firstLine": "Ya Devi Sarva-bhuteshu Buddhi-rupena samsthita",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Ya Devi Sarva-bhuteshu Buddhi-rupena samsthita, Namas tasyai, namas tasyai, namas tasyai, namo namah.\n(Repeat)\nNidra Kshudha Chaya Shakti Trikshna Kshanti, Jati, Lajja, Shanti,\nShraddha, Kanti, Lakshmi Vritti Smriti, Daya, Tushti, Matri Bhranti",
             "hi": "या देवी सर्वभूतेषु बुद्धि-रूपेण संस्थिता, नमस्तस्यै, नमस्तस्यै, नमस्तस्यै, नमो नमः।\n(Repeat)\nनिद्रा क्षुधा छाया शक्ति तृष्णा क्षान्ति, जाति, लज्जा, शान्ति,\nश्रद्धा, कान्ति, लक्ष्मी वृत्ति स्मृति, दया, तुष्टि, मातृ भ्रान्ति",
@@ -1172,7 +1263,7 @@
         "number": 67,
         "title": "Tara Tarani Nama Jagame",
         "firstLine": "Tara tarani nama jagame tarayako",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Tara tarani nama jagame tarayako\nYa jagame japu mudha hare tapa tanako.\n\nAgama nigama veda Brahma vakhanata Sankataharani Mata hare papa janako.\n\nJoy joy dhyavata ichhaphala pavata Avata na yahi jagame punaragamana ko.\n\nTana taranga tuya ghata ghata virajata Aisi ari Mata kripa karana ko.",
             "hi": "तारा तरणि नाम जगमे तरायको\nया जगमे जपु मूढ़ हरे ताप तनको।\n\nआगम निगम वेद ब्रह्म वखानत संकटहरणि माता हरे पाप जनको।\n\nजय जय ध्यावत इच्छाफल पावत आवत न याहि जगमे पुनरागमन को।\n\nतन तरंग तुय घट घट विराजत ऐसी अरि माता कृपा करन को।",
@@ -1189,7 +1280,7 @@
         "number": 68,
         "title": "Jago Maa Kundalini",
         "firstLine": "Jago Maa kundalini nityananda-rupini",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "Jago Maa kundalini nityananda-rupini Muladhara kamalme supta bhujaga-rupini Adishakti mahashakti parashakti-rupini Saraswati mahalakshmi Mahamaya-rupini.",
             "hi": "जागो माँ कुण्डलिनी नित्यानन्द-रूपिणी मूलाधार कमल में सुप्त भुजग-रूपिणी आदिशक्ति महाशक्ति पराशक्ति-रूपिणी सरस्वती महालक्ष्मी महामाया-रूपिणी।",
@@ -1206,7 +1297,7 @@
         "number": 69,
         "title": "Bhavani Stuti",
         "firstLine": "Srutina magamye su veda gamajna Mahimno na jananti param tavamba",
-        "category": "general",
+        "category": "devi",
         "lyrics": {
             "en": "1\tSrutina magamye su veda gamajna Mahimno na jananti param tavamba; Stutim kartu micchami te tvam Bhavani ksama sveda-matra pramugdhah kilaham.\n\n2\tGurus tvam Siva stvam ca Sakti stvameva\nTvamevasi mata pita ca tvameva; Tvamevasi vidya tvamevasi bandhuh gatir me matir devi sarvam tvameva.\n\n3\tSaranye varenye su karunya murte Hiranyoda radyai raganye supunye; Bhavaranya bhitesca mam pahi bhadre Namaste namaste namaste Bhavani.",
             "hi": "1\tश्रुतिना मगम्ये सु वेद गमज्ञ महिम्नो न जानन्ति परं तवाम्ब; स्तुतिं कर्तु मिच्छामि ते त्वं भवानी क्षम स्वेदमात्र प्रमुग्धः किलाहम्।\n\n2\tगुरुस् त्वं शिव स्त्वं च शक्ति स्त्वमेव\nत्वमेवासि माता पिता च त्वमेव; त्वमेवासि विद्या त्वमेवासि बन्धुः गतिर् मे मतिर् देवि सर्वं त्वमेव।\n\n3\tशरण्ये वरेण्ये सु करुण्य मूर्ते हिरण्योद राद्यै रगण्ये सुपुण्ये; भवारण्य भीतेश्च मां पाहि भद्रे नमस्ते नमस्ते नमस्ते भवानी।",
@@ -1223,7 +1314,7 @@
         "number": 70,
         "title": "Ganaraja Gajanana",
         "firstLine": "Ganaraja gajanana gava ho",
-        "category": "general",
+        "category": "others",
         "lyrics": {
             "en": "1. Ganaraja gajanana gava ho!! Sindura chachita shunda virajita, Modaka hasta pahavo ho!!\n\n2. Vighna vinayaka buddhih prakashaka, To varadayaka dhyava ho!!\n\n3. Anandatmaja chintita sevita ha bhava sindhu tarava ho!!",
             "hi": "1. गणराज गजानन गावा हो!! सिन्दूर चचित शुण्ड विराजित, मोदक हस्त पहावो हो!!\n\n2. विघ्न विनायक बुद्धिः प्रकाशक, तो वरदायक ध्यावो हो!!\n\n3. आनन्दात्मज चिन्तित सेवित हा भव सिन्धु तरावो हो!!",
@@ -1236,11 +1327,11 @@
     },
     {
         "id": 103,
-        "slug": "hymn-103",
+        "slug": "dimiki-dimiki-dimi-dimiki-dimiki-dimi",
         "number": 103,
         "title": "Dimiki dimiki dimi dimiki dimiki dimi",
         "firstLine": "Dimiki dimiki dimi dimiki dimiki dimi Nache bholanath ! Nache bholanath ! Nache bholanath ! Nache bholanath !",
-        "category": "general",
+        "category": "shiva",
         "lyrics": {
             "en": "Dimiki dimiki dimi dimiki dimiki dimi Nache bholanath ! Nache bholanath ! Nache bholanath ! Nache bholanath !\n\nMridanga bole shiva shiva shiva om Damaru bole hara hara bom bom, Vina bole hari om hari om\nVina bole hari om hari om\n\nNache bholanath ! Nache bholanath ! Nache bholanath ! Nache bholanath ! Dimiki dimiki dimi dimiki dimiki dimi !",
             "hi": "डिमिकि डिमिकि डिमि डिमिकि डिमिकि डिमि नाचे भोलानाथ ! नाचे भोलानाथ ! नाचे भोलानाथ ! नाचे भोलानाथ !\n\nमृदंग बोले शिव शिव शिव ओम दमरू बोले हर हर बम बम, वीणा बोले हरि ओम हरि ओम\nवीणा बोले हरि ओम हरि ओम\n\nनाचे भोलानाथ ! नाचे भोलानाथ ! नाचे भोलानाथ ! नाचे भोलानाथ ! डिमिकि डिमिकि डिमि डिमिकि डिमिकि डिमि !",
@@ -1257,7 +1348,7 @@
         "number": 104,
         "title": "Shiva Shiva Shiva Shiva",
         "firstLine": "Shiva Shiva Shiva Shiva, Nama sumara nara.",
-        "category": "general",
+        "category": "shiva",
         "lyrics": {
             "en": "Shiva Shiva Shiva Shiva, Nama sumara nara.\nSakala manoratha purana kari.\n\nRavana nama liyo dridha manase, Sakala deva ajna shiradhari.\n\nNandigana jaba sumarana kino, Kalapasha tatkala nivari.\n\nUpamanyu muni kare tapasya, Dudhasamudra kiyo badabhari.\n\nBrahmananda yahi vara mange, Bhaktidana dije tripurari.",
             "hi": "शिव शिव शिव शिव, नाम सुमर नर।\nसकल मनोरथ पूरण करि।\n\nरावण नाम लियो दृढ़ मनसे, सकल देव आज्ञा शिरधारी।\n\nनन्दिगण जब सुमरण किनो, कालपाश तत्काल निवारी।\n\nउपमन्यु मुनि करे तपस्या, दुधसमुद्र कियो बड़भारी।\n\nब्रह्मानन्द यहि वर मांगे, भक्तिदान दिजे त्रिपुरारी।",
@@ -1270,11 +1361,11 @@
     },
     {
         "id": 105,
-        "slug": "hymn-105",
+        "slug": "Pannaga bhushana parama shiva",
         "number": 105,
         "title": "Pannaga bhushana parama shiva",
         "firstLine": "Pannaga bhushana parama shiva Parvati ramana sada shiva",
-        "category": "general",
+        "category": "shiva",
         "lyrics": {
             "en": "Pannaga bhushana parama shiva Parvati ramana sada shiva",
             "hi": "पन्नग भूषण परम शिव पार्वती रमण सदा शिव",
@@ -1287,11 +1378,14 @@
     },
     {
         "id": 106,
-        "slug": "hymn-106",
+        "slug": "Ishvara tum hai dayal",
         "number": 106,
         "title": "Ishvara tum hai dayal",
         "firstLine": "Ishvara tum hai dayal. Jagata pati pranata pala Vyapaka purana bishala, sata chita sukha dayi.",
-        "category": "general",
+        "category": [
+            "shiva",
+            "others"
+        ],
         "lyrics": {
             "en": "Ishvara tum hai dayal. Jagata pati pranata pala Vyapaka purana bishala, sata chita sukha dayi.\n\nSakala bhuvana janma karana, jivanake parama sharana Sharanagata tapa harana, nigamagama gayi.\n\nTeri mahima apara, koi nahi pave para Rishi muni gana kara vichara, anta para jayi.\n\nBrahma Shripati Ganesha, Narada Sarada Suresha Dhyavata maname hamesha, brahmananda payi.",
             "hi": "ईश्वर तुम हैं दयाल। जगत पति प्रणत पाल व्यापक पुराण विशाल, सत चित सुख दायी।\n\nसकल भुवन जन्म कारण, जीवन के परम शरण शरणागत ताप हरण, निगमागम गायी।\n\nतेरी महिमा अपार, कोई नहीं पावे पार ऋषि मुनि गण कर विचार, अंत पार जायी।\n\nब्रह्मा श्रीपति गणेश, नारद शारदा सुरेश ध्यावत मानमे हमेशा, ब्रह्मानंद पायी।",

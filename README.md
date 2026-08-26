@@ -342,3 +342,14 @@ Keep these in mind for later - do NOT implement now:
 BEGIN NOW WITH STEP 1. 
 Do not proceed to Step 2 until I confirm Step 1 is complete.
 ======================
+
+
+What you created is a subdomain.
+
+Breaking down hymns.rkmireland.org:
+
+- org — the top-level domain
+- rkmireland — your domain (the bit you actually own and pay for)
+- hymns — the subdomain, a label you added in front
+
+You own rkmireland.org, and that ownership lets you create as many subdomains under it as you like — hymns., shop., blog. — for free, just by adding DNS records at GoDaddy. No extra purchase needed. www is itself just a subdomain, which is why www.rkmireland.org and hymns.rkmireland.org are siblings, not parent and child.
